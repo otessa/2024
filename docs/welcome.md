@@ -1,4 +1,4 @@
-# Welcome and Acknowledgements {-}
+# Welcome and Acknowledgements 
 
 > Monitor this site for abstracts and any changes to this program.</span> 
 
