@@ -16,3 +16,5 @@
     - [Subtopic Two](topic-three-subtopic-two.md)
 
 <span class='badge'> Tue May 30th 11:59pm PDT</span>
+
+<span class='badge-date'> Tue May 30th 11:59pm PDT</span>
