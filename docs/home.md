@@ -15,4 +15,4 @@
     - [Subtopic One](topic-three-subtopic-one.md)
     - [Subtopic Two](topic-three-subtopic-two.md)
 
-<div class="video-container-4by3"><div class="video-container-16by9">This is a test.</div>
+<span class='badge'> Tue May 30th 11:59pm PDT</span>
