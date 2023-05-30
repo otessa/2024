@@ -73,7 +73,7 @@
 
 .markdown-section .badge {
   color: #fff;
-  background-color: #6c757d;
+  background-color: #fde725;
   display: inline-block;
   padding: .25em .4em .25em .4em;
   font-family: -apple-system, "Segoe UI", "Helvetica Neue", sans-serif;
@@ -91,7 +91,7 @@
 
 .markdown-section .badge-spkr {
   color: #fff;
-  background-color: #0d5e1f;
+  background-color: #5ec962;
   display: inline-block;
   padding: .25em .4em .25em .4em;
   font-family: -apple-system, "Segoe UI", "Helvetica Neue", sans-serif;
@@ -109,7 +109,7 @@
 
 markdown-section .badge-soc {
   color: #fff;
-  background-color: #d1f104;
+  background-color: #3b528b;
   display: inline-block;
   padding: .25em .4em .25em .4em;
   font-size: 75%;
@@ -127,7 +127,7 @@ markdown-section .badge-soc {
 
 markdown-section .badge-sesh {
   color: #fff;
-  background-color: #812579;
+  background-color: #440154;
   display: inline-block;
   padding: .25em .4em .25em .4em;
   font-size: 75%;
@@ -144,7 +144,7 @@ markdown-section .badge-sesh {
 
 .markdown-section .badge-key {
   color: #fff;
-  background-color: #0482f1;
+  background-color: #21918c;
   display: inline-block;
   padding: .25em .4em .25em .4em;
   font-size: 75%;
