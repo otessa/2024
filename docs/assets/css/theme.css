@@ -89,7 +89,60 @@
   text-decoration: none;
 }
 
-.markdown-section .badge-date {
+.markdown-section .badge-spkr {
+  color: #fff;
+  background-color: #0d5e1f;
+  display: inline-block;
+  padding: .25em .4em .25em .4em;
+  font-family: -apple-system, "Segoe UI", "Helvetica Neue", sans-serif;
+  font-size: 75%;
+  font-weight: 700;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  margin-top: -0.4em;
+  border-radius: .25rem;
+  transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+  text-decoration: none;
+}
+
+markdown-section .badge-soc {
+  color: #fff;
+  background-color: #d1f104;
+  display: inline-block;
+  padding: .25em .4em .25em .4em;
+  font-size: 75%;
+  font-weight: 700;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  margin-top: -0.4em;
+  border-radius: .25rem;
+  transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+  text-decoration: none;
+}
+
+
+markdown-section .badge-sesh {
+  color: #fff;
+  background-color: #812579;
+  display: inline-block;
+  padding: .25em .4em .25em .4em;
+  font-size: 75%;
+  font-weight: 700;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  margin-top: -0.4em;
+  border-radius: .25rem;
+  transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+  text-decoration: none;
+}
+
+.markdown-section .badge-key {
   color: #fff;
   background-color: #0482f1;
   display: inline-block;
