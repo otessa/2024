@@ -1,5 +1,5 @@
 - [Welcome](welcome.md)
-- [Topic One](topic-one.md)
+- [May 27, 2023](02-may27.md)
 - [Topic Two](topic-two.md)
 - Topic Three
   - [Overview](topic-three-overview.md "Overview Chapter 3")
