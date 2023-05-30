@@ -107,7 +107,7 @@
   text-decoration: none;
 }
 
-markdown-section .badge-soc {
+.markdown-section .badge-soc {
   color: #fff;
   background-color: #3b528b;
   display: inline-block;
@@ -125,7 +125,7 @@ markdown-section .badge-soc {
 }
 
 
-markdown-section .badge-sesh {
+.markdown-section .badge-sesh {
   color: #fff;
   background-color: #440154;
   display: inline-block;

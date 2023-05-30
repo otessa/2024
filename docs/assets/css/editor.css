@@ -21,7 +21,6 @@ CSS for better Markdown previews within a text editor.
   text-decoration: none;
 }
 
-
 .badge-spkr {
   color: #fff;
   background-color: #5ec962;
@@ -56,7 +55,6 @@ CSS for better Markdown previews within a text editor.
   transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
   text-decoration: none;
 }
-
 
 .badge-soc {
   color: #fff;
