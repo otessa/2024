@@ -1,4 +1,4 @@
-- [Introduction](introduction.md)
+- [Introduction](markdown-syntax.md)
 - [Topic One](topic-one.md)
 - [Topic Two](topic-two.md)
 - Topic Three
