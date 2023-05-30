@@ -17,4 +17,4 @@
 
 
 
-<span class='badge'> 3:30-4:00</span> <span class='badge-key'> Keynote</span>  <span class='badge-spkr'> Invited Speaker</span> <span class='badge-soc'> Social</span> <span class='badge-sesh'> Session</span>
+<span class='badge'> 3:30-4:00</span><span class='badge-key'> Keynote</span> <span class='badge-spkr'> Invited Speaker</span><span class='badge-soc'> Social</span><span class='badge-sesh'> Session</span>
