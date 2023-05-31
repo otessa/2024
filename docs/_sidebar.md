@@ -1,5 +1,5 @@
 - [Welcome](welcome.md)
-- [May 27, 2023](02-may27.md)
+- [Day 1](02-day1.md)
 - [Topic Two](topic-two.md)
 - Topic Three
   - [Overview](topic-three-overview.md "Overview Chapter 3")
@@ -7,7 +7,7 @@
   - [Subtopic Two](topic-three-subtopic-two.md "Topic Three, Subtopic Two")
 
 **PROJECT INFO**  
-* [GitHub Repository](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/)  
+* [GitHub Repository](https://github.com/otessa/2024)  
 * [ReadMe](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/blob/main/README.md)  
 - [Markdown Syntax](markdown-syntax.md)
 <form action="https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/generate" target="_blank">

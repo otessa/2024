@@ -4,6 +4,7 @@
 
 ![Photo of Mountain](images/mountain.jpg)
 
+This is a test site for using Docsify to create a web-based program for the OTESSA24 conference in May 2024 at Mcgill University.
 [Docsify](https://docsify.js.org/#/) can generate article, portfolio and documentation websites on the fly. Unlike Docusaurus, Hugo and many other Static Site Generators (SSG), it does not generate static html files. Instead, it smartly loads and parses your Markdown content files and displays them as a website.
 
 ## Website Pages
