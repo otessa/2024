@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "2024"
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "English"
+        contents:
+          - index.qmd
+          - jun12.qmd
+      - section: "Francais"
+        contents:
+          - jun12.qmd
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    callout-appearance: default
+  pdf: default
+
+
+

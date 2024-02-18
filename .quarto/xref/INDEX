@@ -1,0 +1,14 @@
+{
+  "index.qmd": {
+    "index.html": "5082de1f",
+    "index.tex": "afbc6d3a"
+  },
+  "about.qmd": {
+    "about.html": "ccb3ef34",
+    "about.tex": "0eeae9b0"
+  },
+  "jun12.qmd": {
+    "jun12.html": "43ad2aee",
+    "jun12.tex": "901b6ee4"
+  }
+}
