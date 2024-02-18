@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "2024"
+  title: ""
   sidebar:
     style: "docked"
     search: true
@@ -15,7 +15,8 @@ website:
       - section: "Francais"
         contents:
           - jun12.qmd
-
+  back-to-top-navigation: true
+  cookie-consent: true
 
 format:
   html:
