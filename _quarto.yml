@@ -23,7 +23,6 @@ format:
     css: styles.css
     toc: true
     callout-appearance: default
-  pdf: default
 
 
 
