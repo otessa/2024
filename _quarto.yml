@@ -16,7 +16,9 @@ book:
       chapters:
       - jun12.qmd
 
-
+comments:
+  hypothesis: true
+  
 bibliography: references.bib
 
 format:
