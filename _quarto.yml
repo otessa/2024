@@ -1,5 +1,6 @@
 project:
   type: book
+  output-dir: docs
 
 book:
   title: "2024"
@@ -7,7 +8,13 @@ book:
   date: "4/13/2024"
   chapters:
     - index.qmd
-    - jun12.qmd
+    - part: "English"
+      chapters:
+          - jun12.qmd
+          - jun13.qmd
+    - part: "Francais"
+      chapters:
+      - jun12.qmd
 
 
 bibliography: references.bib
