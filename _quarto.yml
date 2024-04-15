@@ -7,11 +7,12 @@ book:
   version: "0.1.0"
   chapters:
     - index.qmd
-    - part: "English"
+    - part: "In-Person @ McGill University"
       chapters:
           - jun12.qmd
           - jun13.qmd
           - jun14.qmd
+          - jun15.qmd
     - part: "Francais"
       chapters:
       - jun12.qmd
