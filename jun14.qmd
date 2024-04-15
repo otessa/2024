@@ -1,4 +1,4 @@
-# Thursday, June 13 {.unnumbered}
+# Friday, June 14 {.unnumbered}
 
 ::: {.callout-tip}
 ## Note!
@@ -23,77 +23,80 @@ In Person at McGill University
 ## 9:15 - 9:30 | Break
 
 
-## 9:30-10:30 | Concurrent Session 5
+## 9:30-10:30 | Concurrent Session 9
 
-### Session 5.1 | Addressing Inequalities
+### Session 9.1 | Transitions of Online Learning and Teaching
 
-**Trottier 0060 (Session A) | Practice (French)**
+**Trottier 2110 (Session D)**
 
-#### Franchir les obstacles : Améliorer l'accessibilité grâce aux ressources éducatives libres dans l'apprentissage intégré au travail
+#### 9:30 - 10:30 | How do students make sense of a Learning Analytic Dashboard? Exploring learners’ perceptions and plans
 
-**Andrea Krasznai** | *eCampus Ontario*
+**Research**
+
+**Mariel Miller & Emma Graves** | *University of Victoria*
 
 ::: {.callout-note collapse="true"}
 ### Abstract
 
-Le projet d'apprentissage expérientiel d'eCampusOntario, le Consortium d'apprentissage expérientiel francophone de l'Ontario (CAPFO), rassemble les institutions postsecondaires francophones et bilingues de l'Ontario pour combler une lacune : le manque d'opportunités d'apprentissage expérientiel dans les environnements francophones et bilingues. En utilisant la plateforme Riipen, nous offrons aux membres du CAPFO la possibilité d'augmenter le nombre d'opportunités disponibles pour leurs apprenants au-delà des frontières géographiques de la province.
-
-Dans le cadre de ce projet, une nouvelle lacune a été mise en lumière : le manque de ressources en français pour les professeur.e.s souhaitant s'impliquer dans l'apprentissage intégré au travail. eCampusOntario a créé des ressources éducatives libres (REL) pour soutenir les professeur.e.s dans le développement de leurs connaissances en matière d'apprentissage intégré au travail. De plus, une enquête de recherche a été menée dans le secteur francophone de l'Ontario pour dévoiler les tendances et les défis, désormais disponibles sous forme de rapport REL dans la bibliothèque ouverte d'eCampusOntario, la plus grande bibliothèque ouverte au Canada.
-
-Au cours de notre session, nous fournirons des informations sur ce qu'est le CAPFO et mettrons en lumière les exigences particulières de la communauté minoritaire franco-ontarienne engagée dans l'apprentissage intégré au travail (AIT). Nous aborderons ensuite les ressources éducatives libres (REL), comment elles peuvent améliorer l'expérience des professeur.e.s dans l'AIT et dévoilerons quelques conclusions clés de notre rapport. Finalement, nous fournirons à notre public un guide REL afin qu'ils puissent initier l'expérimentation et la création de leurs propres REL.
+Student-facing learning analytic dashboards (LADs) claim to help students manage their learning. However, many widely available LADs can be inflexible and lack consideration of the contemporary theory and research of learning. Furthermore, it is unclear how students use information presented in LADs and translate it into meaningful action. This descriptive study investigates students’ use of a learning analytic dashboard to inform goal-setting and achievement over the course of one week in a large, hybrid undergraduate course. Specifically, we explore (a) learners’ evaluations of their course progress after interacting with the LAD (b) types of goals set by students for managing their learning during the week, post-interaction with the LAD; (c) the extent to which learners achieved their goals; and (d) students' perceptions of LAD utility in supporting them to manage their learning. Data were collected through two questionnaires administered at the midpoint of a course. Preliminary findings indicate that after viewing the dashboard, most learners set goals for maintaining their current progress during the week by focusing on their motivation. However, most learners reported failing to fully attain their goal by the end of the week. Implications for supporting learner engagement with LADs students-facing learning analytic dashboards are discussed.
 :::
 
  
+#### 10:00 - 10:30 | Building/Belonging: An Exploration of Digital and Place-Based Belonging Practices at [Redacted]
 
+**Research**
 
+**Bonnie Stewart** | *University of Windsor*
 
-### Session 5.2 | Wildcard
+::: {.callout-note collapse="true"}
+### Abstract
+This presentation overviews a case study of belonging, considered and framed through the lens of both place-based identity and digital education. The case study project under discussion aims to build on the established digital practices of a distributed European higher and further education institution, with multiple regional campuses, which serve to make education accessible and inclusive to a remote population otherwise underserved. The session will present the lit review, design, and goals of the case study project, while exploring ideas of community belonging in traditionally diasporic regions as well as digital belonging in online classrooms. It will explore the affordances and impacts of both, and the ways the two may or may not intersect in this particular context. This project extends the exemplary research and practice being done at this institution with digital technologies, in hopes of making visible the ties between geographic and cultural belonging practices and those that can be amplified and supported digitally. This institution's inclusive and accessible approaches may be of value to the OTESSA audience in a time when belonging is a need for students in many contexts.
+:::
+
+### Session 9.2 | Sustaining Positive Change
 
 **Trottier 0070 (Session B) | Practice**
 
-#### 9:30 - 10:30 | Unveiling the Future of Language Teaching and Acquisition: Exploring the Conflation of Cultural Historical Activity Theory, and Generative AI
+#### 9:30 - 10:30 | Walk the Walk: Fostering Equitable Practices in Organizational Sustainability
 
-
-
-
-**Tanya Dixit & Michael Paskevicius** | *University of Victoria*
-
+**Apurva Ashok & Kaitlin Schilling** | *The Rebus Foundation*
 
 ::: {.callout-note collapse="true"}
 ## Abstract
 
-Contemporary technology trends in education are profoundly reshaping the design of teaching and learning languages. This trajectory, Li (2017) observes, can be largely attributed to the "development of learning theories and pedagogical considerations" (p.3) alongside several other contributing factors, a sentiment echoed by Blake (2009) and Heift and Chapelle (2012) who confirm the far-reaching influence and potential of CALL, which further offers substantial promise to refine and enhance second language (L2) acquisition. Moreover, these scholars unanimously agree that technology integration and implementation should be firmly grounded in research built upon theoretical foundations. Hence, conjoining Cultural Historical Activity Theory (CHAT) (Engeström, 1987) and the affordances of generative AI, exemplified by ChatGPT, this presentation looks at transformative opportunities in which current AI bots can reform classroom teaching-learning discourse. This comprehensive awareness about AI's potentiality to revamp instructional methods, improve learner engagement, and offer avenues for personalizing and differentiating instruction is to be deemed essential not only for equipping stakeholders with the knowledge to navigate the nuances and challenges inherent in optimizing language acquisition experiences, but also to set the stage for a future where learners and educators can seamlessly integrate cutting-edge tools and technologies into improving the language acquisition experience. 
+How do equitable practices show up in the workplace? In our pursuit of different goals, we often forget the journey and careful, collective organization it takes to get and hold us there.
+
+In the discourse around building equitable futures, this session makes space to think about organizational sustainability and designing intentional work practices for long-lasting and widespread impact. Our approach extends beyond addressing external stakeholders and emphasizes modeling equitable practices internally — at the individual level and collectively within the organization. 
+
+The presentation will delve into the flexible work model we have developed that prioritizes organizational mission and the people and work to implement the mission. Our model looks at goals beyond just profitability and instead asks how we can sustain individuals, foster critical reflection, and create positive organizational change. We will showcase how equitable practices manifest in daily team interactions, board discussions, strategic direction, programming, and resource utilization.  
+
+While the principles we embrace are not groundbreaking, they are critical to the welfare and long-term success of an organization. Our focus is intentionally on the often-overlooked aspect of applying equity-minded principles within the organizational context. The presentation aims to cement the significance of iterative daily practices in sustaining a culture of equity and inclusion within educational organizations.
 
 :::
 
-
-
-#### 10:00 - 10:30 | Personalized learning path in a course on digital technology for secondary education programs
-
-**Géraldine Heilporn, Alexandre Lepage, Audrey Raynault & Julie Chamberland** | *Université Laval*
-
-::: {.callout-note collapse="true"}
-## Abstract
-
-This communication presents the new design of a course on digital technology for teaching and learning, offered to students enrolled in in secondary education programs at Laval University (Quebec), based on the concept of adaptive learning. Following a diagnostic assessment questionnaire of their digital competency at the beginning of the semester, students are automatically assigned to three thematic activities aimed to develop their digital competency for transfer to secondary education. After working on a thematic activity for one week, students return to the classroom for peer-to-peer teaching and learning on these thematic activities, in a blended course modality alternating asynchronous (thematic activities) and synchronous classes (peer-to-peer teaching and learning). Temporary thematic support communities as well as disciplinary learning communities are set to encourage peer collaboration and support throughout the semester. At given timepoints during the semester, students also have to assess their peer collaboration and give them feedback a peer evaluation mechanism.
-
-:::
-
-### Session 5.3 | Sustaining Positive Change
+### Session 9.3 | Addressing Inequities
 
 **Trottier 2100 (Session C)**
 
-#### 9:30 - 10:30 | Developments in National OER Advocacy in Canada 
+#### 9:30 - 10:30 | Is AI for or Against Human Success? An Exploratory Engagement by Female Scholars
 
-**Ann Ludbrook** | *Toronto Metropolitan University*
+**Practice**
 
-**Michael McNally** | *University of Alberta*
+**Judith Pete** | *Tangaza University College*
+
+**Gelareh Keshavarz** | *Athabasca University*
+
+**Jenni Hayman** | *Royal Roads University*
+
 
 ::: {.callout-note collapse="true"}
 ## Abstract
 
-This 50-minute session builds upon the Canadian Association Research Libraries (CARL)’s National Advocacy Framework for Open Educational Resources (OER) in Canada (2023). It updates attendees on national OER advancements, and features insights from the Indigenous Knowledges and OER summit held in Vancouver in February 2024. The summit produced principles for working with Indigenous knowledges in OER, alongside discussions on progressing national OER advocacy. The session covers developments in policy, infrastructure, and francophone OER stemming from summits in 2022 and 2023. Reports from these events will be discussed, along with updates on ongoing federal budget consultations and the anticipated 2025 federal election. The audience will also have the opportunity to contribute ideas and strategies for national advocacy, via group discussion and polls.
+In this practice-focused session, an educator from Kenya and two educators from Canada will compare access to and experiences of artificial intelligence (AI) tools for work and education in their professional contexts. Topics will include learner, educator, and institutional access to the Internet and devices in general–and access and use of AI tools, specifically. The presenters will share emerging concerns about the ethics of the design and use of AI tools and share their interests and the positive potential they see for the use of these tools. Participants attending the session will be invited to share their ideas, contexts, interests, and concerns about AI as contributions to group learning. Strategies for ethical and pedagogic review of AI tools will be shared.
+
 :::
+
+{++here++}
 
 ## 10:30-11:00 | Break
 
