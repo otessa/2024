@@ -96,190 +96,167 @@ In this practice-focused session, an educator from Kenya and two educators from 
 
 :::
 
-{++here++}
-
 ## 10:30-11:00 | Break
 
   
-## 11:00-12:00 | Concurrent Session 6 | Ethics in Design Showcase
+## 11:00-12:00 | Poster Session
 
-**All Session 6 Showcases are in the Trottier Mezzanine**
-
-
-### Showcase 6.1 | Sustaining Positive Change
-
-#### Redesigning Computing for Openness - the Ethics of Consuming Devices 
-
-**Brian Sutherland** | *University of Toronto*
-
-
-::: {.callout-note collapse="true"}
-## Abstract
-
-     Have you started to accumulate old computing devices?   Why does the logic of computing involve repeated purchase and consumption of expensive "molded plastic epics" (Gabrys, 2011)?  Thinking back on calculation devices and this ethical problem of repeated consumption, the simple solar calculator stands out for its durability -- an energy harvesting strategy that doesn't use batteries, and it doesn't wear out.  Fifty year old solar powered calculators and other electronic devices which still work may be found. In this session, proposed for the Ethics in Design Conference Strand, I will review the history of energy harvesting information devices and their significant characteristics around sustainability, present response designs which engage various ethical questions around consumption, carbon production and degrowth, and discuss their usefulness as open designs and thought-artifacts in an iterative speculative design conversation around climate change.
-:::
-
-### Showcase 6.2  | Sustaining Positive Change
-
-####  A framework and model for engagement in open, online spaces
-
-
-**Michelle Harrison** | *Thompson Rivers University*
-
-**Michael Paskevicius** | *University of Victoria*
-
-
-::: {.callout-note collapse="true"}
-## Abstract
-
-     This design case provides an analysis of the creation of an innovative open educational practices (OEP) project “Rethink Learning Design”, designed to explore and implement critical approaches to learning and instructional design. We recognized that if we want to embrace the power of OEP to change teaching and learning practice we need to enable spaces that honor multiple voices and perspectives, co-create knowledge and challenge traditional roles and hierarchies supported in open pedagogical approaches. Two key goals guided our project: the development of a reader/resource based on open pedagogy principles, emphasizing inclusivity and participation, and the integration of a reflective practice framework to deepen engagement and bring about a shift in educational practices. In this session and design case we will outline our iterative design process, ethical considerations, and theoretical foundations, and student use and feedback, with the aim of sharing insights and templates for practitioners in diverse educational contexts. We will consider how we can approach design as a theory of action and consider ways to promote learner ownership, open scholarship, anonymity, and options for permanence through our learning design tool.
-
-:::
-
-### Showcase 6.3  | Addressing Inequities
-
-#### Cultural Dimensions of Ethics in Design: Indigenous Knowledge & Online Course Media
-
-
-
-**Brian Lorraine** | *Simon Fraser University*
-
-
-::: {.callout-note collapse="true"}
-## Abstract
-
-     This session delves into the intricate design process of an online Indigenous Ethnozoology course, exploring the tensions, challenges, and ethical considerations encountered during an 8-month redesign and development period. Originally authored by a Squamish knowledge holder, the course featured recorded lectures intertwining oral histories with western scientific perspectives. The transition to a new instructor, a professor of white settler descent, prompted critical reflection on retaining Indigenous knowledge while improving instructional effectiveness. Drawing on cognitive load theory and empirical studies on video engagement, the design team navigated the complexities of honoring oral traditions while enhancing student learning experiences. This case study highlights the necessity for robust frameworks addressing Indigenous knowledge protocols in educational design, underscored by ongoing critical reflection to confront colonial legacies and promote ethical practices.
-
-:::
-
-### Showcase 6.4  | Addressing Inequities
-
-#### Moving Towards Design Justice through Multivocal Design in Health Education
-
-**Danielle Dilkes** | *University of Western Ontario*
-
-
-::: {.callout-note collapse="true"}
-## Abstract
-     This Design Case features an interprofessional stroke care case for health and medical education that was developed through a participatory design process. The objectives of the case were to highlight the complexities of interprofessional care and prepare learners for interprofessional practice. The approach to developing this case draws on key Design Justice principles: those most impacted by a design should be central in the design process and that various types of expertise exist and have value. The stroke care case was co-developed with patients, or Lived Experience Experts (LEEs), and all members of an interdisciplinary stroke care team, or Subject Matter Experts (SMEs). Patients were invited to share their real experience of stroke care, which became the basis of the case. Each health care professional was given full control over how their roles were portrayed, and invited to craft and star in their scenes within the case. This process resulted in a multivocal media rich case that more accurately reflects real patient experience and the real scope of practice for different health professionals. In our Design Case Exhibit, we will share multimedia components of the final case, but we will also share design knowledge in support of a more general framework for participatory design that could account for some of the complications of co-design across institutional roles.
-
-:::
+Information forthcoming.
 
 ## 12:00 - 1:30 | Break
 
-## 1:30 - 2:15 | Concurrent Session 7 
+## 1:30 - 2:15 | Concurrent Session 10
+
+
+### Session 10.1 | Wildcard
 
 **Trottier 2100 (Session C)**
 
-### 1:30 - 2:15 | Session 7.1 | Sustaining Positive Change
 
-####  An e-Book of One's Own: Empowering Student Learning Journeys 
+#### 1:30 - 1:50 | Dangling in Between: Investigating the Impacts of Using AI in Higher Education Research
 
+**Research** 
 
-
-**Practice**
-
-**Terry Greene & Christian Metaxas** | *Trent University*
+**Todd Milford & Sara Fallahi** | *University of Victoria*
 
 
 ::: {.callout-note collapse="true"}
 ## Abstract
-Join our interactive session to explore the transformative initiative, "An e-Book of One's Own," designed to reshape the student experience in higher education. In a dynamic environment, participants will engage with Pressbooks, a powerful tool enabling students to craft personalized e-books showcasing their academic journey. The session emphasizes hands-on exploration, collaborative problem-solving, and interactive structures to work towards successful implementation. Reflective exercises simulate the student experience, fostering a deep understanding of the program's impact. This session is not a passive presentation; it's a collective effort to redefine educational experiences. Attendees will leave with practical insights, strategies for implementation, and a renewed vision for empowering students through digital innovation.
 
+Artificial intelligence (AI) is used in education since 2015 (Vincent-Lancrin & van der Vlies, 2020). Benefits and hindrances of using AI has been debated in many academic literature (Chen et al., 2020; Crompton & Song, 2021; Verma & Tomar, 2021). Today with the rise of AI tools which are available to the public, with students using them more, and universities clarifying their stance on the topic, investigating the impacts of using AI in education is more crucial than ever. The purpose of this paper is to investigate the impacts of using AI tools for graduate students. For this aim, participants were introduced to a few AI tools to use for writing literature review. Participants were also interviewed on their experience and opinion on using AI in research. Initial findings of this research suggest that the participants could benefit from using AI, for example in saving time while researching, although some concerns remained unsolved for them. The output of this research can be considered while integrating AI in higher education as well as policy making.
 :::
 
-###  Session 7.2 | Wildcard & Transitions of Online Learning and Teaching
+#### 1:55 - 2:15 | OER in the context of generative AI
 
+**Practice**
+
+**Normand Roy** | *University of Montreal*
+
+::: {.callout-note collapse="true"}
+## Abstract
+This proposal explores the transformation of OER in the context of Artificial Intelligence (AI), examining the multifaceted relationship between these two domains. While highlighting the potential benefits of AI in personalizing learning, creating new resources, and enhancing accessibility, the proposal also confronts the challenges associated with authorship and ethical considerations of AI-generated content. Focusing on strategies to navigate these challenges while ensuring the integrity of original contributions, the proposal further investigates how advanced AI techniques like fine-tuning and Retrieval Augmented Generation (RAG) can be employed to create highly adaptive and personalized OER aligned with learners' needs. Additionally, it explores the potential of AI in generating multimodal resources, potentially overcoming language, literacy, and learning preference barriers to broaden access to education globally. Ultimately, this proposal aims to leverage AI while addressing its inherent challenges, ultimately enhancing the quality, accessibility, and adaptivity of OER.
+:::
+
+### Session 10.2  | Transitions of Online Learning and Teaching
 **Trottier 2110 (Session D)**
 
-####  1:30 - 1:50 | Triads to Complete Capstone: e-Portfolios
 
-
-
-**Practice**
-
-**Christine Ho Younghusband** | *University of Northern British Columbia*
-
-
-::: {.callout-note collapse="true"}
-## Abstract
-For one graduate program at a small research university in British Columbia, completing a digital portfolio is one option for capstone to demonstrate learning and conclude the program. The portfolio option includes developing a WordPress site, articulating one’s learning through the lens of a guided question, and a presentation of the portfolio to a committee. The student and committee members are led by a faculty supervisor. Completion of this capstone can be an isolating experience. In one term, two graduate students were left without a supervisor and needed to complete the program that term. One faculty member supervised three graduate students at one time. Over time, the three graduate students formed a triad, or small learning community, where they supported, peer-assessed, and collaborated in an ongoing way to complete their portfolios. The outcomes were personalized and unique to the learner. This presentation is a program evaluation that investigates the value and impact of triads during capstone and portfolio to invite back humanity into the capstone and portfolio experience.
-
-:::
-
-#### 1:55 - 2:15 | Using AI to design a Culturally Responsive STEM course and improve sense of belonging among students
+####  1:30 - 1:50 | Undergraduate Students as Research Partners: Lessons Learned in a Scoping Review of Social Media in Teaching and Learning
 
 **Research**
 
-**Nahid Pourdolat Safari & Behnoosh Khoramrooz** | *University of Victoria*
+**Emma Duke, Linh Bui, & Richard Hayman** | *Mount Royal University*
+
 
 ::: {.callout-note collapse="true"}
 ## Abstract
 
-This session aims to explore the integration of AI in Culturally Responsive Teaching (CRT) to enhance the sense of belonging in STEM education. Focusing on the importance of CRT in developing a sense of belonging and as a result, in enhancing motivation, engagement, persistence and academic performance, this presentation will discuss the theoretical foundations of CRT and explore implementing AI-generated content in STEM course design to foster a more inclusive learning environment. This session will delve into how AI can validate and acknowledge students' cultural backgrounds in STEM classes with a focus on underrepresented groups, including Indigenous, Black and international students. By showcasing practical examples, this session intends to demonstrate how AI technologies can be used to motivate and engage STEM students from diverse cultural backgrounds by improving their sense of belonging.
+After 20+ years of educators incorporating various social media into their undergraduate teaching and learning, we have identified the need to critically examine the existing body of literature on social media integration in higher learning to understand how this use has been studied as well as how it informs today’s teaching and learning processes. This presentation reports on our scoping review project exploring trends, gaps, and issues in the use of social media technologies in undergraduate teaching and learning contexts. The researchers, including two undergraduate student research partners, will refer to the project protocol (author3 & author4, 2023) and present initial findings and lessons learned during the project to-date. We will also discuss meta-research implications from these initial findings, including an exploration of partnering with undergraduate student RAs on a rigorous evidence synthesis project, with the latter delivered primarily from the perspective of the student partners.
+
+:::
+
+#### 1:55 - 2:15 | Flexibility and Foresight in Ontario Postsecondary Education: Voices from the Field
+
+**Practice**
+
+**Elisa Arnold, Rocio Chavez Telleria & Laura Viselli** | *eCampusOntario*
+
+::: {.callout-note collapse="true"}
+## Abstract
+Flexibility has emerged as a key area to support digital transformation in postsecondary education, and educators are often at the forefront of implementation. To understand how educators are thinking and feeling, we engaged with 45 educators from Ontario's publicly-supported postsecondary institution through six virtual workshops using foresight methods to frame the conversations. Foresight is a formal, systematic way of thinking about the future, which offers a way to think about how the future might play out and expand the solution space. Specifically, we used the following foresight methods: Futures Triangle, to understand the interrelationships among future visions, present drivers of change, and past limitations; Causal Layered Analysis (CLA), to explore the assumptions that underlie the way we frame problems, situations, and solutions; and Three Horizons, to explore what would it take to transition from present situations to future visions. This presentation is a summary of the research about these educators think and feel about flexibility in post secondary education, including considerations of equity and ethics and the application to practice, policy and infrastructure and recommended next steps.
 :::
 
 ## 2:15 - 2:45 | Break
 
-## 2:45 - 3:45 | Unconference
+## 2:45 - 3:45 | Concurrent Session 11
 
-## 3:45 - 4:00 | Break with Coffee & Snack Provided
+**Trottier 0070 (Session B)**
 
-## 4:00 - 4:30 | Concurrent Session 8
+### Session 11.1  | Addressing Inequities
+
+#### Challenging Stereotypes: The Role of The Matilda Project in STEM Gender Equality
+
+**Workshop**
+
+**Shehroze Saharan** | *University of Guelph*
+
+::: {.callout-note collapse="true"}
+## Abstract
+
+The Matilda Effect - a term coined by Yale historian Margaret W. Rossiter - is a phenomenon used to describe women scientists who have been ignored, forgotten, or denied credit due to sex-linked biases. The unfortunate reality is that the Matilda Effect is still prevalent today as women are not given due credit for their scientific achievements. The Matilda Project (https://www.thematildaproject.com/), a higher education initiative committed to shedding light on the pervasive issue of gender inequality in STEM, stands strategically poised to tackle this challenge. Positioned as an open-access resource, The Matilda Project encompasses the creation of educational videos and a website. The videos offer concise insights into key topics, while the website will host interactive activities and will serve as a comprehensive collection showcasing both historical and contemporary women scientists who share a common experience—the Matilda Effect.
+
+:::
 
 
-### Session 8.1  | Addressing Inequities 
+### Session 11.2  | Sustaining Positive Change 
 
 **Trottier 2100 (Session C)**
 
-####  Survivors of Complex Trauma as Adult Online Learners
 
-**Research**
-
-**Hilary Schmidt** | *Thompson Rivers University*
-
-
-::: {.callout-note collapse="true"}
-## Abstract
-Complex trauma is both a product and a source of significant multidimensional inequality, including profound disruption to survivors’ educational trajectories. Nonetheless, little research has been conducted on trauma-informed educational practices for adult/postsecondary or open/online learners, and educational researchers have largely ignored the perspectives of survivors, contradicting the key principle of collaboration within a trauma-informed approach.
-
-This qualitative instrumental collective case study explored how adults with a history of complex trauma experience postsecondary open/online learning. Findings included participants’ struggles with executive functioning, challenges regulating emotion and dealing with a heightened perception of threat, re-experiencing trauma, negative beliefs about the self, and difficulties navigating relationships. These trauma impacts affected not only participants’ learning and course experience, but also their experience of applying, registering, and accessing financial aid. Nonetheless, participants are demonstrably skilled in managing impacts of their trauma and are driven to learn, placing the highest intrinsic value on education. Top priorities for implementation of trauma-informed educational practices identified by participants included establishing safety; trust and transparency; and empowerment, voice, and choice. Implications are discussed, including enhancing equity and inclusion for survivors of complex trauma and assisting open/online postsecondary institutions in meeting their unique needs through implementation of trauma-informed educational practices.
-
-:::
-
-### Session 8.2  | Addressing Inequities
-
-**Trottier 2110 (Session D)**
-
-####  Protecting Indigenous Knowledge in Open Education
-
-**Don Eldridge & Mary Gu** |  *eCampus Ontario* 
-
-
-::: {.callout-note collapse="true"}
-## Abstract
-As open educational practices (OEP) and open educational resources (OER) grants, programs, and initiatives are created by organizations, there is a need to consider the diverse and nuanced Equity, Decolonization, Diversity, and Inclusion (EDDI) issues that will be surfaced. Funding institutions and agencies must consider how their support and promotion of OEP and OER may not support and may even alienate Indigenous members of their community. This presentation will provide an overview of the EDDI concerns faced in a major investment into an OER program in Canada that impacted multiple postsecondary institutions through 3 years of work. This presentation will share the development process of a geographically specific Commons license, the metrics on uptake since the launch of the license, and the impact on supporting digital-by-design virtual learning. This experience can inform the broader open education community by sharing lessons learned and best practices as a case study.  
-
-:::
-
-### Session 8.3  | Sustaining Positive Change
-
-**Trottier 0060 (Session A)**
-
-####  Creating Reskilling and Upskilling Opportunities for Internationally Educated Immigrants through Online Learning Programs: The Story of Success
+#### Empowering Student Voices: Integrating Stop-Motion Animation with Google Drawing, Canva, and Cap Cut
 
 **Practice**
 
-
-
-**Marina Grineva** | *Intercultural Skills Lab (Rotman School of Management, University of Toronto)*
+**Patricia Dennis** | *Pride Academy Charter School*
 
 
 ::: {.callout-note collapse="true"}
 ## Abstract
-The importance of access to reskilling and upskilling opportunities for immigrants can’t be overestimated. However, there is a number of challenges that this population faces while trying to integrate into the workforce or advance in their careers in Canadian work environments. One of such challenges is the inability to attend professional development programs in-person. From this perspective, technology-enhanced learning, specifically, on-line or hybrid learning environments (a combination of asynchronous and synchronous learning sessions) are one of the solutions of the problem.
+In designing Project Based Learning (PBL) curriculum and units that focus on real-world issues related to diversity, sustainability, and justice, students will create hands-on projects that evoke change within themselves, their communities, and globally. In this interactive and engaging in-person workshop, educators will be immersed in a comprehensive session focused on harnessing the potential of stop-motion animation using Google Draw, Canva, and Cap Cut. The central objective of this workshop is to empower educators with the expertise and tools to integrate the engineering design process into their teaching methods, fostering student creativity and innovation while amplifying their voices through modern technology. Throughout the workshop, participants will explore how to utilize Project-Based Learning (PBL) to sustain positive change and explore the UN Global Goals, aiming to equip educators with the necessary resources and strategies to facilitate meaningful learning experiences for their students.
 
-In this presentation, we aim to provide the overview of  professional development programs offered by [The Intercultural Skills Lab](https://www.rotman.utoronto.ca/ProfessionalDevelopment/interculturalskillslab) (Rotman School of Management, University of Toronto) that successfully provides reskilling and upskilling opportunities for internationally trained immigrants by creating a variety of technology-enhanced learnings environments. Specifically, we will demonstrate how through the use of a number of online learning tools the program participants are given an opportunity to become part of vibrant collaborative learning communities fostering professional development in such areas as intercultural intelligence, effective communication, career management, as well as in the sector-specific disciplines.
+:::
+
+### Session 11.3 | Addressing Inequities
+
+**Trottier 2110 (Session D)**
+
+#### 2:45 - 3:45 | Unleashing Potential: Exploring Open Education Initiatives with TRU Open Press
+
+**Practice**
+
+**Danielle Collins, Marie Bartlett, Brenna Gray, Jessica, Kaitlyn Meyers, Jon Fulton, Natasha Ramroop Singh & Ananya Kamboj** | *Thompson Rivers University*
+
+::: {.callout-note collapse="true"}
+## Abstract
+Join us at the OTESSA conference as we highlight the transformative impact of the Thompson Rivers University (TRU) Open Press. As proponents of open education, we aim to demonstrate how the TRU Open Press fosters a sustainable and inclusive future through innovative projects. Gain insights into our core operations, including our role as a leading provider in web-first publishing, open pedagogy, and scholarship. We'll delve into our proposal process, detail how projects are initiated and navigated, with the goal of sustaining positive change for a diverse, sustainable, and democratic world. Experience the tangible impact of our initiatives through a showcase of successful projects in the evolving landscape of online learning. Explore our open publication strategies, funding mechanisms, and their profound impact on addressing inequities. Learn about our collaborations with faculty, students, Indigenous communities, and local organizations, all contributing to sustaining shared futures through education. Delve into the production processes of our Open Educational Resources (OER) and open pedagogy projects, fostering positive and meaningful change. Join us in shaping the future of education and scholarship through meaningful discussions and building connections for shared knowledge and inclusivity.
+:::
+
+## 3:45 - 4:00 | Break with Coffee & Snack Provided
+
+## 4:00 - 4:30 | Concurrent Session 12 
+
+
+
+### Session 12.1 | Addressing Inequity
+**Trottier 2100 (Session C)**
+
+####  Seeking a newer equity, diversity, and inclusion model for educators
+
+**Practice**
+
+**Lorayne Robertson, Jessica Trinier & Roland Van Oostveen** | *Ontario Tech University*
+
+::: {.callout-note collapse="true"}
+## Abstract
+The complexities of the human condition are evident in myriad ways, yet human differences are used globally to deny basic rights. How differences are perceived in education impacts student access and participation in school, and ultimately the outcomes of their school experience. Courses on equity, diversity and inclusion are one means to help future educators become aware that the benefits of schooling are not equally available to all students. This paper presents a reflective description of a model used for the co-construction of equity, diversity and inclusion courses that employs a community of practice model where student voice features prominently in both course design and course enactment. The model relies on establishing a shared spirit of equity humility for learners and educators, and recognition of the need for student safety in potentially uncomfortable conversations. Basic human rights is  an anchoring concept. While, in the past, the teaching of equity has tended to focus on distinct aspects of oppression in society as individual topics, the co-construction of equity model relies, instead, on building bridges of understanding that cross oppressions. The concept of building cross-equity understandings is helpful as a guide to dismantling oppression and guiding the rebuilding of safer, more inclusive spaces in schools.
+
+:::
+
+###  Session 12.2 | Wildcard
+
+**Trottier 2110 (Session D)**
+
+####  Investigating Transformative Technology Integration through Lesson Analysis: A PICRAT Model Pilot Study
+
+**Research**
+
+**Adjoa Mensah, Tina Vo, Peter Wiens & Vanessa Vongkulluksn** | *University of Nevada Las Vegas*
+
+
+::: {.callout-note collapse="true"}
+## Abstract
+According to the Council for Accreditation of Teacher Preparation (CAEP), technology integration is an important component of instructional practice and competency standards. This quantitative pilot study evaluates preservice science lesson plans using the nine domains of the PICRAT model. In a university located in the southwest region of the US, researchers piloted the use of the PICRAT model as a metric for the frequency of technology integration occurrences. Coding for PICRAT domains (passive, interactive, creative, replacement, amplification and transformation) was triangulated among researchers using interrater reliability to ensure consistent coding. The researchers deliberated on the particular benefits and obstacles associated with the PICRAT model and offered perspectives on the feasibility of utilizing the domains to code lesson plans in teacher preparation.  These findings suggest a high level of consistency among raters in evaluating different PICRAT domains, particularly in the latter four categories where unanimous agreement was attained.
+
 :::
 
 ## 5:00 - 7:00

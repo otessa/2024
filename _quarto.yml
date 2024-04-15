@@ -3,28 +3,29 @@ project:
   output-dir: docs
 
 book:
-  title: "2024"
-  author: "Norah Jones"
-  date: "4/13/2024"
+  title: "OTESSA 2024 Schedule"
+  version: "0.1.0"
   chapters:
     - index.qmd
     - part: "English"
       chapters:
           - jun12.qmd
           - jun13.qmd
+          - jun14.qmd
     - part: "Francais"
       chapters:
       - jun12.qmd
 
 comments:
   hypothesis: true
-  
+
 bibliography: references.bib
 
 format:
   html:
     theme: cosmo
     number-depth: 0
+    toc-depth: 4
   pdf:
     documentclass: scrreprt
 
