@@ -13,9 +13,11 @@ book:
           - jun13.qmd
           - jun14.qmd
           - jun15.qmd
-    - part: "Online"
+          - jun16.qmd
+    - part: "Online Only Sessions"
       chapters:
-      - jun12.qmd
+          - jun17.qmd
+          - jun18.qmd
 
 comments:
   hypothesis: true
