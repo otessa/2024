@@ -8,14 +8,14 @@ book:
   date-format: "MMM D, YYYY [@] h:m a z [(UTC]Z[)]"
   chapters:
     - index.qmd
-    - part: "In Person @ McGill University"
+    - part: "IN PERSON @ MCGILL UNIVERSITY"
       chapters:
           - jun12.qmd
           - jun13.qmd
           - jun14.qmd
           - jun15.qmd
           - jun16.qmd
-    - part: "Online Only Sessions"
+    - part: "ONLINE ONLY SESSIONS"
       chapters:
           - jun17.qmd
           - jun18.qmd
