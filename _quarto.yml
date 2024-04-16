@@ -18,7 +18,9 @@ book:
       chapters:
           - jun17.qmd
           - jun18.qmd
-
+          - jun19.qmd
+          - jun20.qmd
+          
 comments:
   hypothesis: true
 
