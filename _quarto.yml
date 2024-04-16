@@ -4,7 +4,7 @@ project:
 
 book:
   title: "OTESSA 2024 Schedule"
-  version: "0.1.0"
+  version: "0.9.0"
   chapters:
     - index.qmd
     - part: "In Person @ McGill University"
@@ -20,7 +20,8 @@ book:
           - jun18.qmd
           - jun19.qmd
           - jun20.qmd
-          
+          - jun21.qmd
+
 comments:
   hypothesis: true
 
