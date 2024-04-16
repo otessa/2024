@@ -4,7 +4,8 @@ project:
 
 book:
   title: "OTESSA 2024 Schedule"
-  version: "0.9.0"
+  date: "last-modified"
+  date-format: "MMM D, YYYY [@] h:m a z [(UTC]Z[)]"
   chapters:
     - index.qmd
     - part: "In Person @ McGill University"
