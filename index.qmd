@@ -1,6 +1,5 @@
 # Welcome {.unnumbered}
 
-## OTESSA24 Conference Program
 
 ::: {.callout-note}
 All times are Eastern Daylight Time
