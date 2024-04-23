@@ -1,6 +1,5 @@
 # Welcome {.unnumbered}
 
-## OTESSA24 Conference Program
 
 ![OTESSA Logo](OTESSA-conf.png)
 
