@@ -6,7 +6,7 @@ book:
   title: "OTESSA 2024 Conference Program"
   reader-mode: true
   date: "last-modified"
-  date-format: "MMM D, YYYY [@] h:m a z [(UTC]Z[)]"
+  date-format: "MMM D, YYYY [@] h:mm a z [(UTC]Z[)]"
   chapters:
     - index.qmd
     - part: "IN PERSON @ MCGILL UNIVERSITY"
@@ -36,6 +36,7 @@ format:
     toc-depth: 4
   pdf:
     documentclass: scrreprt
-
+    title: "OTESSA 2024 Conference Program"
+format-links: [pdf]
 
 
