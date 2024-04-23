@@ -19,11 +19,15 @@ In Person at McGill University
 
 ## 8:00 - 9:00 | Continental Breakfast Provided {.unnumbered}
 
+**Trottier Mezzanine**
+
+<!--
 ## 8:00-11:30 | Welcome Desk Open  
+-->
 
 ## 9:00 - 9:15 | Conference Welcome, Announcements, & Land Acknowledgement
 
-**Trottier 0060 (Session A)**
+**Trottier Mezzanine**
 
 ## 9:15 - 9:30 | Break
 
@@ -179,13 +183,13 @@ Examining how to mitigate curricular harms and consider the ethics of educationa
 
 ### Speaker Forthcoming
 
-## 3:00 - 3:45 | Concurrent Session 3 | Sustaining Positive Change
+## 3:00 - 3:45 | Concurrent Session 3 
 
 **Trottier 0060 (Session A)**
 
-### 3:00 - 3:20 | Session 3.1
+### Session 3.1 | Sustaining Positive Change
 
-####  Supporting OER Adoptions through Federated Discoverability
+####  3:00 - 3:20 | Supporting OER Adoptions through Federated Discoverability
 
 
 **Practice**
@@ -199,9 +203,8 @@ A key aspect of supporting OER adoption remains OER discoverability, which is co
 
 :::
 
-### 3:25 - 3:45 | Session 3.2 | Sustaining Positive Change
 
-####  Means to an End? Ethical Methodologies for Developing Ethical Facial Recognition Training Datasets
+####  3:25 - 3:45 | Means to an End? Ethical Methodologies for Developing Ethical Facial Recognition Training Datasets
 
 
 **Research**
@@ -214,6 +217,26 @@ A key aspect of supporting OER adoption remains OER discoverability, which is co
 In January of 2020, The New York Times published a report on the implications of Clearview AI’s facial recognition system in law enforcement. However, unlike other discussions of facial recognition in this field, which focus on the consequences of racial biases within the system, this report revealed the problematic methodology behind the development of Clearview AI’s robust training dataset, calling for an examination of ethics in the very process of creating ethical tech. Clearview AI has since been banned in countries including Canada for scraping over three billion photos from social media platforms, breaching privacy laws surrounding consent for use of personal data. Yet the challenge remains: how can we create a fair and robust training dataset for facial recognition algorithms given the resource-intensive nature of the task as well as complications such as the limitations of data privacy? How can we ensure that the means of creating ethical facial recognition technologies mirror its ends?  With current rapid developments in generative AI, synthetic training datasets have newly emerged as a promising player in the field of facial recognition technologies. Training datasets such as Digi-Face 1M that are entirely composed of generated images seem to waive the need for ethical considerations altogether by skirting the use of human subjects. Nevertheless, insofar as the application of these tools affect human lives, we must question whether this new method of dataset development is truly free from ethical concerns.
 
 :::
+
+###  Session 3.2 | Transitions of Online Learning and Teaching
+
+**Trottier 0070 (Session B)**
+
+####  3:00 - 3:45 | Planning, living, and adding to our plates: : K-3 educators' experiences of curricula in Virtual Learning Environments (VLE)
+
+
+
+**Practice**
+
+**Melissa Bishop** | *University Prince Edward Island*
+
+
+::: {.callout-note collapse="true"}
+## Abstract
+Virtual Learning Environments (VLE) have interested scholars since the late 20th century, with much of the research focusing on secondary and post-secondary instructors and learners (Brown, 2010; Dabbagh, 2007; Fuchs, 2014; Plump & LaRosa, 2017; Proserpio & Gioia, 2007). With the onset of VLEs in elementary education due to the COVID-19 pandemic and the continuation of synchronous virtual learning thereafter, VLEs have become commonplace in K-3 contexts across Ontario. Yet, as we contend with the ubiquitous nature of technology in early elementary, a paucity of literature exists regarding teachers’ and Early Childhood Educators' (ECE) experiences of planned and lived curricula (Muldong et al., 2021; Aperribai et al., 2020; Ferdig et al., 2020) in VLEs. Starting from standpoint epistemologies (Au, 2012; Harding, 1991; Haraway, 2003), reflecting on five narrative interviews, and employing a narrative analysis of field texts (Clandinin, 2006; Clandinin & Connelly, 1988, 1996, 2000), we unearthed six narrative threads: time, parent communication, relationship building, classroom community, engagement and teacher presence, and technological challenges. These six threads suggested how ECEs and teachers navigated the entanglements of planned and lived curricular experiences in VLEs. Further, the five threads exposed critical elements to be considered in future VLE policy and curricular reform in the K-3 context.
+
+:::
+
 
 ## 3:45 - 4:00 | Break
 
@@ -272,13 +295,11 @@ Open Educational Practices (OEP) tend to create cooperative teaching and learnin
 
 :::
 
-## 5:00 - 7:00
+## 5:00 - 7:00 | See Congress Programming for Social Zone & Food Options
 
-### See Congress Programming for Social Tent & Food Options
+## 6:00 - 11:59 | OTESSA Social – Reception with No-Host Bar
 
-## 7:00 - 11:59 | OTESSA Social
-
-
+**La Citadelle 26th Floor**
 
 
 
