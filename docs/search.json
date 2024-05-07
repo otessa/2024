@@ -4,17 +4,7 @@
     "href": "index.html",
     "title": "OTESSA 2024 Conference Program",
     "section": "",
-    "text": "Welcome",
-    "crumbs": [
-      "Welcome"
-    ]
-  },
-  {
-    "objectID": "index.html#current-time-in-montréal-utc-0400-click-for-more-info",
-    "href": "index.html#current-time-in-montréal-utc-0400-click-for-more-info",
-    "title": "OTESSA 2024 Conference Program",
-    "section": "Current time in Montréal (UTC-04:00 | Click for more info)",
-    "text": "Current time in Montréal (UTC-04:00 | Click for more info)",
+    "text": "Welcome\n\n\n\nOTESSA Logo\n\n\nAll times are Eastern Daylight Time\nCurrent time in Montréal (UTC-04:00 | Click for more info)\n\n\n\n\n\n\n\n\nImportant\n\n\n\nCheck the OTESSA conference website for abstracts and any changes to this program.\nInformation about any changes to the program will also be available via the OTESSA Welcome Desk on the conference platform once the conference opens.\n\n\nAll OTESSA Participants can attend the Congress “Big Thinking” lecture series. These take place each day of the conference. Congress has “open events” available as well (open to registrants across association conferences at Congress as well as those who hold community passes).\nAll OTESSA Registrants can also attend conference sessions offered by the Canadian Association for the Study of Education (CSSE), Canadian Association for the Study of Higher Education (CSSHE), and Canadian Association of Learned Journals (CALJ) as we have reciprocity agreements in place. Please note that presenters must register in each conference in which they are presenting.",
     "crumbs": [
       "Welcome"
     ]
@@ -35,18 +25,7 @@
     "href": "jun12.html#continental-breakfast-provided",
     "title": "Wednesday, June 12",
     "section": "8:00 - 9:00 | Continental Breakfast Provided",
-    "text": "8:00 - 9:00 | Continental Breakfast Provided",
-    "crumbs": [
-      "IN PERSON @ MCGILL UNIVERSITY",
-      "Wednesday, June 12"
-    ]
-  },
-  {
-    "objectID": "jun12.html#welcome-desk-open",
-    "href": "jun12.html#welcome-desk-open",
-    "title": "Wednesday, June 12",
-    "section": "8:00-11:30 | Welcome Desk Open",
-    "text": "8:00-11:30 | Welcome Desk Open",
+    "text": "8:00 - 9:00 | Continental Breakfast Provided\nTrottier Mezzanine",
     "crumbs": [
       "IN PERSON @ MCGILL UNIVERSITY",
       "Wednesday, June 12"
@@ -57,7 +36,7 @@
     "href": "jun12.html#conference-welcome-announcements-land-acknowledgement",
     "title": "Wednesday, June 12",
     "section": "9:00 - 9:15 | Conference Welcome, Announcements, & Land Acknowledgement",
-    "text": "9:00 - 9:15 | Conference Welcome, Announcements, & Land Acknowledgement\nTrottier 0060 (Session A)",
+    "text": "9:00 - 9:15 | Conference Welcome, Announcements, & Land Acknowledgement\nTrottier Mezzanine",
     "crumbs": [
       "IN PERSON @ MCGILL UNIVERSITY",
       "Wednesday, June 12"
@@ -130,11 +109,11 @@
     ]
   },
   {
-    "objectID": "jun12.html#concurrent-session-3-sustaining-positive-change",
-    "href": "jun12.html#concurrent-session-3-sustaining-positive-change",
+    "objectID": "jun12.html#concurrent-session-3",
+    "href": "jun12.html#concurrent-session-3",
     "title": "Wednesday, June 12",
-    "section": "3:00 - 3:45 | Concurrent Session 3 | Sustaining Positive Change",
-    "text": "3:00 - 3:45 | Concurrent Session 3 | Sustaining Positive Change\nTrottier 0060 (Session A)\n\n3:00 - 3:20 | Session 3.1\n\nSupporting OER Adoptions through Federated Discoverability\nPractice\nDon Eldridge | eCampus Ontario\n\n\n\n\n\n\nAbstract\n\n\n\n\n\nA key aspect of supporting OER adoption remains OER discoverability, which is commonly reported as a barrier to OER adoption as part of finding relevant resources and the time required to adopt (Belikov, & Bodily, 2016; Lantrip & Ray, 2021). This open data initiative includes the development of a metadata schema with crosswalks, technical configurations using Open Archives Initiative Protocol for Metadata Harvesting, and a collaborative pilot project to test and implement the technical solution. At the time of this proposal submission, the initiative is federating out the library metadata records to 24 post-secondary institutions. Lessons learned include working with consortiums and shared technology services, evaluating the value of federation for a wide range of post-secondary institutions, and the impact for future collaborations.\n\n\n\n\n\n\n3:25 - 3:45 | Session 3.2 | Sustaining Positive Change\n\nMeans to an End? Ethical Methodologies for Developing Ethical Facial Recognition Training Datasets\nResearch\nJin Sol Kim, Amanda Yu, Lai-Tze Fan & Tatum Weicker-O’Connor | University of Waterloo\n\n\n\n\n\n\nAbstract\n\n\n\n\n\nIn January of 2020, The New York Times published a report on the implications of Clearview AI’s facial recognition system in law enforcement. However, unlike other discussions of facial recognition in this field, which focus on the consequences of racial biases within the system, this report revealed the problematic methodology behind the development of Clearview AI’s robust training dataset, calling for an examination of ethics in the very process of creating ethical tech. Clearview AI has since been banned in countries including Canada for scraping over three billion photos from social media platforms, breaching privacy laws surrounding consent for use of personal data. Yet the challenge remains: how can we create a fair and robust training dataset for facial recognition algorithms given the resource-intensive nature of the task as well as complications such as the limitations of data privacy? How can we ensure that the means of creating ethical facial recognition technologies mirror its ends? With current rapid developments in generative AI, synthetic training datasets have newly emerged as a promising player in the field of facial recognition technologies. Training datasets such as Digi-Face 1M that are entirely composed of generated images seem to waive the need for ethical considerations altogether by skirting the use of human subjects. Nevertheless, insofar as the application of these tools affect human lives, we must question whether this new method of dataset development is truly free from ethical concerns.",
+    "section": "3:00 - 3:45 | Concurrent Session 3",
+    "text": "3:00 - 3:45 | Concurrent Session 3\nTrottier 0060 (Session A)\n\nSession 3.1 | Sustaining Positive Change\n\n3:00 - 3:20 | Supporting OER Adoptions through Federated Discoverability\nPractice\nDon Eldridge | eCampus Ontario\n\n\n\n\n\n\nAbstract\n\n\n\n\n\nA key aspect of supporting OER adoption remains OER discoverability, which is commonly reported as a barrier to OER adoption as part of finding relevant resources and the time required to adopt (Belikov, & Bodily, 2016; Lantrip & Ray, 2021). This open data initiative includes the development of a metadata schema with crosswalks, technical configurations using Open Archives Initiative Protocol for Metadata Harvesting, and a collaborative pilot project to test and implement the technical solution. At the time of this proposal submission, the initiative is federating out the library metadata records to 24 post-secondary institutions. Lessons learned include working with consortiums and shared technology services, evaluating the value of federation for a wide range of post-secondary institutions, and the impact for future collaborations.\n\n\n\n\n\n3:25 - 3:45 | Means to an End? Ethical Methodologies for Developing Ethical Facial Recognition Training Datasets\nResearch\nJin Sol Kim, Amanda Yu, Lai-Tze Fan & Tatum Weicker-O’Connor | University of Waterloo\n\n\n\n\n\n\nAbstract\n\n\n\n\n\nIn January of 2020, The New York Times published a report on the implications of Clearview AI’s facial recognition system in law enforcement. However, unlike other discussions of facial recognition in this field, which focus on the consequences of racial biases within the system, this report revealed the problematic methodology behind the development of Clearview AI’s robust training dataset, calling for an examination of ethics in the very process of creating ethical tech. Clearview AI has since been banned in countries including Canada for scraping over three billion photos from social media platforms, breaching privacy laws surrounding consent for use of personal data. Yet the challenge remains: how can we create a fair and robust training dataset for facial recognition algorithms given the resource-intensive nature of the task as well as complications such as the limitations of data privacy? How can we ensure that the means of creating ethical facial recognition technologies mirror its ends? With current rapid developments in generative AI, synthetic training datasets have newly emerged as a promising player in the field of facial recognition technologies. Training datasets such as Digi-Face 1M that are entirely composed of generated images seem to waive the need for ethical considerations altogether by skirting the use of human subjects. Nevertheless, insofar as the application of these tools affect human lives, we must question whether this new method of dataset development is truly free from ethical concerns.\n\n\n\n\n\n\nSession 3.2 | Transitions of Online Learning and Teaching\nTrottier 0070 (Session B)\n\n3:00 - 3:45 | Planning, living, and adding to our plates: : K-3 educators’ experiences of curricula in Virtual Learning Environments (VLE)\nPractice\nMelissa Bishop | University Prince Edward Island\n\n\n\n\n\n\nAbstract\n\n\n\n\n\nVirtual Learning Environments (VLE) have interested scholars since the late 20th century, with much of the research focusing on secondary and post-secondary instructors and learners (Brown, 2010; Dabbagh, 2007; Fuchs, 2014; Plump & LaRosa, 2017; Proserpio & Gioia, 2007). With the onset of VLEs in elementary education due to the COVID-19 pandemic and the continuation of synchronous virtual learning thereafter, VLEs have become commonplace in K-3 contexts across Ontario. Yet, as we contend with the ubiquitous nature of technology in early elementary, a paucity of literature exists regarding teachers’ and Early Childhood Educators’ (ECE) experiences of planned and lived curricula (Muldong et al., 2021; Aperribai et al., 2020; Ferdig et al., 2020) in VLEs. Starting from standpoint epistemologies (Au, 2012; Harding, 1991; Haraway, 2003), reflecting on five narrative interviews, and employing a narrative analysis of field texts (Clandinin, 2006; Clandinin & Connelly, 1988, 1996, 2000), we unearthed six narrative threads: time, parent communication, relationship building, classroom community, engagement and teacher presence, and technological challenges. These six threads suggested how ECEs and teachers navigated the entanglements of planned and lived curricular experiences in VLEs. Further, the five threads exposed critical elements to be considered in future VLE policy and curricular reform in the K-3 context.",
     "crumbs": [
       "IN PERSON @ MCGILL UNIVERSITY",
       "Wednesday, June 12"
@@ -163,22 +142,22 @@
     ]
   },
   {
-    "objectID": "jun12.html#section",
-    "href": "jun12.html#section",
+    "objectID": "jun12.html#see-congress-programming-for-social-zone-food-options",
+    "href": "jun12.html#see-congress-programming-for-social-zone-food-options",
     "title": "Wednesday, June 12",
-    "section": "5:00 - 7:00",
-    "text": "5:00 - 7:00\n\nSee Congress Programming for Social Tent & Food Options",
+    "section": "5:00 - 7:00 | See Congress Programming for Social Zone & Food Options",
+    "text": "5:00 - 7:00 | See Congress Programming for Social Zone & Food Options",
     "crumbs": [
       "IN PERSON @ MCGILL UNIVERSITY",
       "Wednesday, June 12"
     ]
   },
   {
-    "objectID": "jun12.html#otessa-social",
-    "href": "jun12.html#otessa-social",
+    "objectID": "jun12.html#otessa-social-reception-with-no-host-bar",
+    "href": "jun12.html#otessa-social-reception-with-no-host-bar",
     "title": "Wednesday, June 12",
-    "section": "7:00 - 11:59 | OTESSA Social",
-    "text": "7:00 - 11:59 | OTESSA Social",
+    "section": "6:00 - 11:59 | OTESSA Social – Reception with No-Host Bar",
+    "text": "6:00 - 11:59 | OTESSA Social – Reception with No-Host Bar\nLa Citadelle 26th Floor",
     "crumbs": [
       "IN PERSON @ MCGILL UNIVERSITY",
       "Wednesday, June 12"
@@ -200,18 +179,7 @@
     "href": "jun13.html#continental-breakfast-provided",
     "title": "Thursday, June 13",
     "section": "8:00 - 9:00 | Continental Breakfast Provided",
-    "text": "8:00 - 9:00 | Continental Breakfast Provided",
-    "crumbs": [
-      "IN PERSON @ MCGILL UNIVERSITY",
-      "Thursday, June 13"
-    ]
-  },
-  {
-    "objectID": "jun13.html#welcome-desk-open",
-    "href": "jun13.html#welcome-desk-open",
-    "title": "Thursday, June 13",
-    "section": "8:00-11:30 | Welcome Desk Open",
-    "text": "8:00-11:30 | Welcome Desk Open",
+    "text": "8:00 - 9:00 | Continental Breakfast Provided\nTrottier Mezzanine",
     "crumbs": [
       "IN PERSON @ MCGILL UNIVERSITY",
       "Thursday, June 13"
@@ -222,7 +190,7 @@
     "href": "jun13.html#conference-welcome-announcements-land-acknowledgement",
     "title": "Thursday, June 13",
     "section": "9:00 - 9:15 | Conference Welcome, Announcements, & Land Acknowledgement",
-    "text": "9:00 - 9:15 | Conference Welcome, Announcements, & Land Acknowledgement\nTrottier 0060 (Session A)",
+    "text": "9:00 - 9:15 | Conference Welcome, Announcements, & Land Acknowledgement\nTrottier Mezzanine",
     "crumbs": [
       "IN PERSON @ MCGILL UNIVERSITY",
       "Thursday, June 13"
@@ -295,33 +263,33 @@
     ]
   },
   {
-    "objectID": "jun13.html#break-3",
-    "href": "jun13.html#break-3",
-    "title": "Thursday, June 13",
-    "section": "2:15 - 2:45 | Break",
-    "text": "2:15 - 2:45 | Break",
-    "crumbs": [
-      "IN PERSON @ MCGILL UNIVERSITY",
-      "Thursday, June 13"
-    ]
-  },
-  {
-    "objectID": "jun13.html#unconference",
-    "href": "jun13.html#unconference",
-    "title": "Thursday, June 13",
-    "section": "2:45 - 3:45 | Unconference",
-    "text": "2:45 - 3:45 | Unconference",
-    "crumbs": [
-      "IN PERSON @ MCGILL UNIVERSITY",
-      "Thursday, June 13"
-    ]
-  },
-  {
     "objectID": "jun13.html#break-with-coffee-snack-provided",
     "href": "jun13.html#break-with-coffee-snack-provided",
     "title": "Thursday, June 13",
-    "section": "3:45 - 4:00 | Break with Coffee & Snack Provided",
-    "text": "3:45 - 4:00 | Break with Coffee & Snack Provided",
+    "section": "2:15 - 2:45 | Break with Coffee & Snack Provided",
+    "text": "2:15 - 2:45 | Break with Coffee & Snack Provided",
+    "crumbs": [
+      "IN PERSON @ MCGILL UNIVERSITY",
+      "Thursday, June 13"
+    ]
+  },
+  {
+    "objectID": "jun13.html#posters---forthcoming",
+    "href": "jun13.html#posters---forthcoming",
+    "title": "Thursday, June 13",
+    "section": "2:45 - 3:45 | Posters - Forthcoming",
+    "text": "2:45 - 3:45 | Posters - Forthcoming",
+    "crumbs": [
+      "IN PERSON @ MCGILL UNIVERSITY",
+      "Thursday, June 13"
+    ]
+  },
+  {
+    "objectID": "jun13.html#break-3",
+    "href": "jun13.html#break-3",
+    "title": "Thursday, June 13",
+    "section": "3:45 - 4:00 | Break",
+    "text": "3:45 - 4:00 | Break",
     "crumbs": [
       "IN PERSON @ MCGILL UNIVERSITY",
       "Thursday, June 13"
@@ -339,22 +307,22 @@
     ]
   },
   {
-    "objectID": "jun13.html#section",
-    "href": "jun13.html#section",
+    "objectID": "jun13.html#see-congress-programming-for-social-zone-food-options",
+    "href": "jun13.html#see-congress-programming-for-social-zone-food-options",
     "title": "Thursday, June 13",
-    "section": "5:00 - 7:00",
-    "text": "5:00 - 7:00\n\nSee Congress Programming for Social Tent & Food Options",
+    "section": "5:00 - 7:00 | See Congress Programming for Social Zone & Food Options",
+    "text": "5:00 - 7:00 | See Congress Programming for Social Zone & Food Options",
     "crumbs": [
       "IN PERSON @ MCGILL UNIVERSITY",
       "Thursday, June 13"
     ]
   },
   {
-    "objectID": "jun13.html#otessa-social",
-    "href": "jun13.html#otessa-social",
+    "objectID": "jun13.html#otessa-social-reception-with-no-host-bar",
+    "href": "jun13.html#otessa-social-reception-with-no-host-bar",
     "title": "Thursday, June 13",
-    "section": "7:00 - 11:59 | OTESSA Social",
-    "text": "7:00 - 11:59 | OTESSA Social",
+    "section": "6:00 - 11:59 | OTESSA Social – Reception with No-Host Bar",
+    "text": "6:00 - 11:59 | OTESSA Social – Reception with No-Host Bar\nLa Citadelle 26th Floor",
     "crumbs": [
       "IN PERSON @ MCGILL UNIVERSITY",
       "Thursday, June 13"
@@ -376,18 +344,7 @@
     "href": "jun14.html#continental-breakfast-provided",
     "title": "Friday, June 14",
     "section": "8:00 - 9:00 | Continental Breakfast Provided",
-    "text": "8:00 - 9:00 | Continental Breakfast Provided",
-    "crumbs": [
-      "IN PERSON @ MCGILL UNIVERSITY",
-      "Friday, June 14"
-    ]
-  },
-  {
-    "objectID": "jun14.html#welcome-desk-open",
-    "href": "jun14.html#welcome-desk-open",
-    "title": "Friday, June 14",
-    "section": "8:00-11:30 | Welcome Desk Open",
-    "text": "8:00-11:30 | Welcome Desk Open",
+    "text": "8:00 - 9:00 | Continental Breakfast Provided\nTrottier Mezzanine",
     "crumbs": [
       "IN PERSON @ MCGILL UNIVERSITY",
       "Friday, June 14"
@@ -398,7 +355,7 @@
     "href": "jun14.html#conference-welcome-announcements-land-acknowledgement",
     "title": "Friday, June 14",
     "section": "9:00 - 9:15 | Conference Welcome, Announcements, & Land Acknowledgement",
-    "text": "9:00 - 9:15 | Conference Welcome, Announcements, & Land Acknowledgement\nTrottier 0060 (Session A)",
+    "text": "9:00 - 9:15 | Conference Welcome, Announcements, & Land Acknowledgement\nTrottier Mezzanine",
     "crumbs": [
       "IN PERSON @ MCGILL UNIVERSITY",
       "Friday, June 14"
@@ -438,11 +395,11 @@
     ]
   },
   {
-    "objectID": "jun14.html#poster-session",
-    "href": "jun14.html#poster-session",
+    "objectID": "jun14.html#unconference",
+    "href": "jun14.html#unconference",
     "title": "Friday, June 14",
-    "section": "11:00-12:00 | Poster Session",
-    "text": "11:00-12:00 | Poster Session\nInformation forthcoming.",
+    "section": "11:00-12:00 | Unconference",
+    "text": "11:00-12:00 | Unconference",
     "crumbs": [
       "IN PERSON @ MCGILL UNIVERSITY",
       "Friday, June 14"
@@ -515,22 +472,22 @@
     ]
   },
   {
-    "objectID": "jun14.html#section",
-    "href": "jun14.html#section",
+    "objectID": "jun14.html#see-congress-programming-for-social-zone-food-options",
+    "href": "jun14.html#see-congress-programming-for-social-zone-food-options",
     "title": "Friday, June 14",
-    "section": "5:00 - 7:00",
-    "text": "5:00 - 7:00\n\nSee Congress Programming for Social Tent & Food Options",
+    "section": "5:00 - 7:00 | See Congress Programming for Social Zone & Food Options",
+    "text": "5:00 - 7:00 | See Congress Programming for Social Zone & Food Options",
     "crumbs": [
       "IN PERSON @ MCGILL UNIVERSITY",
       "Friday, June 14"
     ]
   },
   {
-    "objectID": "jun14.html#otessa-social",
-    "href": "jun14.html#otessa-social",
+    "objectID": "jun14.html#otessa-social-reception-with-no-host-bar",
+    "href": "jun14.html#otessa-social-reception-with-no-host-bar",
     "title": "Friday, June 14",
-    "section": "7:00 - 11:59 | OTESSA Social",
-    "text": "7:00 - 11:59 | OTESSA Social",
+    "section": "6:00 - 11:59 | OTESSA Social – Reception with No-Host Bar",
+    "text": "6:00 - 11:59 | OTESSA Social – Reception with No-Host Bar\nLa Citadelle 26th Floor",
     "crumbs": [
       "IN PERSON @ MCGILL UNIVERSITY",
       "Friday, June 14"
@@ -552,18 +509,7 @@
     "href": "jun15.html#continental-breakfast-provided",
     "title": "Saturday, June 15",
     "section": "8:00 - 9:00 | Continental Breakfast Provided",
-    "text": "8:00 - 9:00 | Continental Breakfast Provided",
-    "crumbs": [
-      "IN PERSON @ MCGILL UNIVERSITY",
-      "Saturday, June 15"
-    ]
-  },
-  {
-    "objectID": "jun15.html#welcome-desk-open",
-    "href": "jun15.html#welcome-desk-open",
-    "title": "Saturday, June 15",
-    "section": "8:00-11:30 | Welcome Desk Open",
-    "text": "8:00-11:30 | Welcome Desk Open",
+    "text": "8:00 - 9:00 | Continental Breakfast Provided\nTrottier Mezzanine",
     "crumbs": [
       "IN PERSON @ MCGILL UNIVERSITY",
       "Saturday, June 15"
@@ -574,7 +520,7 @@
     "href": "jun15.html#conference-welcome-announcements-land-acknowledgement",
     "title": "Saturday, June 15",
     "section": "9:00 - 9:15 | Conference Welcome, Announcements, & Land Acknowledgement",
-    "text": "9:00 - 9:15 | Conference Welcome, Announcements, & Land Acknowledgement\nTrottier 0060 (Session A)",
+    "text": "9:00 - 9:15 | Conference Welcome, Announcements, & Land Acknowledgement\nTrottier Mezzanine",
     "crumbs": [
       "IN PERSON @ MCGILL UNIVERSITY",
       "Saturday, June 15"
@@ -691,22 +637,22 @@
     ]
   },
   {
-    "objectID": "jun15.html#section",
-    "href": "jun15.html#section",
+    "objectID": "jun15.html#see-congress-programming-for-social-zone-food-options",
+    "href": "jun15.html#see-congress-programming-for-social-zone-food-options",
     "title": "Saturday, June 15",
-    "section": "5:00 - 7:00",
-    "text": "5:00 - 7:00\n\nSee Congress Programming for Social Tent & Food Options",
+    "section": "5:00 - 7:00 | See Congress Programming for Social Zone & Food Options",
+    "text": "5:00 - 7:00 | See Congress Programming for Social Zone & Food Options",
     "crumbs": [
       "IN PERSON @ MCGILL UNIVERSITY",
       "Saturday, June 15"
     ]
   },
   {
-    "objectID": "jun15.html#otessa-social",
-    "href": "jun15.html#otessa-social",
+    "objectID": "jun15.html#otessa-social-reception-with-no-host-bar",
+    "href": "jun15.html#otessa-social-reception-with-no-host-bar",
     "title": "Saturday, June 15",
-    "section": "7:00 - 11:59 | OTESSA Social",
-    "text": "7:00 - 11:59 | OTESSA Social",
+    "section": "6:00 - 11:59 | OTESSA Social – Reception with No-Host Bar",
+    "text": "6:00 - 11:59 | OTESSA Social – Reception with No-Host Bar\nLa Citadelle 26th Floor",
     "crumbs": [
       "IN PERSON @ MCGILL UNIVERSITY",
       "Saturday, June 15"
