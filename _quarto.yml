@@ -34,6 +34,8 @@ format:
     theme: cosmo
     number-depth: 0
     toc-depth: 4
+    mainfont: arial
+    fontsize: "18px"
   pdf:
     documentclass: scrreprt
 
