@@ -51,15 +51,17 @@ Student-facing learning analytic dashboards (LADs) claim to help students manage
 :::
 
  
-#### 10:00 - 10:30 | Building/Belonging: An Exploration of Digital and Place-Based Belonging Practices at University of Highlands & Islands
+#### 10:00 - 10:30 | Tech-based teaching practices and student engagement from the perspective of self-determination theory
 
-**Research**
+**Trottier 2110 (Session D)**
 
-**Bonnie Stewart** | *University of Windsor*
+**Géraldine Heilporn, Mourad Majdoub & Fatme Diab** |  *Université Laval* 
+
 
 ::: {.callout-note collapse="true"}
-### Abstract
-This presentation overviews a case study of belonging, considered and framed through the lens of both place-based identity and digital education. The case study project under discussion aims to build on the established digital practices of a distributed European higher and further education institution, with multiple regional campuses, which serve to make education accessible and inclusive to a remote population otherwise underserved. The session will present the lit review, design, and goals of the case study project, while exploring ideas of community belonging in traditionally diasporic regions as well as digital belonging in online classrooms. It will explore the affordances and impacts of both, and the ways the two may or may not intersect in this particular context. This project extends the exemplary research and practice being done at this institution with digital technologies, in hopes of making visible the ties between geographic and cultural belonging practices and those that can be amplified and supported digitally. This institution's inclusive and accessible approaches may be of value to the OTESSA audience in a time when belonging is a need for students in many contexts.
+## Abstract
+Teachers can enhance inclusion and provide personalized learning experiences for students by utilizing digital tools and prioritizing inclusive teaching methods (Kim et al., 2019). However, Cabellos et al. (2023) have argued that digital resources were used more to transmit information than to engage students in their learning. The widespread and necessary use of ICT has not served to make learning student-centered but was primarily aimed at the transmission and evaluation of the content. Thus, students’ motivation and engagement are significantly affected, worsening the existing issues regarding low school motivation, especially in secondary school (Caiet al., 2022). In response to these research gaps, the aim of this communication is to explore high school teachers’ technology-based teaching methods that motivate and address the needs of learners with the use of technology based on the digital divide framework (Van Dijk, 2020), SDT (Self-Determination Theory) (Ryan & Deci, 2017) and student engagement model (Archambault et al., 2019). We have conducted individual semi-structured interviews with high school teachers aiming to obtain in-depth qualitative data mainly through open-ended questions. A thematic analysis has been employed to inductively analyze the interview data and generate possible themes and categories based on the objectives of our study. The findings and recommendations for future research will be shared at OTESSA conference.
+
 :::
 
 ### Session 9.2 | Sustaining Positive Change

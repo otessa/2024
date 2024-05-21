@@ -222,7 +222,7 @@ In January of 2020, The New York Times published a report on the implications of
 
 **Trottier 0070 (Session B)**
 
-####  3:00 - 3:45 | Planning, living, and adding to our plates: : K-3 educators' experiences of curricula in Virtual Learning Environments (VLE)
+####  3:00 - 3:20 | Planning, living, and adding to our plates: K-3 educators' experiences of curricula in Virtual Learning Environments (VLE)
 
 
 
@@ -237,6 +237,19 @@ Virtual Learning Environments (VLE) have interested scholars since the late 20th
 
 :::
 
+####  3:25 - 3:45 | Getting the right mix - A risk-based approach to blended learning design for healthcare workplace training
+
+
+
+**Practice**
+
+**Deborah Exelby** | *Athabasca University*
+
+
+::: {.callout-note collapse="true"}
+## Abstract
+Ensuring employees are competent and confident to perform their duties relies on new employee orientation and ongoing compliance training. Currently, there is no industry standard or evidence-informed decision framework that determines when to use face-to-face, online, or blended learning for healthcare workplace training. This thesis research investigates how instructional designers use blended learning to balance the ethical, patient safety, resource, and budget demands that an ever-changing and high-tech workplace creates, by answering the question: Is there a relationship between perceived risk of the content to be learned, delivery modes, and interaction techniques in healthcare workplace training? An online survey and correlation analysis was used to rank healthcare workplace instructional designers’ preferences about  their use of learning modalities and interaction techniques in relation to their perceived risk of the content to be learned. Quantitative analysis found: 1) no preference for synchronous delivery, 2) low preference for blended learning delivery, and 3) high preference for in-person face-to-face delivery via learner-instructor interaction specifically for high and medium-risk learning content. This study enabled the development of a proposed training and orientation planning support (TOPS) matrix for risk-based instructional design decision-making. 
+:::
 
 ## 3:45 - 4:00 | Break
 
@@ -247,42 +260,25 @@ Virtual Learning Environments (VLE) have interested scholars since the late 20th
 
 **Trottier 2100 (Session C)**
 
-####  Planning, living, and adding to our plates: : K-3 educators' experiences of curricula in Virtual Learning Environments (VLE)
+####  Building/Belonging: An Exploration of Digital and Place-Based Belonging Practices at University of Highlands & Islands
 
+**Research**
 
-**Practice**
-
-**Melissa Bishop** | *University of Prince Edward Island*
-
+**Bonnie Stewart** | *University of Windsor*
 
 ::: {.callout-note collapse="true"}
-## Abstract
-Virtual Learning Environments (VLE) have interested scholars since the late 20th century, with much of the research focusing on secondary and post-secondary instructors and learners (Brown, 2010; Dabbagh, 2007; Fuchs, 2014; Plump & LaRosa, 2017; Proserpio & Gioia, 2007). With the onset of VLEs in elementary education due to the COVID-19 pandemic and the continuation of synchronous virtual learning thereafter, VLEs have become commonplace in K-3 contexts across Ontario. Yet, as we contend with the ubiquitous nature of technology in early elementary, a paucity of literature exists regarding teachers’ and Early Childhood Educators' (ECE) experiences of planned and lived curricula (Muldong et al., 2021; Aperribai et al., 2020; Ferdig et al., 2020) in VLEs. Starting from standpoint epistemologies (Au, 2012; Harding, 1991; Haraway, 2003), reflecting on five narrative interviews, and employing a narrative analysis of field texts (Clandinin, 2006; Clandinin & Connelly, 1988, 1996, 2000), we unearthed six narrative threads: time, parent communication, relationship building, classroom community, engagement and teacher presence, and technological challenges. These six threads suggested how ECEs and teachers navigated the entanglements of planned and lived curricular experiences in VLEs. Further, the five threads exposed critical elements to be considered in future VLE policy and curricular reform in the K-3 context.
-
+### Abstract
+This presentation overviews a case study of belonging, considered and framed through the lens of both place-based identity and digital education. The case study project under discussion aims to build on the established digital practices of a distributed European higher and further education institution, with multiple regional campuses, which serve to make education accessible and inclusive to a remote population otherwise underserved. The session will present the lit review, design, and goals of the case study project, while exploring ideas of community belonging in traditionally diasporic regions as well as digital belonging in online classrooms. It will explore the affordances and impacts of both, and the ways the two may or may not intersect in this particular context. This project extends the exemplary research and practice being done at this institution with digital technologies, in hopes of making visible the ties between geographic and cultural belonging practices and those that can be amplified and supported digitally. This institution's inclusive and accessible approaches may be of value to the OTESSA audience in a time when belonging is a need for students in many contexts.
 :::
 
-### Session 4.2  | Transitions of Online Learning and Teaching
-
-####  Tech-based teaching practices and student engagement from the perspective of self-determination theory
+### Session 4.2  | Sustaining Positive Change
 
 **Trottier 2110 (Session D)**
-
-**Géraldine Heilporn, Mourad Majdoub & Fatme Diab** |  *Université Laval* 
-
-
-::: {.callout-note collapse="true"}
-## Abstract
-Teachers can enhance inclusion and provide personalized learning experiences for students by utilizing digital tools and prioritizing inclusive teaching methods (Kim et al., 2019). However, Cabellos et al. (2023) have argued that digital resources were used more to transmit information than to engage students in their learning. The widespread and necessary use of ICT has not served to make learning student-centered but was primarily aimed at the transmission and evaluation of the content. Thus, students’ motivation and engagement are significantly affected, worsening the existing issues regarding low school motivation, especially in secondary school (Caiet al., 2022). In response to these research gaps, the aim of this communication is to explore high school teachers’ technology-based teaching methods that motivate and address the needs of learners with the use of technology based on the digital divide framework (Van Dijk, 2020), SDT (Self-Determination Theory) (Ryan & Deci, 2017) and student engagement model (Archambault et al., 2019). We have conducted individual semi-structured interviews with high school teachers aiming to obtain in-depth qualitative data mainly through open-ended questions. A thematic analysis has been employed to inductively analyze the interview data and generate possible themes and categories based on the objectives of our study. The findings and recommendations for future research will be shared at OTESSA conference.
-
-:::
-
-### Session 4.3  | Sustaining Positive Change
 
 ####  Open Learning Design in an Inquiry-based Educational Setting
 
 **Research**
 
-**Trottier 0070 (Session B)**
 
 **Maryam Shirdel Pour & Michael Paskevicius** | *University of Victoria*
 
