@@ -2,7 +2,7 @@
 
 ::: {.callout-tip}
 ## Note!
-In Person at McGill University
+IN PERSON at Campus de Longueuil of Université de Sherbrooke
 :::
 
 ## Current time in Montréal (click for more info)
@@ -19,17 +19,13 @@ In Person at McGill University
 
 ## 8:00 - 9:00 | Continental Breakfast Provided {.unnumbered}
 
-**Trottier Mezzanine**
+**La Source**
 
-<!--
-## 8:00-11:30 | Welcome Desk Open  
--->
+## 9:30 - 9:45 | Conference Welcome, Announcements, & Land Acknowledgement
 
-## 9:00 - 9:15 | Conference Welcome, Announcements, & Land Acknowledgement
+**La Source**
 
-**Trottier Mezzanine**
-
-## 9:15 - 9:30 | Break
+## 9:45 - 10:00 | Break
 
 
 ## 9:30-10:30 | Concurrent Session 1
