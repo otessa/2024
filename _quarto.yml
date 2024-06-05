@@ -9,7 +9,7 @@ book:
   date-format: "MMM D, YYYY [@] h:mm a z [(UTC]Z[)]"
   chapters:
     - index.qmd
-    - part: "IN PERSON @ MCGILL UNIVERSITY"
+    - part: "IN PERSON @ USherbrooke Longueuil"
       chapters:
           - jun12.qmd
           - jun13.qmd

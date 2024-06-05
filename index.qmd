@@ -3,7 +3,11 @@
 
 ![OTESSA Logo](OTESSA-conf.png)
 
+::: {.callout-warning}
+# Note!
 
+We are revising this schedule as of June 4. Please stand by.
+:::
 
 **All times are Eastern Daylight Time**
 

@@ -55,6 +55,22 @@ This study employs discourse analysis to examine how graduate students in instru
 This study investigates the pedagogical and instructional design process of a hybrid course in pre-service teacher education. Guided by the Community of Inquiry (COI) framework, the course design aims to foster social, cognitive, and teaching presence in a hybrid learning environment. A narrative self-study approach was employed to reflect on the teaching practices of an instructor and a graduate teaching assistant (GTA). Data was obtained from their teaching reflections, which examined the impact of implementing a hybrid face-to-face driver model informed by COI on enhancing pre-service teachers' learning experiences. The study results suggest that the hybrid course design provides a more inclusive and empowering learning environment. The flexible format allows students to demonstrate their learning and collaborate effectively while developing socio-emotional awareness. By examining the experiences and knowledge of an instructor and a GTA, this study offers insights into how to effectively incorporate digital technologies and hybrid practices to promote a deeper understanding of lived experience in learning within the context of teacher education programs. With the rapid shift to online learning because of the COVID-19 pandemic, understanding how to design and implement hybrid courses becomes crucial in empowering pre-service teachers for the digital era.
 :::
 
+<!--
+####  3:00 - 3:20 | Supporting OER Adoptions through Federated Discoverability
+
+
+**Practice**
+
+**Don Eldridge** | *eCampus Ontario*
+
+
+::: {.callout-note collapse="true"}
+## Abstract
+A key aspect of supporting OER adoption remains OER discoverability, which is commonly reported as a barrier to OER adoption as part of finding relevant resources and the time required to adopt (Belikov, & Bodily, 2016; Lantrip & Ray, 2021). This open data initiative includes the development of a metadata schema with crosswalks, technical configurations using Open Archives Initiative Protocol for Metadata Harvesting, and a collaborative pilot project to test and implement the technical solution. At the time of this proposal submission, the initiative is federating out the library metadata records to 24 post-secondary institutions. Lessons learned include working with consortiums and shared technology services, evaluating the value of federation for a wide range of post-secondary institutions, and the impact for future collaborations.
+
+:::
+-->
+
 #### 2:15 - 2:45 | Encouraging Academic Writing: Online Graduate Education Writing Retreats | Transitions of Online Learning and Teaching
 
 **Research**

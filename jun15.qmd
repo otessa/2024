@@ -17,7 +17,7 @@ IN PERSON at Campus de Longueuil of Université de Sherbrooke
 
 -->
 
-## 8:00 - 9:00 | Continental Breakfast Provided {.unnumbered}
+## 8:30 - 9:30 | Continental Breakfast Provided {.unnumbered}
 
 **La Source**
 
@@ -64,6 +64,19 @@ Veteran leaders of groundbreaking open education projects and programs reflect o
 ### Session 13.3 | Addressing Inequities
 
 **Trottier 0060 (Session A)**
+
+<!--
+####  Building/Belonging: An Exploration of Digital and Place-Based Belonging Practices at University of Highlands & Islands
+
+**Research**
+
+**Bonnie Stewart** | *University of Windsor*
+
+::: {.callout-note collapse="true"}
+### Abstract
+This presentation overviews a case study of belonging, considered and framed through the lens of both place-based identity and digital education. The case study project under discussion aims to build on the established digital practices of a distributed European higher and further education institution, with multiple regional campuses, which serve to make education accessible and inclusive to a remote population otherwise underserved. The session will present the lit review, design, and goals of the case study project, while exploring ideas of community belonging in traditionally diasporic regions as well as digital belonging in online classrooms. It will explore the affordances and impacts of both, and the ways the two may or may not intersect in this particular context. This project extends the exemplary research and practice being done at this institution with digital technologies, in hopes of making visible the ties between geographic and cultural belonging practices and those that can be amplified and supported digitally. This institution's inclusive and accessible approaches may be of value to the OTESSA audience in a time when belonging is a need for students in many contexts.
+:::
+-->
 
 #### Designing and Implementing a Framework to Centralize an Accessibility Resource Index Focusing on Teaching & Learning
 

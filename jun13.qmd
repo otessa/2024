@@ -16,7 +16,7 @@ IN PERSON at Campus de Longueuil of Université de Sherbrooke
 
 -->
 
-## 8:00 - 9:00 | Continental Breakfast Provided {.unnumbered}
+## 8:30 - 9:30 | Continental Breakfast Provided {.unnumbered}
 
 **La Source**
 
@@ -55,53 +55,12 @@ Au cours de notre session, nous fournirons des informations sur ce qu'est le CAP
 
 
 
-### Session 5.2 | Wildcard
-
-**Trottier 0070 (Session B) | Practice**
-
-#### 9:30 - 10:30 | Unveiling the Future of Language Teaching and Acquisition: Exploring the Conflation of Cultural Historical Activity Theory, and Generative AI
+### Session 5.2 | 
 
 
 
 
-**Tanya Dixit & Michael Paskevicius** | *University of Victoria*
 
-
-::: {.callout-note collapse="true"}
-## Abstract
-
-Contemporary technology trends in education are profoundly reshaping the design of teaching and learning languages. This trajectory, Li (2017) observes, can be largely attributed to the "development of learning theories and pedagogical considerations" (p.3) alongside several other contributing factors, a sentiment echoed by Blake (2009) and Heift and Chapelle (2012) who confirm the far-reaching influence and potential of CALL, which further offers substantial promise to refine and enhance second language (L2) acquisition. Moreover, these scholars unanimously agree that technology integration and implementation should be firmly grounded in research built upon theoretical foundations. Hence, conjoining Cultural Historical Activity Theory (CHAT) (Engeström, 1987) and the affordances of generative AI, exemplified by ChatGPT, this presentation looks at transformative opportunities in which current AI bots can reform classroom teaching-learning discourse. This comprehensive awareness about AI's potentiality to revamp instructional methods, improve learner engagement, and offer avenues for personalizing and differentiating instruction is to be deemed essential not only for equipping stakeholders with the knowledge to navigate the nuances and challenges inherent in optimizing language acquisition experiences, but also to set the stage for a future where learners and educators can seamlessly integrate cutting-edge tools and technologies into improving the language acquisition experience. 
-
-:::
-
-
-
-#### 10:00 - 10:30 | Personalized learning path in a course on digital technology for secondary education programs
-
-**Géraldine Heilporn, Alexandre Lepage, Audrey Raynault & Julie Chamberland** | *Université Laval*
-
-::: {.callout-note collapse="true"}
-## Abstract
-
-This communication presents the new design of a course on digital technology for teaching and learning, offered to students enrolled in in secondary education programs at Laval University (Quebec), based on the concept of adaptive learning. Following a diagnostic assessment questionnaire of their digital competency at the beginning of the semester, students are automatically assigned to three thematic activities aimed to develop their digital competency for transfer to secondary education. After working on a thematic activity for one week, students return to the classroom for peer-to-peer teaching and learning on these thematic activities, in a blended course modality alternating asynchronous (thematic activities) and synchronous classes (peer-to-peer teaching and learning). Temporary thematic support communities as well as disciplinary learning communities are set to encourage peer collaboration and support throughout the semester. At given timepoints during the semester, students also have to assess their peer collaboration and give them feedback a peer evaluation mechanism.
-
-:::
-
-### Session 5.3 | Sustaining Positive Change
-
-**Trottier 2100 (Session C)**
-
-#### 9:30 - 10:30 | Developments in National OER Advocacy in Canada 
-
-**Ann Ludbrook** | *Toronto Metropolitan University*
-
-**Michael McNally** | *University of Alberta*
-
-::: {.callout-note collapse="true"}
-## Abstract
-
-This 50-minute session builds upon the Canadian Association Research Libraries (CARL)’s National Advocacy Framework for Open Educational Resources (OER) in Canada (2023). It updates attendees on national OER advancements, and features insights from the Indigenous Knowledges and OER summit held in Vancouver in February 2024. The summit produced principles for working with Indigenous knowledges in OER, alongside discussions on progressing national OER advocacy. The session covers developments in policy, infrastructure, and francophone OER stemming from summits in 2022 and 2023. Reports from these events will be discussed, along with updates on ongoing federal budget consultations and the anticipated 2025 federal election. The audience will also have the opportunity to contribute ideas and strategies for national advocacy, via group discussion and polls.
-:::
 
 ## 10:30-11:00 | Break
 
@@ -270,21 +229,7 @@ As open educational practices (OEP) and open educational resources (OER) grants,
 
 **Trottier 0060 (Session A)**
 
-####  Creating Reskilling and Upskilling Opportunities for Internationally Educated Immigrants through Online Learning Programs: The Story of Success
 
-**Practice**
-
-
-
-**Marina Grineva** | *Intercultural Skills Lab (Rotman School of Management, University of Toronto)*
-
-
-::: {.callout-note collapse="true"}
-## Abstract
-The importance of access to reskilling and upskilling opportunities for immigrants can’t be overestimated. However, there is a number of challenges that this population faces while trying to integrate into the workforce or advance in their careers in Canadian work environments. One of such challenges is the inability to attend professional development programs in-person. From this perspective, technology-enhanced learning, specifically, on-line or hybrid learning environments (a combination of asynchronous and synchronous learning sessions) are one of the solutions of the problem.
-
-In this presentation, we aim to provide the overview of  professional development programs offered by [The Intercultural Skills Lab](https://www.rotman.utoronto.ca/ProfessionalDevelopment/interculturalskillslab) (Rotman School of Management, University of Toronto) that successfully provides reskilling and upskilling opportunities for internationally trained immigrants by creating a variety of technology-enhanced learnings environments. Specifically, we will demonstrate how through the use of a number of online learning tools the program participants are given an opportunity to become part of vibrant collaborative learning communities fostering professional development in such areas as intercultural intelligence, effective communication, career management, as well as in the sector-specific disciplines.
-:::
 
 ## 5:00 - 7:00 | See Congress Programming for Social Zone & Food Options
 
