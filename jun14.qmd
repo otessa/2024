@@ -12,18 +12,13 @@ IN PERSON at Campus de Longueuil of Université de Sherbrooke
 </iframe>
 
 <!--
-
 > Join us at the #OTESSA24 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 6:30 – 7:30 am (Eastern) at https://voiced.ca
-
 -->
 
 ## 8:30 - 9:30 | Continental Breakfast Provided {.unnumbered}
 
 **La Source**
 
-<!--
-## 8:00-11:30 | Welcome Desk Open  
--->
 
 ## 9:30 - 9:45 | Conference Welcome, Announcements, & Land Acknowledgement
 
@@ -32,11 +27,11 @@ IN PERSON at Campus de Longueuil of Université de Sherbrooke
 ## 9:45 - 10:00 | Break
 
 
-## 9:30-10:30 | Concurrent Session 9
+## 10:00-11:00 | Concurrent Session 6
 
-### Session 9.1 | Transitions of Online Learning and Teaching
+### Session 6.1 | Transitions of Online Learning and Teaching
 
-**Trottier 2110 (Session D)**
+**Room 3605 (Session A)**
 
 #### 9:30 - 10:30 | How do students make sense of a Learning Analytic Dashboard? Exploring learners’ perceptions and plans
 
@@ -51,12 +46,9 @@ Student-facing learning analytic dashboards (LADs) claim to help students manage
 :::
 
  
-#### 10:00 - 10:30 | Tech-based teaching practices and student engagement from the perspective of self-determination theory
-
-**Trottier 2110 (Session D)**
+#### 10:30 - 11:00 | Tech-based teaching practices and student engagement from the perspective of self-determination theory
 
 **Géraldine Heilporn, Mourad Majdoub & Fatme Diab** |  *Université Laval* 
-
 
 ::: {.callout-note collapse="true"}
 ## Abstract
@@ -64,11 +56,26 @@ Teachers can enhance inclusion and provide personalized learning experiences for
 
 :::
 
-### Session 9.2 | Sustaining Positive Change
+### Session 6.2 | Sustaining Positive Change
 
-**Trottier 0070 (Session B) | Practice**
+**Room 3665 (Session B)**
 
-#### 9:30 - 10:30 | Walk the Walk: Fostering Equitable Practices in Organizational Sustainability
+#### 10:00 - 10:20 | Considering a Reboot: Using Design-Thinking Strategies to Maintain a Dynamic, Industry-Relevant, Game Design Curriculum
+
+**Christopher Marsh** | *Bradley University*
+
+**Bruce Parsons**  | *Radford University*
+
+::: {.callout-note collapse="true"}
+## Abstract
+
+The gaming industry, expected to exceed $300 billion in global revenue by 2025, offers unique challenges and opportunities for academic programs and the traditional collegiate curriculum development process. This research discusses how game design curricula can evolve to meet those demands through sustainability and preparing graduates to be skilled and conscious of their impact and opportunities in the field.
+
+
+:::
+
+
+#### 10:20 - 11:00 | Walk the Walk: Fostering Equitable Practices in Organizational Sustainability
 
 **Apurva Ashok & Kaitlin Schilling** | *The Rebus Foundation*
 
@@ -85,11 +92,11 @@ While the principles we embrace are not groundbreaking, they are critical to the
 
 :::
 
-### Session 9.3 | Addressing Inequities
+### Session 6.3 | Addressing Inequities
 
-**Trottier 2100 (Session C)**
+**Room 3675 (Session C)**
 
-#### 9:30 - 10:30 | Is AI for or Against Human Success? An Exploratory Engagement by Female Scholars
+#### 10:00 - 11:00 | Is AI for or Against Human Success? An Exploratory Engagement by Female Scholars
 
 **Practice**
 
@@ -107,22 +114,22 @@ In this practice-focused session, an educator from Kenya and two educators from 
 
 :::
 
-## 10:30-11:00 | Break
+## 11:00 - 11:30 | Break
 
   
-## 11:00-12:00 | Unconference
+## 11:30-12:30 | Unconference
 
-## 12:00 - 1:30 | Break
+## 12:30 - 1:30 | Break
 
-## 1:30 - 2:15 | Concurrent Session 10
-
-
-### Session 10.1 | Wildcard
-
-**Trottier 2100 (Session C)**
+## 1:30 - 2:15 | Concurrent Session 7
 
 
-#### 1:30 - 1:50 | Dangling in Between: Investigating the Impacts of Using AI in Higher Education Research
+### Session 7.1 | Wildcard
+
+**Room 3605 (Session A)**
+
+
+#### 1:30 - 2:00 | Dangling in Between: Investigating the Impacts of Using AI in Higher Education Research
 
 **Research** 
 
@@ -135,7 +142,7 @@ In this practice-focused session, an educator from Kenya and two educators from 
 Artificial intelligence (AI) is used in education since 2015 (Vincent-Lancrin & van der Vlies, 2020). Benefits and hindrances of using AI has been debated in many academic literature (Chen et al., 2020; Crompton & Song, 2021; Verma & Tomar, 2021). Today with the rise of AI tools which are available to the public, with students using them more, and universities clarifying their stance on the topic, investigating the impacts of using AI in education is more crucial than ever. The purpose of this paper is to investigate the impacts of using AI tools for graduate students. For this aim, participants were introduced to a few AI tools to use for writing literature review. Participants were also interviewed on their experience and opinion on using AI in research. Initial findings of this research suggest that the participants could benefit from using AI, for example in saving time while researching, although some concerns remained unsolved for them. The output of this research can be considered while integrating AI in higher education as well as policy making.
 :::
 
-#### 1:55 - 2:15 | OER in the context of generative AI
+#### 2:00 - 2:30 | OER in the context of generative AI
 
 **Practice**
 
@@ -146,15 +153,16 @@ Artificial intelligence (AI) is used in education since 2015 (Vincent-Lancrin & 
 This proposal explores the transformation of OER in the context of Artificial Intelligence (AI), examining the multifaceted relationship between these two domains. While highlighting the potential benefits of AI in personalizing learning, creating new resources, and enhancing accessibility, the proposal also confronts the challenges associated with authorship and ethical considerations of AI-generated content. Focusing on strategies to navigate these challenges while ensuring the integrity of original contributions, the proposal further investigates how advanced AI techniques like fine-tuning and Retrieval Augmented Generation (RAG) can be employed to create highly adaptive and personalized OER aligned with learners' needs. Additionally, it explores the potential of AI in generating multimodal resources, potentially overcoming language, literacy, and learning preference barriers to broaden access to education globally. Ultimately, this proposal aims to leverage AI while addressing its inherent challenges, ultimately enhancing the quality, accessibility, and adaptivity of OER.
 :::
 
-### Session 10.2  | Transitions of Online Learning and Teaching
-**Trottier 2110 (Session D)**
+### Session 7.2  | Transitions of Online Learning and Teaching
+
+**Room 3665 (Session B)**
 
 
-####  1:30 - 1:50 | Undergraduate Students as Research Partners: Lessons Learned in a Scoping Review of Social Media in Teaching and Learning
+####  1:30 - 2:00 | Undergraduate Students as Research Partners: Lessons Learned in a Scoping Review of Social Media in Teaching and Learning
 
 **Research**
 
-**Emma Duke, Linh Bui, & Richard Hayman** | *Mount Royal University*
+**Emma Duke, Linh Bui, Richard Hayman, & Erika E. Smith** | *Mount Royal University*
 
 
 ::: {.callout-note collapse="true"}
@@ -164,7 +172,7 @@ After 20+ years of educators incorporating various social media into their under
 
 :::
 
-#### 1:55 - 2:15 | Flexibility and Foresight in Ontario Postsecondary Education: Voices from the Field
+#### 2:00 - 2:30 | Flexibility and Foresight in Ontario Postsecondary Education: Voices from the Field
 
 **Practice**
 
@@ -177,11 +185,11 @@ Flexibility has emerged as a key area to support digital transformation in posts
 
 ## 2:15 - 2:45 | Break
 
-## 2:45 - 3:45 | Concurrent Session 11
+## 3:00 - 4:00 | Concurrent Session 8
 
-**Trottier 0070 (Session B)**
+**Room 3605 (Session A)**
 
-### Session 11.1  | Addressing Inequities
+### Session 8.1  | Addressing Inequities
 
 #### Challenging Stereotypes: The Role of The Matilda Project in STEM Gender Equality
 
@@ -197,9 +205,9 @@ The Matilda Effect - a term coined by Yale historian Margaret W. Rossiter - is a
 :::
 
 
-### Session 11.2  | Sustaining Positive Change 
+### Session 8.2  | Sustaining Positive Change 
 
-**Trottier 2100 (Session C)**
+**Room 3665 (Session B)**
 
 
 #### Empowering Student Voices: Integrating Stop-Motion Animation with Google Drawing, Canva, and Cap Cut
@@ -215,41 +223,27 @@ In designing Project Based Learning (PBL) curriculum and units that focus on rea
 
 :::
 
-### Session 11.3 | Addressing Inequities
+### Session 8.3 | Addressing Inequities
 
-**Trottier 2110 (Session D)**
+**Room 3675 (Session C)**
 
-#### 2:45 - 3:45 | Unleashing Potential: Exploring Open Education Initiatives with TRU Open Press
+#### Unleashing Potential: Exploring Open Education Initiatives with TRU Open Press
 
 **Practice**
 
-**Danielle Collins, Marie Bartlett, Brenna Gray, Jessica, Kaitlyn Meyers, Jon Fulton, Natasha Ramroop Singh & Ananya Kamboj** | *Thompson Rivers University*
+**Danielle Collins, Marie Bartlett, Brenna Clarke Gray, Jessica Obando Almache, Kaitlyn Meyers, Jon Fulton, Natasha Ramroop Singh & Ananya Kamboj** | *Thompson Rivers University*
 
 ::: {.callout-note collapse="true"}
 ## Abstract
 Join us at the OTESSA conference as we highlight the transformative impact of the Thompson Rivers University (TRU) Open Press. As proponents of open education, we aim to demonstrate how the TRU Open Press fosters a sustainable and inclusive future through innovative projects. Gain insights into our core operations, including our role as a leading provider in web-first publishing, open pedagogy, and scholarship. We'll delve into our proposal process, detail how projects are initiated and navigated, with the goal of sustaining positive change for a diverse, sustainable, and democratic world. Experience the tangible impact of our initiatives through a showcase of successful projects in the evolving landscape of online learning. Explore our open publication strategies, funding mechanisms, and their profound impact on addressing inequities. Learn about our collaborations with faculty, students, Indigenous communities, and local organizations, all contributing to sustaining shared futures through education. Delve into the production processes of our Open Educational Resources (OER) and open pedagogy projects, fostering positive and meaningful change. Join us in shaping the future of education and scholarship through meaningful discussions and building connections for shared knowledge and inclusivity.
 :::
 
-## 3:45 - 4:00 | Break with Coffee & Snack Provided
 
-## 4:00 - 4:30 | Concurrent Session 12 
-
-
-
+<!--
 ### Session 12.1 | Addressing Inequity
 **Trottier 2100 (Session C)**
 
-####  Seeking a newer equity, diversity, and inclusion model for educators
 
-**Practice**
-
-**Lorayne Robertson, Jessica Trinier & Roland Van Oostveen** | *Ontario Tech University*
-
-::: {.callout-note collapse="true"}
-## Abstract
-The complexities of the human condition are evident in myriad ways, yet human differences are used globally to deny basic rights. How differences are perceived in education impacts student access and participation in school, and ultimately the outcomes of their school experience. Courses on equity, diversity and inclusion are one means to help future educators become aware that the benefits of schooling are not equally available to all students. This paper presents a reflective description of a model used for the co-construction of equity, diversity and inclusion courses that employs a community of practice model where student voice features prominently in both course design and course enactment. The model relies on establishing a shared spirit of equity humility for learners and educators, and recognition of the need for student safety in potentially uncomfortable conversations. Basic human rights is  an anchoring concept. While, in the past, the teaching of equity has tended to focus on distinct aspects of oppression in society as individual topics, the co-construction of equity model relies, instead, on building bridges of understanding that cross oppressions. The concept of building cross-equity understandings is helpful as a guide to dismantling oppression and guiding the rebuilding of safer, more inclusive spaces in schools.
-
-:::
 
 ###  Session 12.2 | Wildcard
 
@@ -269,7 +263,6 @@ According to the Council for Accreditation of Teacher Preparation (CAEP), techno
 :::
 
 ## 5:00 - 7:00 | See Congress Programming for Social Zone & Food Options
+-->
 
-## 6:00 - 11:59 | OTESSA Social – Reception with No-Host Bar
-
-**La Citadelle 26th Floor**
+## To Be Determined | OTESSA Social

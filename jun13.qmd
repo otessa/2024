@@ -11,45 +11,81 @@ IN PERSON at Campus de Longueuil of Université de Sherbrooke
 
 </iframe>
 <!--
-
-> Join us at the #OTESSA24 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 6:30 – 7:30 am (Eastern) at https://voiced.ca
-
+ Join us at the #OTESSA24 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 6:30 – 7:30 am (Eastern) at https://voiced.ca
 -->
 
-## 8:30 - 9:30 | Continental Breakfast Provided {.unnumbered}
+## 10:00 - 10:30 | Continental Breakfast Provided {.unnumbered}
 
-**La Source**
+## 10:30 | National Digital Inclusion Round Table
 
-<!--
-## 8:00-11:30 | Welcome Desk Open  
--->
+**La Jonction A+B (3630 and 3635)**
 
-## 9:30 - 9:45 | Conference Welcome, Announcements, & Land Acknowledgement
+- Welcome and Greetings (5 mins) | **ADM Edwards**
+- International Best Practices: Where Does Canada Stand? (7 mins) | **Antonio Roque**
+- Scientific Committee Study – Key Results (7 mins) | **Normand Roy (udeM)**
+- National Inclusion Network Survey – Key Findings (5 min) | **Emmanuella Michel (Analyst with CFSC)**
 
-**La Source**
+## 10:58 | (NDIN) Transition
 
-## 9:45 - 10:00 | Break
+## 11:00 - 12:00 | (NDIN) Breakout Sessions
+
+- 3 parallel groups with 6 facilitators
+- 3 key questions (Issues, Best Practices, and Solutions)
+- 3 key dimensions (Accessibility, Connectivity, and Digital Literacy)
+
+## 12:00 - 1:00 | (NDIN) Lunch and Networking
+
+## 1:00 - 1:50 | (NDIN) Plenary Session
+
+- Reporting (3 min each) |  **6 facilitators**
+- Conclusion (7 mins) | **Michael Langelier & Valerie Irvine**
+- Next Steps (5 mins) | **Michael Langelier**
+- *National Digital Inclusion Network* Launch
+
+## 2:00 - 3:00 | Break and Networking
 
 
-## 9:30-10:30 | Concurrent Session 5
+## 3:00-4:00 | Concurrent Session 5
 
-### Session 5.1 | Addressing Inequities
+### Session 5.1 | Sustaining Positive Change
 
-**Trottier 0060 (Session A) | Practice (French)**
+####  An e-Book of One's Own: Empowering Student Learning Journeys 
 
-#### Franchir les obstacles : Améliorer l'accessibilité grâce aux ressources éducatives libres dans l'apprentissage intégré au travail
+**Room 3605 (Session A)**
 
-**Andrea Krasznai** | *eCampus Ontario*
+**Practice**
+
+**Terry Greene & Christian Metaxas** | *Trent University*
+
 
 ::: {.callout-note collapse="true"}
-### Abstract
+## Abstract
+Join our interactive session to explore the transformative initiative, "An e-Book of One's Own," designed to reshape the student experience in higher education. In a dynamic environment, participants will engage with Pressbooks, a powerful tool enabling students to craft personalized e-books showcasing their academic journey. The session emphasizes hands-on exploration, collaborative problem-solving, and interactive structures to work towards successful implementation. Reflective exercises simulate the student experience, fostering a deep understanding of the program's impact. This session is not a passive presentation; it's a collective effort to redefine educational experiences. Attendees will leave with practical insights, strategies for implementation, and a renewed vision for empowering students through digital innovation.
 
-Le projet d'apprentissage expérientiel d'eCampusOntario, le Consortium d'apprentissage expérientiel francophone de l'Ontario (CAPFO), rassemble les institutions postsecondaires francophones et bilingues de l'Ontario pour combler une lacune : le manque d'opportunités d'apprentissage expérientiel dans les environnements francophones et bilingues. En utilisant la plateforme Riipen, nous offrons aux membres du CAPFO la possibilité d'augmenter le nombre d'opportunités disponibles pour leurs apprenants au-delà des frontières géographiques de la province.
-
-Dans le cadre de ce projet, une nouvelle lacune a été mise en lumière : le manque de ressources en français pour les professeur.e.s souhaitant s'impliquer dans l'apprentissage intégré au travail. eCampusOntario a créé des ressources éducatives libres (REL) pour soutenir les professeur.e.s dans le développement de leurs connaissances en matière d'apprentissage intégré au travail. De plus, une enquête de recherche a été menée dans le secteur francophone de l'Ontario pour dévoiler les tendances et les défis, désormais disponibles sous forme de rapport REL dans la bibliothèque ouverte d'eCampusOntario, la plus grande bibliothèque ouverte au Canada.
-
-Au cours de notre session, nous fournirons des informations sur ce qu'est le CAPFO et mettrons en lumière les exigences particulières de la communauté minoritaire franco-ontarienne engagée dans l'apprentissage intégré au travail (AIT). Nous aborderons ensuite les ressources éducatives libres (REL), comment elles peuvent améliorer l'expérience des professeur.e.s dans l'AIT et dévoilerons quelques conclusions clés de notre rapport. Finalement, nous fournirons à notre public un guide REL afin qu'ils puissent initier l'expérimentation et la création de leurs propres REL.
 :::
+
+### Session 5.2 | Transitions of Online Learning and Teaching
+
+####  Sustaining Community: Insights from Collaborative Approaches in Blended Course Design
+
+**Room 3665 (Session B)**
+
+**Practice**
+
+**Brian Lorraine** | *Simon Fraser University*
+
+::: {.callout-note collapse="true"}
+## Abstract
+
+This session presents findings from a comprehensive evaluation of a Faculty Learning Community (FLC) model implemented by the Centre for Educational Excellence (CEE) at Simon Fraser University (SFU), aimed at fostering blended learning practices. Building upon preliminary observations shared at OTESSA '23, the session delves into the nuanced challenges and insights gleaned from 5 semester-based cohorts over a 3-year period. Through focus group discussions and qualitative analysis of transcripts, the results uncover diverse perspectives on logistical, operational, and pedagogical considerations surrounding blended learning adoption. These insights are particularly timely given the growing trend towards blended/hybrid learning in Canadian post-secondary education, juxtaposed with faculty concerns over workload and burnout (Johnson, 2023). By exploring the implications of sustaining shared futures in higher education, this session invites participants to engage in a critical dialogue on navigating organizational practices centered on intentionality, community, and well-being.
+
+:::
+
+
+<!--
+**Trottier 0060 (Session A) | Practice (French)**
+
+
 
  
 
@@ -134,41 +170,13 @@ This Design Case features an interprofessional stroke care case for health and m
 
 **Trottier 2100 (Session C)**
 
-### Session 7.1 | Sustaining Positive Change
 
-####  An e-Book of One's Own: Empowering Student Learning Journeys 
-
-
-
-**Practice**
-
-**Terry Greene & Christian Metaxas** | *Trent University*
-
-
-::: {.callout-note collapse="true"}
-## Abstract
-Join our interactive session to explore the transformative initiative, "An e-Book of One's Own," designed to reshape the student experience in higher education. In a dynamic environment, participants will engage with Pressbooks, a powerful tool enabling students to craft personalized e-books showcasing their academic journey. The session emphasizes hands-on exploration, collaborative problem-solving, and interactive structures to work towards successful implementation. Reflective exercises simulate the student experience, fostering a deep understanding of the program's impact. This session is not a passive presentation; it's a collective effort to redefine educational experiences. Attendees will leave with practical insights, strategies for implementation, and a renewed vision for empowering students through digital innovation.
-
-:::
 
 ###  Session 7.2 | Wildcard & Transitions of Online Learning and Teaching
 
 **Trottier 2110 (Session D)**
 
-####  1:30 - 1:50 | Triads to Complete Capstone: e-Portfolios
 
-
-
-**Practice**
-
-**Christine Ho Younghusband** | *University of Northern British Columbia*
-
-
-::: {.callout-note collapse="true"}
-## Abstract
-For one graduate program at a small research university in British Columbia, completing a digital portfolio is one option for capstone to demonstrate learning and conclude the program. The portfolio option includes developing a WordPress site, articulating one’s learning through the lens of a guided question, and a presentation of the portfolio to a committee. The student and committee members are led by a faculty supervisor. Completion of this capstone can be an isolating experience. In one term, two graduate students were left without a supervisor and needed to complete the program that term. One faculty member supervised three graduate students at one time. Over time, the three graduate students formed a triad, or small learning community, where they supported, peer-assessed, and collaborated in an ongoing way to complete their portfolios. The outcomes were personalized and unique to the learner. This presentation is a program evaluation that investigates the value and impact of triads during capstone and portfolio to invite back humanity into the capstone and portfolio experience.
-
-:::
 
 #### 1:55 - 2:15 | Using AI to design a Culturally Responsive STEM course and improve sense of belonging among students
 
@@ -195,20 +203,7 @@ This session aims to explore the integration of AI in Culturally Responsive Teac
 
 **Trottier 2100 (Session C)**
 
-####  Survivors of Complex Trauma as Adult Online Learners
 
-**Research**
-
-**Hilary Schmidt** | *Thompson Rivers University*
-
-
-::: {.callout-note collapse="true"}
-## Abstract
-Complex trauma is both a product and a source of significant multidimensional inequality, including profound disruption to survivors’ educational trajectories. Nonetheless, little research has been conducted on trauma-informed educational practices for adult/postsecondary or open/online learners, and educational researchers have largely ignored the perspectives of survivors, contradicting the key principle of collaboration within a trauma-informed approach.
-
-This qualitative instrumental collective case study explored how adults with a history of complex trauma experience postsecondary open/online learning. Findings included participants’ struggles with executive functioning, challenges regulating emotion and dealing with a heightened perception of threat, re-experiencing trauma, negative beliefs about the self, and difficulties navigating relationships. These trauma impacts affected not only participants’ learning and course experience, but also their experience of applying, registering, and accessing financial aid. Nonetheless, participants are demonstrably skilled in managing impacts of their trauma and are driven to learn, placing the highest intrinsic value on education. Top priorities for implementation of trauma-informed educational practices identified by participants included establishing safety; trust and transparency; and empowerment, voice, and choice. Implications are discussed, including enhancing equity and inclusion for survivors of complex trauma and assisting open/online postsecondary institutions in meeting their unique needs through implementation of trauma-informed educational practices.
-
-:::
 
 ### Session 8.2  | Addressing Inequities
 
@@ -232,7 +227,6 @@ As open educational practices (OEP) and open educational resources (OER) grants,
 
 
 ## 5:00 - 7:00 | See Congress Programming for Social Zone & Food Options
+-->
 
-## 6:00 - 11:59 | OTESSA Social – Reception with No-Host Bar
-
-**La Citadelle 26th Floor**
+## To Be Determined | OTESSA Social
