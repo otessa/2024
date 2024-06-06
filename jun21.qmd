@@ -84,22 +84,7 @@ Graduate students frequently feel pressure to write, and this pressure frequentl
 This presentation will cover the pragmatics of these writing retreats and the importance of encouragement as part of academic success(Wong et al., 2019), including scholarly writing. Applying neuroscience findings to the writing process(Bane, 2012; Hanson, 2009, 2013) informs these retreats and contributes to their positive reception.
 :::
 
-### Session 26.2 | Sustaining Positive Change
-#### 1:15 - 2:15 | Edtech Maker Spaces to Support Sustainable OER Use in Adult Education
 
-**Practice** 
-
-**Jen Vanek, Jennifer Maddrell & Jeff Goumas** |  *World Education & Education Consultants*
-
-::: {.callout-note collapse="true"}
-## Abstract
-This presentation addresses the role of Open Education Resources (OER) in inclusively and sustainably supporting adult foundational skills education, and describes a unique professional development (PD) model called “maker spaces”, which boost the capacity of educators to employ OER. 
-
-Access to OER has potential to mitigate the inequitable access to quality instruction in an underfunded public adult education system in the U.S. Adult educators do use OER; however, those available are often designed for other contexts and learners (Newman et al., 2015). Compounding this difficulty, adult education teachers lack expertise, time to develop resources, and access to training (authors, 2023). The “maker space” PD responds to this by working with adult educators to expand their knowledge and skills in discovering, adapting, and producing high-quality and relevant and reusable OER.
-
-Attendees learn about how this research driven service-learning PD has led to construction of an open library of thousands of OER designed to support adult learners. Presenters describe the PD model and the research behind it. They share technical assistance resources developed to help participant educators as they worked together to curate, evaluate, adapt, and create OER. Attendees gain insight into participant experience as they collaborate in a mini “maker space”.
-
-:::
 
 #### 2:15 - 2:45 | Research | Forthcoming
 

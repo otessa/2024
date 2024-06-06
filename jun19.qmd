@@ -11,61 +11,25 @@ Online Only. All times Eastern Daylight Time.
 
 </iframe>
 
-<!--
-
-> Join us at the #OTESSA24 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 6:30 – 7:30 am (Eastern) at https://voiced.ca
-
--->
 
 ## 11:00 - 11:30 | Co-Located Shared Meet-Up | Drop-In
 
 
 ## 11:30 - 12:00 | Conference Welcome, Announcements, & Land Acknowledgement
 
-## 12:00 - 1:00 |Parallel Session 21 | Invited Speakers
+## 12:00 - 1:00 |Parallel Session 17 | Invited Speakers
 
-### Invited Speaker Session 21.1 | 
-<!--
-
-#### Speculative Design in a Summer Camp: Tensions around Infantilization
-
-**Research**
-
-**Madalyn Wilson-Fetrow** | *University of New Mexico*
-
-::: {.callout-note collapse="true"}
-## Abstract
-Summer camps offer opportunities for youth to learn technical skills and apply them in service of solving wicked problems, like climate change and social/economic injustices. While many camps want youth to bring their experiences, they anticipate that campers will share happy or optimistic experiences, contributing to a sense of hopeful, if idealistic and unrealistic solutions to pressing issues. Those who administer and facilitate such learning experiences encounter youth who passionately want to tackle these problems, but who are not naïve regarding the harms surrounding climate disaster and racial injustice.
-
-In this session, we present examples of design challenges that—through participants’ perspectives and an ideation technique—became more speculative and critical. We supported our middle school participants to use the Wrong Theory Protocol to generate harmful and humiliating ideas prior to generating beneficial solutions. In doing so, some facilitators—who came from higher SES settings than the campers—became uncomfortable with the darkness of participants’ ideas, which included policy brutality, gun violence, etc., and stemmed from their everyday experiences of poverty. In this way, facilitators’ infantilization of participants is a tension present in many such designs, and one which we aim to trouble, using structural analysis of videos and artifacts.
-:::
--->
-
-### Invited Speaker Session 21.2 | 
-
-<!--
-#### Speculative Design and Building a Community of Transformation
-
-**Practice** 
-
-**Kristen Ferris, Vanessa Svihla, Susannah Davis & Nadia Kellam** | *University of New Mexico*
-
-::: {.callout-note collapse="true"}
-## Abstract
-Organizational change efforts commonly fail in higher education. Those aimed at diversity, equity, inclusion, and justice (DEIJ) goals face complex barriers, with successful change depending on changes to policies, organizational culture, and norms that disrupt established power dynamics. We argue speculative design is an important tool in such work, enabling change agents to sustain commitment and develop more just visions.
-
-We describe our use of speculative design, remixing, and futurisms in forming a DEIJ-oriented Community of Transformation (CoT) comprising higher education change agents from institutional change leadership teams (e.g., NSF ADVANCE, RED, INCLUDES, etc.) in STEM departments. Using these design tools, we aim to foster change agents’ commitment to and capacity for DEIJ-oriented systems change. We detail precedent - theory and practice - that forms the argument for our design work, with attention to the complex ways that situated understandings of learning, an intersectional approach to power, and organizational change imbue this work. We illustrate our use of speculative design, sharing examples of community building and arts-based activities like trading cards and ‘zines, as well as learning through media clubs. We share successes and challenges, including discomfort with activities that appear to be a step away from academic productivity.
-
-:::
--->
+### Invited Speaker Session 17.1 | Forthcoming
 
 
+
+### Invited Speaker Session 17.2 | Forthcoming
 
 ## 1:00 - 1:15 | Break
 
-## 1:15 - 2:45 | Concurrent Session 22
+## 1:15 - 2:45 | Concurrent Session 18
 
-### Session 22.1  | Transitions of Online Learning and Teaching
+### Session 18.1  | Transitions of Online Learning and Teaching
 
 #### 1:15 - 1:45 | Reinforcing equity and justice in learning: Using digital co-created rubrics and audio feedback as/for assessment
 
@@ -106,7 +70,7 @@ To accomplish this, the course author and I created Jade Stone, a fictional home
 Student feedback showed the continuity of story arcs and practical application, which made this coursework highly engaging. Developing the simulation was intensely collaborative, requiring meticulous planning to seamlessly embed content without disrupting the fictional world. Though the course took much creative planning, it resulted in a delightful capstone experience that allowed students to gain confidence as they imagined themselves as HR manager.
 :::
 
-### Session 22.2 | Wildcard
+### Session 18.2 | Wildcard
 
 #### 1:15 - 2:15 | Design Principles for K-12 Online Learning: A Comparative Review of Standards and Theoretical Models 
 
@@ -136,20 +100,20 @@ In 2023, researchers explored the relationship between Design Principles for K-1
 Podcasting is an equitable vehicle for knowledge translation, but does it “count” as scholarship? Since 2019, I have been part of a SSHRC-funded project to establish a peer reviewed podcasting network in Canada. Over these (more than anticipated) years, I have conceived, planned, recorded, edited, and revised based on reviewer feedback the forthcoming podcast Community of Praxis, a podcast for post-secondary educators. I will share my lessons learned from this experience, including the complexity of adapting the traditional scholarly apparatus to new media forms, the value of research as knowledge mobilization practice, and what is lost in the DIY podcast form when it must conform to the rigours of scholarly evaluation. Attendees will also learn about supports, resources, and proposal processes for those wishing to develop their own scholarly podcast, whether for peer review or not.
 :::
 
-### Session 22.3 | Addressing Inequities
+### Session 18.3 | Addressing Inequities
 
 
-#### 1:15 - 2:15 | The Open Book Collective and Thoth: bringing publishers, libraries and service providers together to establish a shared sustainable open ecosystem for books 
+#### 1:15 - 2:15 | The Open Book Collective and Thoth: Bringing publishers, libraries and service providers together to establish a shared sustainable open ecosystem for books 
 
- 
+ Judith Fathallah &  & , Lancaster University &  &  
 
 **Practice**
 
 **Judith Fathallah** | *Lancaster University*
 
-**Tobias Steiner** | *Thoth*
+**Paula Kennedy** | *University of London Press*
 
-**Livy Snyde** | *Punctum Books*
+**Lidia Uziel** | *University of California Santa Barbara*
 
 ::: {.callout-note collapse="true"}
 ## Abstract
@@ -161,9 +125,9 @@ This panel will facilitate discussion between representatives from the Open Book
 
 ## 2:45 - 3:00 | Break
 
-## 3:00 - 3:45 | Poster Session 23
+## 3:00 - 3:45 | Poster Session 19
 
-### Poster Session 23.1 | Wildcard
+### Poster Session 19.1 | Wildcard
 
 #### Milton @ Western: An Experiment in Digital Curation with Collection Builder
 
@@ -182,9 +146,9 @@ In an interactive web-based poster session through StoryMaps, we will showcase o
 
 :::
 
-### Poster Session 23.2 | Transitions of Online Learning and Teaching
+### Poster Session 19.2 | Transitions of Online Learning and Teaching
 
-#### Title Forthcoming
+#### Exploring Playful Hybrid Teaching Practices in Higher Education: Insights from the Playful Hybrid Higher Education Project
 
 **Practice**
 
@@ -198,9 +162,14 @@ The COVID-19 pandemic has necessitated a rapid evolution in teaching methodologi
 The Playful Hybrid Higher Education project seeks to address this challenge by investigating the integration of play and creativity into hybrid teaching practices. Our research focuses on understanding faculty and student experiences within this framework, aiming to provide valuable insights for educators navigating the complexities of hybrid education.
 
 This poster presentation will showcase the findings of our project, which stem from an extensive literature review and surveys conducted among faculty and students. By examining best practices and strategies for incorporating playful elements into hybrid teaching, we aim to contribute to the development of comprehensive guidance for educators in this evolving educational landscape.
+
 As hybrid education emerges as the future of teaching, there is an urgent need for actionable recommendations to support faculty in effectively implementing playful teaching practices. This poster will offer practical insights and recommendations to enhance teaching and learning in the hybrid higher education environment.
 
 :::
+
+## 2:45 - 3:00 | Break
+
+## 3:00 - 3:45 | Unconference
 
 ## 3:45 - 4:00 | Break
 

@@ -11,14 +11,7 @@ Online Only. All times Eastern Daylight Time.
 
 </iframe>
 
-<!--
-
-> Join us at the #OTESSA24 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 6:30 – 7:30 am (Eastern) at https://voiced.ca
-
--->
-
 ## 11:00 - 11:30 | Co-Located Shared Meet-Up | Drop-In
-
 
 ## 11:30 - 12:00 | Conference Welcome, Announcements, & Land Acknowledgement
 
@@ -28,9 +21,9 @@ Online Only. All times Eastern Daylight Time.
 
 ## 1:00 - 1:15 | Break
 
-## 1:15 - 2:45 | Concurrent Session 17
+## 1:15 - 2:45 | Concurrent Session 13
 
-### Session 17.1 | Transitions of Online Learning and Teaching
+### Session 13.1 | Transitions of Online Learning and Teaching
 
 #### 1:15 - 2:15 | Procurement and Vendor Relations as Leverage Points for Ethics in Ed Tech 
 
@@ -60,7 +53,7 @@ Students’ sense of belonging and their ability to engage in adaptive help-seek
 
 :::
 
-### Session 17.2 | Addressing Inequities
+### Session 13.2 | Addressing Inequities
 
 
 #### 1:15 - 2:15 | Reflections on a Canadian Framework for Indigenous Open Education Development 
@@ -88,8 +81,20 @@ Although digital technology is valorized for its promises in empowering individu
 
 :::
 
-### Session 17.3 | Wildcard
-#### 1:15 - 2:15 | Breaking Down Barriers: Using Docsify-This As an Entry Point to Markdown Open Publishing
+### Session 13.3 | Transitions of Online Learning and Teaching & Wildcard
+
+####  1:15 - 1:45 | Building/Belonging: An Exploration of Digital and Place-Based Belonging Practices at University of Highlands & Islands
+
+**Research**
+
+**Bonnie Stewart** | *University of Windsor*
+
+::: {.callout-note collapse="true"}
+### Abstract
+This presentation overviews a case study of belonging, considered and framed through the lens of both place-based identity and digital education. The case study project under discussion aims to build on the established digital practices of a distributed European higher and further education institution, with multiple regional campuses, which serve to make education accessible and inclusive to a remote population otherwise underserved. The session will present the lit review, design, and goals of the case study project, while exploring ideas of community belonging in traditionally diasporic regions as well as digital belonging in online classrooms. It will explore the affordances and impacts of both, and the ways the two may or may not intersect in this particular context. This project extends the exemplary research and practice being done at this institution with digital technologies, in hopes of making visible the ties between geographic and cultural belonging practices and those that can be amplified and supported digitally. This institution's inclusive and accessible approaches may be of value to the OTESSA audience in a time when belonging is a need for students in many contexts.
+:::
+
+#### 1:45 - 2:45 | Breaking Down Barriers: Using Docsify-This As an Entry Point to Markdown Open Publishing
 
 **Workshop** 
 
@@ -118,9 +123,65 @@ The educational experience in the Dental Hygiene Program consists of didactic le
 
 ## 2:45 - 3:00 | Break
 
-## 3:00 - 3:45 | Concurrent Session 18 | Forthcoming
+## 3:00 - 4:00 | Ethics in Design Showcase 14 | Addressing Inequities 
 
-## 3:45 - 4:00 | Break
+**La Source**
+
+
+### Showcase 14.1  | Addressing Inequities
+
+####  Decolonizing Educational Design: Toward Justice by Design in Higher Education
+
+**Rebecca Sweetman & Yasmine Djerbal** | *Queen's University*
+
+::: {.callout-note collapse="true"}
+## Abstract
+As institutions commit to strategic initiatives for justice in higher education, this session shares practical ways to walk the decolonial talk in the design of education. Delving into critical design as a transformative tool and pedagogy, we seek to shift how storytellers in higher education craft their narratives. This presentation confronts how we, practically, design an equitable future of learning, including the applied skills required to recognize and challenge our normative biases and design assumptions, and transform our day-to-day work in educational design.  
+Examining how to mitigate curricular harms and consider the ethics of educational technologies, we introduce a justice by design framework that strategically dismantles oppressive, racist, and colonial epistemologies that unconsciously make their way into course design. Through this presentation, we practice design justice principles and share an open professional training curriculum called “[Activist Design in Educational Multimedia](https://rise.articulate.com/share/7H76Ehaxu_DYM4OM2Uzav_5TAXRUvywR)” as an opportunity for intervention. The curriculum employs theoretical and practical techniques to develop the competencies and confidence of educational design professionals to apply an anti-oppressive lens in their work.  This session presents a multifaceted, practical, and principled approach to critical design that can be integrated across roles, disciplines, and hierarchies to re-story the process and outcomes of educational design. 
+
+:::
+
+### Showcase 14.2  | Sustaining Positive Change
+
+####  A framework and model for engagement in open, online spaces
+
+
+**Michelle Harrison** | *Thompson Rivers University*
+
+**Michael Paskevicius** | *University of Victoria*
+
+
+::: {.callout-note collapse="true"}
+## Abstract
+
+This design case provides an analysis of the creation of an innovative open educational practices (OEP) project “Rethink Learning Design”, designed to explore and implement critical approaches to learning and instructional design. We recognized that if we want to embrace the power of OEP to change teaching and learning practice we need to enable spaces that honor multiple voices and perspectives, co-create knowledge and challenge traditional roles and hierarchies supported in open pedagogical approaches. Two key goals guided our project: the development of a reader/resource based on open pedagogy principles, emphasizing inclusivity and participation, and the integration of a reflective practice framework to deepen engagement and bring about a shift in educational practices. In this session and design case we will outline our iterative design process, ethical considerations, and theoretical foundations, and student use and feedback, with the aim of sharing insights and templates for practitioners in diverse educational contexts. We will consider how we can approach design as a theory of action and consider ways to promote learner ownership, open scholarship, anonymity, and options for permanence through our learning design tool.
+
+:::
+
+### Showcase 14.3  | Addressing Inequities
+
+#### Cultural Dimensions of Ethics in Design: Indigenous Knowledge & Online Course Media
+
+**Brian Lorraine** | *Simon Fraser University*
+
+::: {.callout-note collapse="true"}
+## Abstract
+This session delves into the intricate design process of an online Indigenous Ethnozoology course, exploring the tensions, challenges, and ethical considerations encountered during an 8-month redesign and development period. Originally authored by a Squamish knowledge holder, the course featured recorded lectures intertwining oral histories with western scientific perspectives. The transition to a new instructor, a professor of white settler descent, prompted critical reflection on retaining Indigenous knowledge while improving instructional effectiveness. Drawing on cognitive load theory and empirical studies on video engagement, the design team navigated the complexities of honoring oral traditions while enhancing student learning experiences. This case study highlights the necessity for robust frameworks addressing Indigenous knowledge protocols in educational design, underscored by ongoing critical reflection to confront colonial legacies and promote ethical practices.
+
+:::
+
+### Showcase 14.4  | Addressing Inequities
+
+#### Moving Towards Design Justice through Multivocal Design in Health Education
+
+**Danielle Dilkes** | *University of Western Ontario*
+
+
+::: {.callout-note collapse="true"}
+## Abstract
+This Design Case features an interprofessional stroke care case for health and medical education that was developed through a participatory design process. The objectives of the case were to highlight the complexities of interprofessional care and prepare learners for interprofessional practice. The approach to developing this case draws on key Design Justice principles: those most impacted by a design should be central in the design process and that various types of expertise exist and have value. The stroke care case was co-developed with patients, or Lived Experience Experts (LEEs), and all members of an interdisciplinary stroke care team, or Subject Matter Experts (SMEs). Patients were invited to share their real experience of stroke care, which became the basis of the case. Each health care professional was given full control over how their roles were portrayed, and invited to craft and star in their scenes within the case. This process resulted in a multivocal media rich case that more accurately reflects real patient experience and the real scope of practice for different health professionals. In our Design Case Exhibit, we will share multimedia components of the final case, but we will also share design knowledge in support of a more general framework for participatory design that could account for some of the complications of co-design across institutional roles.
+
+:::
 
 ## 4:00 - 4:30 | Social Guest 
 
