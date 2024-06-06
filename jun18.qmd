@@ -227,41 +227,9 @@ Faced with the rapid adoption of generative artificial intelligence (GAI) in eve
 
 
 
-### Session 20.2 | Sustaining Positive Change
 
 
-#### 1:15 - 1:45 | A sensory exploration of inaccessible digital practices: Culturally acceptable marginalization in praxis. 
- 
 
-**Research**
-
-**Kim Ashbourne** | *University of Victoria*
-
-::: {.callout-note collapse="true"}
-## Abstract
-
-Globally, post-pandemic researchers in the field of digital accessibility research in education have concluded that despite the potential for information and communication technology (ICT) to remove barriers for learners with disabilities, post-secondary institutions continue to fall short of effectively using ICT to deliver equitable educative experiences to learners with disabilities (Seale, 2020). Digital accessibility frameworks,  checklists, policies and various legislative “sticks” (as opposed to carrots) have been around for decades (Oswal & Meloncon, 2017; Seale, 2004, 2006) but the problem persists. Accessibility and inclusion are viscerally relevant to disabled learners’ lived experience of post-secondary education. Digital accessibility and inaccessibility touch our bodies, minds, ethics, and our sense of self-in-community. This session uses learning artifacts, personal accounts and praxis provocations from the CanDARE.ca praxis project (Ashbourne, 2024) as jumping-off points for group discussions. The goal of this session is to get more people thinking and talking about the role digital inaccessibility plays in the education system’s oppression of learners with disabilities. Furthermore, we need to start talking about the Academy’s complicity in the silent marginalization of people with disabilities in the digital commons.
-
-:::
-
-#### 1:45 - 2:15 | A Flipped Class Room Approach to Paralegal Education
-
-
-**Research**
-
-**Ashley Stasiewich, Bruce Thomson & Tyra Zaguirre** | *MacEwan University*
-
-::: {.callout-note collapse="true"}
-## Abstract
-Legal education traditionally follows two distinct paths, catering to law school students and legal studies majors. However, the training of paralegals, vital contributors to the legal workforce, often lacks comprehensive pedagogical research and effective instructional models. This presentation addresses the gap in legal education for non-lawyers, particularly paralegals, by exploring the implementation of a flipped classroom approach.
-
-Current paralegal programs predominantly focus on clerical skills, leaving a deficit in higher-level legal comprehension and analytical abilities required in the field. Drawing on the success of flipped classroom models in law schools, this study aims to assess whether such an approach can enhance learner engagement and deepen understanding of fundamental legal principles among paralegal students.
-
-Guided by the research question, "Does implementing a flipped classroom instructional approach in an Alberta university legal technology course for paralegals change learner engagement with the fundamental legal knowledge appropriate for paralegals, compared to lecture-based models?" the presentation will share findings from survey data collected in April 2024.
-
-By examining the impact of flipped classrooms on paralegal education, this research contributes to the ongoing discourse on innovative pedagogies in legal instruction. The insights gained from this study can inform curriculum development, address the challenges paralegals face, and ensure they acquire the necessary competencies for success in the legal industry.
-
-:::
 
 
 
