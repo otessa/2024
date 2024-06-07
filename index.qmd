@@ -15,7 +15,7 @@
  
 
 ::: {.callout-important}
-[Check the OTESSA conference website for abstracts](https://otessa.org/2024/program) and any changes to this program. 
+[Check the OTESSA conference website for abstracts](https://otessa.org/2024) and any changes to this program. 
 
 Information about any changes to the program will also be available via the OTESSA Welcome Desk on the conference platform once the conference opens.
 
