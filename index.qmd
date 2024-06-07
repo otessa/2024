@@ -1,7 +1,9 @@
 # Welcome {.unnumbered}
 
 
+<!--
 ![OTESSA Logo](OTESSA-conf.png)
+-->
 
 
 

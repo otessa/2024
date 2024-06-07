@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 book:
+  back-to-top-navigation: true
   title: "OTESSA 2024 Conference Program"
   reader-mode: true
   date: "last-modified"
@@ -23,10 +24,10 @@ book:
           - jun19.qmd
           - jun20.qmd
           - jun21.qmd
-#      downloads: pdf
+  downloads: [pdf]
 
-comments:
-  hypothesis: true
+# comments:
+#  hypothesis: true
 
 bibliography: references.bib
 
@@ -37,10 +38,8 @@ format:
       dark: darkly
     number-depth: 0
     toc-depth: 4
-    mainfont: arial
     fontsize: "16px"
-    back-to-top-navigation: true
-    format-links: [pdf]
+    # format-links: pdf
   pdf:
     documentclass: scrreprt
     title: "OTESSA 2024 Conference Program"

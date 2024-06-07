@@ -49,7 +49,7 @@ The paper explores a study of a foreign learning experience during the pandemic 
 
 **Nicole Patrie & Danielle Lorenz** | *University of Alberta*
 
-::: {.callout-note}
+::: {.callout-note collapse="true"}
 ## Abstract
 Although online discourses about dissertation writing (i.e., you should be writing memes) offer students levity, they function in stark contrast to how dissertation writing is treated in real life.  Canadian education scholars with PhDs have examined the student-supervisor relationship (McAlpine & Weis, 2000), collaborative writing spaces (Eaton & Dombroski, 2022; Ens et al., 2011), and the overall difficulties of the dissertation process (Bayley et al., 2012; Walter & Stouk, 2020), but we have yet to locate literature on the perspectives of Canadian education PhD students who have generated online communities of practice to engage in their dissertation writing. To obtain better understanding of our personal relationships to writing and virtual communities of practice, we established an online writing group during the summer of 2023 where we wrote our respective candidacy proposal and dissertation chapters while also reflecting on and responding to prompts about the process of writing. Using a duoethnographic approach (e.g., Norris et al., 2012; Sawyer & Norris, 2004), we analyzed 76 reflections written over a 13-week period. This research concludes that if PhD students feel un(der)supported by institutional writing communities, or if said communities are not available, constructing their own community will be beneficial to their writing goals.
 :::
@@ -105,7 +105,7 @@ Podcasting is an equitable vehicle for knowledge translation, but does it “cou
 
 #### 1:15 - 2:15 | The Open Book Collective and Thoth: Bringing publishers, libraries and service providers together to establish a shared sustainable open ecosystem for books 
 
- Judith Fathallah &  & , Lancaster University &  &  
+
 
 **Practice**
 
