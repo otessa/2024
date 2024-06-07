@@ -100,7 +100,7 @@ Ethical considerations surrounding informed consent will be scrutinized, highlig
 
 **Nazlee Sharmin** | *University of Alberta*
 
-::: {.callout-note}
+::: {.callout-note collapse="true"}
 ## Abstract
 Traditional flashcards are one of the most popular and optimized ways to learn factual knowledge and improve memory performance. However, this method is helpful only for motivated students because the amount and timing of flashcard use are critical for success. We have used augmented reality (AR) to develop an app called ‘Dental AR’ that allows students to use their smartphones as flashcards. Using this app, students can learn and self-test their knowledge at a time and place that is convenient for them. We used Unity3D with Vuforia to develop Dental AR. Oral histology glass slides were scanned and converted to digital images to generate target images. Annotated versions of the slides were used as output for the corresponding target images. To understand user experiences and satisfaction with Dental AR, first-year dentistry students were invited to complete an online survey. The survey results indicated an overall satisfaction with Dental AR and willingness to use similar applications in other subjects. 
 :::
