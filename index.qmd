@@ -21,65 +21,10 @@ Information about any changes to the program will also be available via the OTES
 
 :::
 
-All OTESSA Participants can attend the [Congress “Big Thinking” lecture series](https://www.federationhss.ca/en/programs-policy/big-thinking). These take place each day of the conference. Congress has “[open events](https://www.federationhss.ca/en/congress/programming-events/events-calendar)” available as well (open to registrants across association conferences at Congress as well as those who hold community passes).
+All OTESSA Participants can attend the [Congress “Big Thinking” lecture series](https://www.federationhss.ca/en/congress/programming#BigThinking). These take place each day of the conference. Congress has “[open events](https://www.federationhss.ca/en/congress/events-calendar)” available as well (open to registrants across association conferences at Congress as well as those who hold community passes).
 
 All OTESSA Registrants can also attend conference sessions offered by the [Canadian Association for the Study of Education (CSSE)](https://csse-scee.ca/), [Canadian Association for the Study of Higher Education (CSSHE)](https://csshe-scees.ca/), and [Canadian Association of Learned Journals (CALJ)](https://www.calj-acrs.ca/) as we have reciprocity agreements in place. Please note that presenters must register in each conference in which they are presenting.
 
-<!--
+## University of Sherbrooke at Longueuil
 
-## June 12-15 \@ McGill University
-
-+--------------------+------------------------------------------------------------+-------------+--------------+
-| Time               | Event                                                      | Location    | Notes        |
-+====================+============================================================+=============+==============+
-| 8:00 - 9:00 am EDT | **Continental Breakfast Provided**                         |             |              |
-+--------------------+------------------------------------------------------------+-------------+--------------+
-| 8:00 am - 11:30 pm | Welcome Desk Open                                          |             |              |
-+--------------------+------------------------------------------------------------+-------------+--------------+
-| 9:00 am - 9:15 am  | Conference Welcome, Announcements and LAnd Acknowledgement |             | LINK         |
-+--------------------+------------------------------------------------------------+-------------+--------------+
-| 9:30 am - 10:30 pm | Concurrent Sessions                                        |             | LINK - Jun12 |
-|                    |                                                            |             |              |
-|                    |                                                            |             | LINK - Jun13 |
-|                    |                                                            |             |              |
-|                    |                                                            |             | LINK - Jun14 |
-|                    |                                                            |             |              |
-|                    |                                                            |             | LINK - Jun15 |
-+--------------------+------------------------------------------------------------+-------------+--------------+
-| 10:30 - 11:00 am   | Break                                                      |             |              |
-+--------------------+------------------------------------------------------------+-------------+--------------+
-| 11:00 - 12:00 pm   | Concurrent Sessions                                        |             | LINK - Jun12 |
-|                    |                                                            |             |              |
-|                    |                                                            |             | LINK - Jun13 |
-|                    |                                                            |             |              |
-|                    |                                                            |             | LINK - Jun14 |
-|                    |                                                            |             |              |
-|                    |                                                            |             | LINK - Jun15 |
-+--------------------+------------------------------------------------------------+-------------+--------------+
-| 12:00 - 1:30 pm    | Break                                                      |             |              |
-+--------------------+------------------------------------------------------------+-------------+--------------+
-| 1:30 - 2:30 pm     | Keynotes or Unconferences                                  |             | LINK - Jun12 |
-|                    |                                                            |             |              |
-|                    |                                                            |             | LINK - Jun13 |
-|                    |                                                            |             |              |
-|                    |                                                            |             | LINK - Jun14 |
-|                    |                                                            |             |              |
-|                    |                                                            |             | LINK - Jun15 |
-+--------------------+------------------------------------------------------------+-------------+--------------+
-| 2:30 - 3:00 pm     | Break                                                      |             |              |
-+--------------------+------------------------------------------------------------+-------------+--------------+
-| 3:00 - 3:45 pm     | Concurrent Sessions                                        |             | LINK - Jun12 |
-|                    |                                                            |             |              |
-|                    |                                                            |             | LINK - Jun13 |
-|                    |                                                            |             |              |
-|                    |                                                            |             | LINK - Jun14 |
-|                    |                                                            |             |              |
-|                    |                                                            |             | LINK - Jun15 |
-+--------------------+------------------------------------------------------------+-------------+--------------+
-|                    | Discussion/Networking Pods                                 |             |              |
-+--------------------+------------------------------------------------------------+-------------+--------------+
-|                    | Congress Events                                            |             | LINK         |
-+--------------------+------------------------------------------------------------+-------------+--------------+
-|                    | OTESSA Social                                              |             |              |
-+--------------------+------------------------------------------------------------+-------------+--------------+
--->
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d89464.62417155906!2d-73.6583459790891!3d45.51471838874047!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc91b136c172609%3A0xc576f9c61ec8d407!2sUniversit%C3%A9%20de%20Sherbrooke%20%E2%80%93%20Campus%20de%20Longueuil!5e0!3m2!1sen!2sca!4v1717734535598!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
