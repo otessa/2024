@@ -14,6 +14,8 @@ Online Only. All times Eastern Daylight Time.
 ## 11:00 - 11:30 | Co-Located Shared Meet-Up | Drop-In
 
 ## 11:30 - 12:00 | Conference Welcome, Announcements, & Land Acknowledgement
+<a href="https://uvic.zoom.us/j/85335383554?pwd=SGSXw2HLTVeeYu0ow1ofaSMXTNiuri.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 ## 12:00 - 1:00 | Ethics in Design Showcase 20
 
@@ -31,6 +33,8 @@ Have you started to accumulate old computing devices?   Why does the logic of co
 :::
 
 ### Showcase 20.2 | Addressing Inequities
+<a href="https://uvic.zoom.us/j/86132754456?pwd=r8tcWDJkEXB9akOaCDsC9wvmagCbT5.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 #### Open Learning Design in Context: Expanding the Continuum
 
@@ -43,23 +47,31 @@ Have you started to accumulate old computing devices?   Why does the logic of co
 Our conceptual paper examines open-learning approaches from a design perspective that takes a more systematic view which is not intended to promote the replication of open-learning design models. Instead, this paper is written to highlight how educators can find connections and possible integration to their own learning contexts to design with principles that could lead to more equitable, accessible and responsive learning environments for all learners. The Open Learning Design Continuum (OLDC) is an ever-changing and evolving collaborative learning design model that examines the potential principles of open learning design in multiple higher education contexts. Through a comparison of case studies of open curriculum designs at two Canadian HE institutions, we will examine ways that educators and learners have experienced a variety of approaches to open learning design, including the blurring of informal/formal spaces, the uses of open educational resources (OER) and open platforms to create more student-centered, equitable and accessible learning spaces.
 
 :::
+
 ### Showcase 20.3 | Addressing Inequities
 
-#### Bringing Human-centeredness Learning Analytics Dashboards: Design Principles and Implications
+<a href="https://uvic.zoom.us/j/89526445493?pwd=JwWGaJ9vuQSQQHlOHoUJOwbG8xC0BX.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
-**Practice**
 
-**Dana Al Zoubi, Noah Glaser & Evrim Baran** | *Mississippi State University*
+
+#### Speculative Design in a Summer Camp: Tensions around Infantilization
+
+**Research**
+
+**Madalyn Wilson-Fetrow** | *University of New Mexico*
 
 ::: {.callout-note collapse="true"}
 ## Abstract
-The rise of Learning Analytics (LA) applications, particularly Learning Analytics Dashboards (LADs), offers immense potential to improve teaching and learning outcomes. However, challenges persist in the effective design, ethical use, and privacy considerations associated with LADs. This paper explores the growing interest in LADs and emphasizes the need for a human-centered approach to address design and structural challenges. The proposed human-centered design (HCD) approach advocates for prioritizing end-user's perspectives and needs throughout the design process, incorporating transparency, inclusion, and accountability principles. This paper delves into the implications of adopting HCD principles, such as personalized learning experiences, inclusive representation, improved learner engagement, and ethical use of data. By involving stakeholders, especially learners, in the design process, LADs can be tailored to diverse needs and preferences, promoting engagement and informed decision-making. The discussion extends to transparency, inclusion, and accountability as key principles for addressing ethical and privacy concerns associated with LADs. Future research directions are proposed to further explore the effective application of human-centered approaches in LAD design, aiming to continually enhance their role in promoting positive learning outcomes in educational settings.
+Summer camps offer opportunities for youth to learn technical skills and apply them in service of solving wicked problems, like climate change and social/economic injustices. While many camps want youth to bring their experiences, they anticipate that campers will share happy or optimistic experiences, contributing to a sense of hopeful, if idealistic and unrealistic solutions to pressing issues. Those who administer and facilitate such learning experiences encounter youth who passionately want to tackle these problems, but who are not naïve regarding the harms surrounding climate disaster and racial injustice.
 
+In this session, we present examples of design challenges that—through participants’ perspectives and an ideation technique—became more speculative and critical. We supported our middle school participants to use the Wrong Theory Protocol to generate harmful and humiliating ideas prior to generating beneficial solutions. In doing so, some facilitators—who came from higher SES settings than the campers—became uncomfortable with the darkness of participants’ ideas, which included policy brutality, gun violence, etc., and stemmed from their everyday experiences of poverty. In this way, facilitators’ infantilization of participants is a tension present in many such designs, and one which we aim to trouble, using structural analysis of videos and artifacts.
 :::
+
+
 
 ## 1:00 - 1:15 | Break
 
-### Session 21.1  | Wildcard
+### Session 21.1  | Wildcard & Addressing Inequities
 
 #### 1:15 - 2:15 | Graphically Speaking: Sketchnotes in an Open Educational Practice
 
@@ -93,19 +105,10 @@ Ethical considerations surrounding informed consent will be scrutinized, highlig
 
 :::
 
-#### 2:15 - 2:45 |  Augmented Reality to develop learning tool for students: Transforming cell phones into flashcards
-
-
-**Practice**
-
-**Nazlee Sharmin** | *University of Alberta*
-
-::: {.callout-note collapse="true"}
-## Abstract
-Traditional flashcards are one of the most popular and optimized ways to learn factual knowledge and improve memory performance. However, this method is helpful only for motivated students because the amount and timing of flashcard use are critical for success. We have used augmented reality (AR) to develop an app called ‘Dental AR’ that allows students to use their smartphones as flashcards. Using this app, students can learn and self-test their knowledge at a time and place that is convenient for them. We used Unity3D with Vuforia to develop Dental AR. Oral histology glass slides were scanned and converted to digital images to generate target images. Annotated versions of the slides were used as output for the corresponding target images. To understand user experiences and satisfaction with Dental AR, first-year dentistry students were invited to complete an online survey. The survey results indicated an overall satisfaction with Dental AR and willingness to use similar applications in other subjects. 
-:::
 
 ### Session 21.2  | Transitions of Online Learning and Teaching
+<a href="https://uvic.zoom.us/j/88306702519?pwd=36SG6yyRGLhWa6QHSS8irGphQ1l3KN.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 #### 1:15 - 2:15 | FLO Fusion – A Sustainable Approach to Supporting Professional Development with OERs 
 
@@ -136,6 +139,9 @@ School closures due to the COVID-19 pandemic resulted in a shift to emergency re
 :::
 
 ### Session 21.3 | Sustaining Positive Change
+<a href="https://uvic.zoom.us/j/89800215355?pwd=jj0UbzmfDOI0y0mOxaPIc2zFfwkAhR.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
+
 #### 1:15 - 2:15 | Edtech Maker Spaces to Support Sustainable OER Use in Adult Education
 
 **Practice** 
@@ -161,10 +167,61 @@ Attendees learn about how this research driven service-learning PD has led to co
 ::: {.callout-note collapse="true"}
 ## Abstract
 “Digital Humanities” (DH) has been a rapidly growing field within academia, used to broadly describe scholarship situated in the intersection of technology and the humanities. While the field was originally conceptualized with radical intentions to move toward “the democratization of culture and scholarship” (Schnapp and Presner, 2009), it has become increasingly institutionalized and largely detached from these radical origins. In a time where there is there is a growing digital divide (Darko et al., 2023) and heightened concerns around the harmful impacts of new technologies (Benjamin, 2019), imagining new futures for the field of digital humanities is crucial. Putting digital humanities in conversation with scholarship from the fields of human and community development, the author argues that digital humanities is a radical site of possibility where agency and solidarity can be developed (Bhattacharyya, 2004), understandings of the self and one’s position within the larger world can be negotiated (Collins, 2006; Freire, 1968), and power can be decentralized from the university.
+
 The author employs Nancy Fraser’s theory of justice to develop a framework for equitable digital humanities work, discussing tangible strategies and potential barriers to its application through an autoethnographic account of their experiences developing digital humanities programming for underrepresented students at a Historically Black College/University (HBCU). The paper will discuss both the process and product of digital humanities, exploring how the process of doing digital humanities can have transformative impact for those involved and how new technologies can help facilitate wider and more diverse public engagements with digital humanities work.
 :::
 
+## 2:45 - 3:00 | Break
 
+## 3:00 - 3:45 | Unconference
+<a href="https://uvic.zoom.us/j/88962802906?pwd=G9Q0x3CycSKgor5U1GAjuNv0gg76F2.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
+
+## 3:45 - 4:00 | Break
+
+## 4:00 - 4:30 | Social Guest 
+<!--
+<a href="https://uvic.zoom.us/j/88216370339?pwd=tePgI4OSFp5IKiUw5ra8ibjxajgJzP.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
+-->
+
+## 4:30 - 5:00 | Discussion/Networking Pod Drop-In
+
+
+<!--
+### Showcase 20.3 | Addressing Inequities
+<a href="https://uvic.zoom.us/j/89526445493?pwd=JwWGaJ9vuQSQQHlOHoUJOwbG8xC0BX.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
+
+#### Bringing Human-centeredness Learning Analytics Dashboards: Design Principles and Implications
+
+**Practice**
+
+**Dana Al Zoubi, Noah Glaser & Evrim Baran** | *Mississippi State University*
+
+::: {.callout-note collapse="true"}
+## Abstract
+The rise of Learning Analytics (LA) applications, particularly Learning Analytics Dashboards (LADs), offers immense potential to improve teaching and learning outcomes. However, challenges persist in the effective design, ethical use, and privacy considerations associated with LADs. This paper explores the growing interest in LADs and emphasizes the need for a human-centered approach to address design and structural challenges. The proposed human-centered design (HCD) approach advocates for prioritizing end-user's perspectives and needs throughout the design process, incorporating transparency, inclusion, and accountability principles. This paper delves into the implications of adopting HCD principles, such as personalized learning experiences, inclusive representation, improved learner engagement, and ethical use of data. By involving stakeholders, especially learners, in the design process, LADs can be tailored to diverse needs and preferences, promoting engagement and informed decision-making. The discussion extends to transparency, inclusion, and accountability as key principles for addressing ethical and privacy concerns associated with LADs. Future research directions are proposed to further explore the effective application of human-centered approaches in LAD design, aiming to continually enhance their role in promoting positive learning outcomes in educational settings.
+
+:::
+-->
+
+<!--
+#### 2:15 - 2:45 |  Augmented Reality to develop learning tool for students: Transforming cell phones into flashcards
+
+
+**Practice**
+
+**Nazlee Sharmin** | *University of Alberta*
+
+::: {.callout-note collapse="true"}
+## Abstract
+Traditional flashcards are one of the most popular and optimized ways to learn factual knowledge and improve memory performance. However, this method is helpful only for motivated students because the amount and timing of flashcard use are critical for success. We have used augmented reality (AR) to develop an app called ‘Dental AR’ that allows students to use their smartphones as flashcards. Using this app, students can learn and self-test their knowledge at a time and place that is convenient for them. We used Unity3D with Vuforia to develop Dental AR. Oral histology glass slides were scanned and converted to digital images to generate target images. Annotated versions of the slides were used as output for the corresponding target images. To understand user experiences and satisfaction with Dental AR, first-year dentistry students were invited to complete an online survey. The survey results indicated an overall satisfaction with Dental AR and willingness to use similar applications in other subjects. 
+:::
+
+-->
+
+<!--
 ### Showcase 24.2 | Wildcard
 #### Becoming Alive Together: Towards a “Carrier Bag” Approach to Ethical Learning Designs
 
@@ -179,29 +236,4 @@ Sustainable responses to overlapping social, economic, and environmental crises 
 
 :::
 
-
-
-## 1:00 - 1:15 | Break
-
-## 1:15 - 2:45 | Concurrent Session 25
-
-
-
-
-
-### Session 25.2 | Transitions of Online Learning and Teaching
-
-
-
-
-
-## 2:45 - 3:00 | Break
-
-## 3:00 - 3:45 | Unconference
-
-## 3:45 - 4:00 | Break
-
-## 4:00 - 4:30 | Social Guest 
-
-## 4:30 - 5:00 | Discussion/Networking Pod Drop-In
-
+-->

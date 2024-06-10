@@ -15,7 +15,7 @@ IN PERSON at Campus de Longueuil of Université de Sherbrooke
 > Join us at the #OTESSA24 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 6:30 – 7:30 am (Eastern) at https://voiced.ca
 -->
 
-## 8:30 - 9:30 | Continental Breakfast Provided {.unnumbered}
+## 8:30 - 9:30 | Unconferencing Breakfast (Continental Breakfast Provided){.unnumbered}
 
 **La Source**
 
@@ -92,9 +92,20 @@ While the principles we embrace are not groundbreaking, they are critical to the
 
 :::
 
-### Session 6.3 | Addressing Inequities
 
-**Room 3675 (Session C)**
+
+## 11:00 - 11:30 | Break
+
+  
+<!--
+## 11:30-12:30 | Unconference
+-->
+
+## 11:30 - 12:30 | Concurrent Session 7
+
+### Session 7.1 | Addressing Inequities
+
+**Room 3605 (Session A)**
 
 #### 10:00 - 11:00 | Is AI for or Against Human Success? An Exploratory Engagement by Female Scholars
 
@@ -114,17 +125,26 @@ In this practice-focused session, an educator from Kenya and two educators from 
 
 :::
 
-## 11:00 - 11:30 | Break
+### Session 7.2 | Addressing Inequities
 
-  
-## 11:30-12:30 | Unconference
+**Room 3665 (Session B)**
 
-## 12:30 - 1:30 | Break
+#### Unleashing Potential: Exploring Open Education Initiatives with TRU Open Press
 
-## 1:30 - 2:15 | Concurrent Session 7
+**Practice**
+
+**Danielle Collins, Marie Bartlett, Brenna Clarke Gray, Jessica Obando Almache, Kaitlyn Meyers, Jon Fulton, Natasha Ramroop Singh & Ananya Kamboj** | *Thompson Rivers University*
+
+::: {.callout-note collapse="true"}
+## Abstract
+Join us at the OTESSA conference as we highlight the transformative impact of the Thompson Rivers University (TRU) Open Press. As proponents of open education, we aim to demonstrate how the TRU Open Press fosters a sustainable and inclusive future through innovative projects. Gain insights into our core operations, including our role as a leading provider in web-first publishing, open pedagogy, and scholarship. We'll delve into our proposal process, detail how projects are initiated and navigated, with the goal of sustaining positive change for a diverse, sustainable, and democratic world. Experience the tangible impact of our initiatives through a showcase of successful projects in the evolving landscape of online learning. Explore our open publication strategies, funding mechanisms, and their profound impact on addressing inequities. Learn about our collaborations with faculty, students, Indigenous communities, and local organizations, all contributing to sustaining shared futures through education. Delve into the production processes of our Open Educational Resources (OER) and open pedagogy projects, fostering positive and meaningful change. Join us in shaping the future of education and scholarship through meaningful discussions and building connections for shared knowledge and inclusivity.
+:::
+## 12:30 - 1:30 | Lunch Break
+
+## 1:30 - 3:00 | Concurrent Session 8
 
 
-### Session 7.1 | Wildcard
+### Session 8.1 | Wildcard
 
 **Room 3605 (Session A)**
 
@@ -153,12 +173,8 @@ Artificial intelligence (AI) is used in education since 2015 (Vincent-Lancrin & 
 This proposal explores the transformation of OER in the context of Artificial Intelligence (AI), examining the multifaceted relationship between these two domains. While highlighting the potential benefits of AI in personalizing learning, creating new resources, and enhancing accessibility, the proposal also confronts the challenges associated with authorship and ethical considerations of AI-generated content. Focusing on strategies to navigate these challenges while ensuring the integrity of original contributions, the proposal further investigates how advanced AI techniques like fine-tuning and Retrieval Augmented Generation (RAG) can be employed to create highly adaptive and personalized OER aligned with learners' needs. Additionally, it explores the potential of AI in generating multimodal resources, potentially overcoming language, literacy, and learning preference barriers to broaden access to education globally. Ultimately, this proposal aims to leverage AI while addressing its inherent challenges, ultimately enhancing the quality, accessibility, and adaptivity of OER.
 :::
 
-### Session 7.2  | Transitions of Online Learning and Teaching
 
-**Room 3665 (Session B)**
-
-
-####  1:30 - 2:00 | Undergraduate Students as Research Partners: Lessons Learned in a Scoping Review of Social Media in Teaching and Learning
+####  2:30 - 3:00 | Undergraduate Students as Research Partners: Lessons Learned in a Scoping Review of Social Media in Teaching and Learning
 
 **Research**
 
@@ -172,6 +188,24 @@ After 20+ years of educators incorporating various social media into their under
 
 :::
 
+### Session 8.2  | Sustaining Positive Change 
+
+**Room 3665 (Session B)**
+
+####  1:30 - 2:00 | Creating Reskilling and Upskilling Opportunities for Internationally Educated Immigrants through Online Learning Programs: The Story of Success
+
+**Practice**
+
+**Marina Grineva** | *Intercultural Skills Lab (Rotman School of Management, University of Toronto)*
+
+::: {.callout-note collapse="true"}
+## Abstract
+The importance of access to reskilling and upskilling opportunities for immigrants can’t be overestimated. However, there is a number of challenges that this population faces while trying to integrate into the workforce or advance in their careers in Canadian work environments. One of such challenges is the inability to attend professional development programs in-person. From this perspective, technology-enhanced learning, specifically, on-line or hybrid learning environments (a combination of asynchronous and synchronous learning sessions) are one of the solutions of the problem.
+
+In this presentation, we aim to provide the overview of  professional development programs offered by [The Intercultural Skills Lab](https://www.rotman.utoronto.ca/ProfessionalDevelopment/interculturalskillslab) (Rotman School of Management, University of Toronto) that successfully provides reskilling and upskilling opportunities for internationally trained immigrants by creating a variety of technology-enhanced learnings environments. Specifically, we will demonstrate how through the use of a number of online learning tools the program participants are given an opportunity to become part of vibrant collaborative learning communities fostering professional development in such areas as intercultural intelligence, effective communication, career management, as well as in the sector-specific disciplines.
+:::
+
+
 #### 2:00 - 2:30 | Flexibility and Foresight in Ontario Postsecondary Education: Voices from the Field
 
 **Practice**
@@ -183,13 +217,33 @@ After 20+ years of educators incorporating various social media into their under
 Flexibility has emerged as a key area to support digital transformation in postsecondary education, and educators are often at the forefront of implementation. To understand how educators are thinking and feeling, we engaged with 45 educators from Ontario's publicly-supported postsecondary institution through six virtual workshops using foresight methods to frame the conversations. Foresight is a formal, systematic way of thinking about the future, which offers a way to think about how the future might play out and expand the solution space. Specifically, we used the following foresight methods: Futures Triangle, to understand the interrelationships among future visions, present drivers of change, and past limitations; Causal Layered Analysis (CLA), to explore the assumptions that underlie the way we frame problems, situations, and solutions; and Three Horizons, to explore what would it take to transition from present situations to future visions. This presentation is a summary of the research about these educators think and feel about flexibility in post secondary education, including considerations of equity and ethics and the application to practice, policy and infrastructure and recommended next steps.
 :::
 
-## 2:15 - 2:45 | Break
 
-## 3:00 - 4:00 | Concurrent Session 8
+
+**Room 3665 (Session B)**
+
+#### 2:30 - 3:00 | Developments in National OER Advocacy in Canada 
+
+**Ann Ludbrook** | *Toronto Metropolitan University*
+
+**Michael McNally** | *University of Alberta*
+
+::: {.callout-note collapse="true"}
+## Abstract
+
+This 50-minute session builds upon the Canadian Association Research Libraries (CARL)’s National Advocacy Framework for Open Educational Resources (OER) in Canada (2023). It updates attendees on national OER advancements, and features insights from the Indigenous Knowledges and OER summit held in Vancouver in February 2024. The summit produced principles for working with Indigenous knowledges in OER, alongside discussions on progressing national OER advocacy. The session covers developments in policy, infrastructure, and francophone OER stemming from summits in 2022 and 2023. Reports from these events will be discussed, along with updates on ongoing federal budget consultations and the anticipated 2025 federal election. The audience will also have the opportunity to contribute ideas and strategies for national advocacy, via group discussion and polls.
+:::
+
+## 3:00 - 3:30 | Break
+
+
+
+## 3:30 - 4:30 | Concurrent Session 9 
+
+
+
+### Session 9.1  | Addressing Inequities
 
 **Room 3605 (Session A)**
-
-### Session 8.1  | Addressing Inequities
 
 #### Challenging Stereotypes: The Role of The Matilda Project in STEM Gender Equality
 
@@ -204,13 +258,24 @@ The Matilda Effect - a term coined by Yale historian Margaret W. Rossiter - is a
 
 :::
 
+### Session 9.2 | Transitions of Online Learning and Teaching
 
-### Session 8.2  | Sustaining Positive Change 
+**Room 3675 (Session C) | Research**
 
-**Room 3665 (Session B)**
+#### 3:00-3:50 | Using AI to design a Culturally Responsive STEM course and improve sense of belonging among students
 
 
-#### Empowering Student Voices: Integrating Stop-Motion Animation with Google Drawing, Canva, and Cap Cut
+**Nahid Pourdolat Safari & Behnoosh Khoramrooz** | *University of Victoria*
+
+::: {.callout-note collapse="true"}
+## Abstract
+
+This session aims to explore the integration of AI in Culturally Responsive Teaching (CRT) to enhance the sense of belonging in STEM education. Focusing on the importance of CRT in developing a sense of belonging and as a result, in enhancing motivation, engagement, persistence and academic performance, this presentation will discuss the theoretical foundations of CRT and explore implementing AI-generated content in STEM course design to foster a more inclusive learning environment. This session will delve into how AI can validate and acknowledge students' cultural backgrounds in STEM classes with a focus on underrepresented groups, including Indigenous, Black and international students. By showcasing practical examples, this session intends to demonstrate how AI technologies can be used to motivate and engage STEM students from diverse cultural backgrounds by improving their sense of belonging.
+
+
+:::
+
+#### 3:50 - 4:30 | Empowering Student Voices: Integrating Stop-Motion Animation with Google Drawing, Canva, and Cap Cut
 
 **Practice**
 
@@ -223,46 +288,20 @@ In designing Project Based Learning (PBL) curriculum and units that focus on rea
 
 :::
 
-### Session 8.3 | Addressing Inequities
+#### 10:30-11:00 | Connecting in the digital divide: Learners’ experiences of relatedness in a hybrid university course
 
-**Room 3675 (Session C)**
+**Room 3675 (Session C) | Research**
 
-#### Unleashing Potential: Exploring Open Education Initiatives with TRU Open Press
-
-**Practice**
-
-**Danielle Collins, Marie Bartlett, Brenna Clarke Gray, Jessica Obando Almache, Kaitlyn Meyers, Jon Fulton, Natasha Ramroop Singh & Ananya Kamboj** | *Thompson Rivers University*
+**Behnoosh Khoramrooz $ Mariel Miller** | *University of Victoria*
 
 ::: {.callout-note collapse="true"}
 ## Abstract
-Join us at the OTESSA conference as we highlight the transformative impact of the Thompson Rivers University (TRU) Open Press. As proponents of open education, we aim to demonstrate how the TRU Open Press fosters a sustainable and inclusive future through innovative projects. Gain insights into our core operations, including our role as a leading provider in web-first publishing, open pedagogy, and scholarship. We'll delve into our proposal process, detail how projects are initiated and navigated, with the goal of sustaining positive change for a diverse, sustainable, and democratic world. Experience the tangible impact of our initiatives through a showcase of successful projects in the evolving landscape of online learning. Explore our open publication strategies, funding mechanisms, and their profound impact on addressing inequities. Learn about our collaborations with faculty, students, Indigenous communities, and local organizations, all contributing to sustaining shared futures through education. Delve into the production processes of our Open Educational Resources (OER) and open pedagogy projects, fostering positive and meaningful change. Join us in shaping the future of education and scholarship through meaningful discussions and building connections for shared knowledge and inclusivity.
-:::
 
-
-<!--
-### Session 12.1 | Addressing Inequity
-**Trottier 2100 (Session C)**
-
-
-
-###  Session 12.2 | Wildcard
-
-**Trottier 2110 (Session D)**
-
-####  Investigating Transformative Technology Integration through Lesson Analysis: A PICRAT Model Pilot Study
-
-**Research**
-
-**Adjoa Mensah, Tina Vo, Peter Wiens & Vanessa Vongkulluksn** | *University of Nevada Las Vegas*
-
-
-::: {.callout-note collapse="true"}
-## Abstract
-According to the Council for Accreditation of Teacher Preparation (CAEP), technology integration is an important component of instructional practice and competency standards. This quantitative pilot study evaluates preservice science lesson plans using the nine domains of the PICRAT model. In a university located in the southwest region of the US, researchers piloted the use of the PICRAT model as a metric for the frequency of technology integration occurrences. Coding for PICRAT domains (passive, interactive, creative, replacement, amplification and transformation) was triangulated among researchers using interrater reliability to ensure consistent coding. The researchers deliberated on the particular benefits and obstacles associated with the PICRAT model and offered perspectives on the feasibility of utilizing the domains to code lesson plans in teacher preparation.  These findings suggest a high level of consistency among raters in evaluating different PICRAT domains, particularly in the latter four categories where unanimous agreement was attained.
+During the global pandemic, the importance of feeling connected and supported in online learning garnered increased attention as learners reported feelings of isolation and loneliness. According to self-determination theory (SDT), “relatedness,” defined as feeling included and related to others, is one of three basic psychological needs. While the prevalence of online, hybrid, and multi-access modes of learning continues to grow post-pandemic, we currently have little understanding of how learners develop feelings of relatedness during online learning or how relatedness can be supported from their perspective.  As such, the purpose of this study is to explore learners’ perceived feelings of relatedness in a large, hybrid, undergraduate course. Specifically, we examined (a) the extent to which learners reported feeling a sense of relatedness in the context of a large hybrid class, and (b) what learners perceive as contributing to their feelings of relatedness. By examining relatedness from learners’ perspectives, findings can advance our understanding of how to ensure students feel a sense of belonging in their online learning and to improve learners’ experience as a consequence.
 
 :::
 
-## 5:00 - 7:00 | See Congress Programming for Social Zone & Food Options
--->
+
+
 
 ## To Be Determined | OTESSA Social

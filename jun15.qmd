@@ -12,7 +12,7 @@ IN PERSON at Campus de Longueuil of Université de Sherbrooke
 </iframe>
 
 
-## 8:30 - 9:30 | Continental Breakfast Provided {.unnumbered}
+## 8:30 - 9:30 | Unconferencing Breakfast (Continental Breakfast Provided){.unnumbered}
 
 **La Source**
 
@@ -23,54 +23,21 @@ IN PERSON at Campus de Longueuil of Université de Sherbrooke
 
 ## 9:45 - 10:00 | Break
 
-## 10:00-11:00 | Concurrent Session 9
+## 10:00-11:00 | Concurrent Session 10
 
-### Session 9.1 |  Sustaining Positive Change
+### Session 10.1 |  Forthcoming
 
 **Room 3605 (Session A)**
 
-#### 10:00 - 10:20 | Using a Futures Literacy Framework with Preservice Teacher Candidates
-
-**Research**
-
-**Janette Hughes & Laura Morrison** | *Ontario Tech University*
-
-::: {.callout-note collapse="true"}
-## Abstract
-We will share findings from our qualitative case-study research that examined the use of a Futures Literacy (FL) framework with six preservice teacher candidates (PTCs) as they prepared curriculum resources for a series of B.Ed. workshops focused on digital making. The purpose of the study was to encourage the PTCs to consider how they might design educational experiences for their peers that would help them to consider and reflect on how teachers might explicitly foster student confidence, resiliency, flexibility, and adaptability -- key skills needed to thrive in uncertain times. The PTCs engaged in weekly planning sessions over a semester-long internship and each designed a 90-minute workshop for their peers in the B.Ed. program, using a FL framework, combined with an emerging digital technology (Internet of Things; Artificial Intelligence; Robotics, etc.). Data sources include pre-surveys, artefacts they created, and interviews. The findings suggest that being immersed in a project focused on FL helped the PTCs define, analyze, implement and evaluate a FL approach to teaching and learning that helped them think through how they could plan with the notion of a positive future in mind and how they could help their students foster innovation, resilience, flexibility and adaptability.
-:::
-
-#### 10:20 - 11:00 | Approaching Openness as a (Critical) Praxis in Higher Education
 
 
-**Practice** 
-
-**Danielle Dilkes** | *University of Western Ontario*
-
-
-::: {.callout-note collapse="true"}
-## Abstract
-
-Open education “by its very nature open education [can] not be fully delimited or defined” (Noddings & Enright, 1983). Much of the contemporary discourse in higher educational institutions focuses on open access and the development of open educational resources (OERs); however, in open, openness can go beyond OERs. In this session, we will explore multiple meanings of openness, including open as access, open as affordability, open as autonomy, open as control, open as ambiguity, open as freedom, and other conceptualizations of openness. We will then focus on the potential for openness as a critical praxis that can empower students and transform knowledge practices and infrastructures both within and beyond educational institutions. Throughout the session, we will discuss specific open practices that could function as critical pedagogy and discuss potential barriers to achieving this in higher education; however, this session will largely be focused on provocation and discussion. The intent is not to (re)define the ever elusive term “open” in education, but instead to invite each participant to reimagine what it means to practice openness in their own contexts.
-:::
-
-### Session 9.2 | Sustaining Positive Change
+### Session 10.2 | Sustaining Positive Change
 
 **Room 3665 (Session B)**
 
-#### 10:00 - 10:30 | Seeking a newer equity, diversity, and inclusion model for educators
 
-**Practice**
 
-**Lorayne Robertson, Jessica Trinier & Roland Van Oostveen** | *Ontario Tech University*
-
-::: {.callout-note collapse="true"}
-## Abstract
-The complexities of the human condition are evident in myriad ways, yet human differences are used globally to deny basic rights. How differences are perceived in education impacts student access and participation in school, and ultimately the outcomes of their school experience. Courses on equity, diversity and inclusion are one means to help future educators become aware that the benefits of schooling are not equally available to all students. This paper presents a reflective description of a model used for the co-construction of equity, diversity and inclusion courses that employs a community of practice model where student voice features prominently in both course design and course enactment. The model relies on establishing a shared spirit of equity humility for learners and educators, and recognition of the need for student safety in potentially uncomfortable conversations. Basic human rights is  an anchoring concept. While, in the past, the teaching of equity has tended to focus on distinct aspects of oppression in society as individual topics, the co-construction of equity model relies, instead, on building bridges of understanding that cross oppressions. The concept of building cross-equity understandings is helpful as a guide to dismantling oppression and guiding the rebuilding of safer, more inclusive spaces in schools.
-
-:::
-
-#### 10:30 - 11:00 | Designing and Implementing a Framework to Centralize an Accessibility Resource Index Focusing on Teaching & Learning
+#### 10:00 - 10:30 | Designing and Implementing a Framework to Centralize an Accessibility Resource Index Focusing on Teaching & Learning
 
 **Practice**
 
@@ -85,38 +52,73 @@ The Accessibility Resource Index project addresses the challenge of decentralize
 
 ## 11:00 - 11:30 | Break
 
-## 11:30-12:30 | Concurrent Session 10
+## 11:30-12:30 | Concurrent Session 11
 
-### Session 10.1 | Sustaining Positive Change
+### Session 11.1 | Sustaining Positive Change
 
-#### Sprint to Success: A Journey in Advancing Educators’ Digital Fluency
+####  11:30 - 12:00 | Triads to Complete Capstone: e-Portfolios
 
 **Practice**
 
-**Charlotte Delouche & Simon Moll** | *eCampusOntario*
+**Christine Ho Younghusband** | *University of Northern British Columbia*
 
 ::: {.callout-note collapse="true"}
 ## Abstract
-'Sprint to Success: A Journey in Advancing Educators’ Digital Fluency' is a dynamic workshop that centers around the transformative impact of the Ontario Extend Sprints within the micro-credential landscape.
+For one graduate program at a small research university in British Columbia, completing a digital portfolio is one option for capstone to demonstrate learning and conclude the program. The portfolio option includes developing a WordPress site, articulating one’s learning through the lens of a guided question, and a presentation of the portfolio to a committee. The student and committee members are led by a faculty supervisor. Completion of this capstone can be an isolating experience. In one term, two graduate students were left without a supervisor and needed to complete the program that term. One faculty member supervised three graduate students at one time. Over time, the three graduate students formed a triad, or small learning community, where they supported, peer-assessed, and collaborated in an ongoing way to complete their portfolios. The outcomes were personalized and unique to the learner. This presentation is a program evaluation that investigates the value and impact of triads during capstone and portfolio to invite back humanity into the capstone and portfolio experience.
 
-Ontario Extend is a bilingual professional learning program that empowers educators to engage with emerging technologies and pedagogical practices for effective online teaching and learning. Over 1400 educators have completed the program since 2017, earning digital badges and enhancing their digital fluency.
-
-Central to our discussion are the Sprints – concentrated, three-week sessions that have attracted more than 400 educators from 53 varied institutions in Ontario, all aiming to gain digital skills and the Empowered Educator micro-credential.
-
-In the workshop, we will examine the core of these Sprints, revealing a story of collaboration and shared goals in digital literacy. Mirroring the collaborative nature of the Sprints, participants will engage in scenarios inspired by challenges faced during the Sprints, drawn from experiences of Sprint participants, facilitators, and organizers alike.
-
-The evolving nature of the Sprints is a focal point, showcasing the importance of collaborative learning and ongoing development in digital education.
-
-Join us to experience and contribute to the ongoing story of digital literacy in education. This workshop is your opportunity to engage with the narrative, add your perspective, and become part of this vibrant community.
 :::
 
-### Session 10.2 | Forthcoming
+#### 12:00 - 12:30 | Impact of Higher Institution-organised Training and MOOCs on Academic Staffs’ Innovative Skills Acquisition
 
-## 12:30 - 1:30 | Break
+**Research**
 
-## 1:30 - 2:30 | Concurrent Session 11
+**Adebowale Oluwasegun Adebagbo, Ibraheem A. Abdul & Kazeem Adetunji Sodiq** | *Yaba College Of Technology, Lagos*
 
-### Session 11.1 | Addressing Inequities
+::: {.callout-note collapse="true"}
+Teaching and learning innovations focus on improving knowledge content, pedagogy, instructional resources, learning environment and learning outcomes. Using technologies to provide sustainable impacts is good but adopting innovative digital pedagogical resources to facilitate instructional activities for shared future is challenging because of digital skills required. Lacking this knowledge could cause inappropriate integration for pedagogical practices, and problems to learners. In this research, among the Massive Open Online Courses (MOOCs) that the academic staffs used to acquire the digital skills for online learning were the Commonwealth of Learning MOOCs (Technology Enabled Learning MOOC and Open Education Resources MOOC). Considering trainings and the standards, this study investigated innovative/pedagogical digital skills acquired by the academics who participated in the higher institution-organised trainings, compared to those who participated in Massive Open Online Courses in Nigeria. Purposive sampling method was used for the descriptive survey. A validated questionnaire ASOLICQ (0.86 reliability coefficient) was used for data collection. Data were analysed using Frequency count, Percentage, Correlation and Chi-square. Findings revealed a significant difference between levels of skills acquired by the academic staffs trained with the two methods. From the findings, recommendations emphasised provision of quality assurance, engaging hands-on practices, participatory learning reflection sessions and friendly monitoring.
+
+:::
+
+### Session 11.2 | Addressing Inequities
+
+**Room 3665 (Session B)**
+
+#### 11:30 - 12:00 | Online interactions and public conversations: Social learning results from a netnographic study of a conservative subreddit
+
+**Research**
+
+**Justin Harrison** | *University of Victoria*
+
+::: {.callout-note collapse="true"}
+Alongside the seeming decline in recent years of public discourse, civility, and democratic health in society, Canadians have reported very low confidence in our country’s media and the country’s Federal Parliament (Statistic Canada). Often fed by algorithmic filter bubbles from their own online media consumption, participants find themselves sharing opinion, memes, social media posts, and articles within their homogeneous information stream (Rhodes, 2022) to a receptive audience.
+
+Building upon research establishing a correlation between political misinformation and closed informational systems (Dekeyser, D., and Roose, H., 2022; Rhodes, S. 2022), and using a social learning theory frame, this session will present preliminary findings from a netnographic study of a Canadian conservative subreddit towards informing our role as educators. By identifying and analyzing the social learning lessons revealed from behaviours and discourses on this subreddit, it is hoped this study will provide a deeper understanding of the ways learned and observed behavior can best be harnessed for democratic health.
+
+:::
+
+####  12:00 - 12:30 | Survivors of Complex Trauma as Adult Online Learners
+
+**Practice**
+
+**Hilary Schmidt** | *Thompson Rivers University*
+
+
+::: {.callout-note collapse="true"}
+## Abstract
+Complex trauma is both a product and a source of significant multidimensional inequality, including profound disruption to survivors’ educational trajectories. Nonetheless, little research has been conducted on trauma-informed educational practices for adult/postsecondary or open/online learners, and educational researchers have largely ignored the perspectives of survivors, contradicting the key principle of collaboration within a trauma-informed approach.
+
+This qualitative instrumental collective case study explored how adults with a history of complex trauma experience postsecondary open/online learning. Findings included participants’ struggles with executive functioning, challenges regulating emotion and dealing with a heightened perception of threat, re-experiencing trauma, negative beliefs about the self, and difficulties navigating relationships. These trauma impacts affected not only participants’ learning and course experience, but also their experience of applying, registering, and accessing financial aid. Nonetheless, participants are demonstrably skilled in managing impacts of their trauma and are driven to learn, placing the highest intrinsic value on education. Top priorities for implementation of trauma-informed educational practices identified by participants included establishing safety; trust and transparency; and empowerment, voice, and choice. Implications are discussed, including enhancing equity and inclusion for survivors of complex trauma and assisting open/online postsecondary institutions in meeting their unique needs through implementation of trauma-informed educational practices.
+
+:::
+
+
+## 12:30 - 1:30 | Lunch Break
+
+## 1:30 - 2:30 | Concurrent Session 12
+
+### Session 12.1 | Addressing Inequities | *En Français*
+
+**Room 3605 (Session A)**
 
 #### Franchir les obstacles : Améliorer l'accessibilité grâce aux ressources éducatives libres dans l'apprentissage intégré au travail
 
@@ -132,7 +134,7 @@ Dans le cadre de ce projet, une nouvelle lacune a été mise en lumière : le ma
 Au cours de notre session, nous fournirons des informations sur ce qu'est le CAPFO et mettrons en lumière les exigences particulières de la communauté minoritaire franco-ontarienne engagée dans l'apprentissage intégré au travail (AIT). Nous aborderons ensuite les ressources éducatives libres (REL), comment elles peuvent améliorer l'expérience des professeur.e.s dans l'AIT et dévoilerons quelques conclusions clés de notre rapport. Finalement, nous fournirons à notre public un guide REL afin qu'ils puissent initier l'expérimentation et la création de leurs propres REL.
 :::
 
-### Session 11.2 | Sustaining Positive Change
+### Session 12.2 | Sustaining Positive Change
 
 #### What I Wish Someone had Told Me: Insights on building sustainable impact with open education
 
@@ -152,149 +154,15 @@ Veteran leaders of groundbreaking open education projects and programs reflect o
 
 :::
 
-## 2:30 - 3:00 | Break
-
-## Concurrent Session 12
-
-### Session 12.1 | Wildcard & Transitions of Online Learning and Teaching
-
-**Room 3605 (Session A)**
-
-####  3:00 - 3:30 | Triads to Complete Capstone: e-Portfolios
-
-**Practice**
-
-**Christine Ho Younghusband** | *University of Northern British Columbia*
-
-::: {.callout-note collapse="true"}
-## Abstract
-For one graduate program at a small research university in British Columbia, completing a digital portfolio is one option for capstone to demonstrate learning and conclude the program. The portfolio option includes developing a WordPress site, articulating one’s learning through the lens of a guided question, and a presentation of the portfolio to a committee. The student and committee members are led by a faculty supervisor. Completion of this capstone can be an isolating experience. In one term, two graduate students were left without a supervisor and needed to complete the program that term. One faculty member supervised three graduate students at one time. Over time, the three graduate students formed a triad, or small learning community, where they supported, peer-assessed, and collaborated in an ongoing way to complete their portfolios. The outcomes were personalized and unique to the learner. This presentation is a program evaluation that investigates the value and impact of triads during capstone and portfolio to invite back humanity into the capstone and portfolio experience.
-
-:::
-
-#### 3:30 - 4:00 | Impact of Higher Institution-organised Training and MOOCs on Academic Staffs’ Innovative Skills Acquisition
-
-**Research**
-
-**Adebowale Oluwasegun Adebagbo, Ibraheem A. Abdul & Kazeem Adetunji Sodiq** | *Yaba College Of Technology, Lagos*
-
-::: {.callout-note collapse="true"}
-Teaching and learning innovations focus on improving knowledge content, pedagogy, instructional resources, learning environment and learning outcomes. Using technologies to provide sustainable impacts is good but adopting innovative digital pedagogical resources to facilitate instructional activities for shared future is challenging because of digital skills required. Lacking this knowledge could cause inappropriate integration for pedagogical practices, and problems to learners. In this research, among the Massive Open Online Courses (MOOCs) that the academic staffs used to acquire the digital skills for online learning were the Commonwealth of Learning MOOCs (Technology Enabled Learning MOOC and Open Education Resources MOOC). Considering trainings and the standards, this study investigated innovative/pedagogical digital skills acquired by the academics who participated in the higher institution-organised trainings, compared to those who participated in Massive Open Online Courses in Nigeria. Purposive sampling method was used for the descriptive survey. A validated questionnaire ASOLICQ (0.86 reliability coefficient) was used for data collection. Data were analysed using Frequency count, Percentage, Correlation and Chi-square. Findings revealed a significant difference between levels of skills acquired by the academic staffs trained with the two methods. From the findings, recommendations emphasised provision of quality assurance, engaging hands-on practices, participatory learning reflection sessions and friendly monitoring.
-
-:::
-
-### Session 12.2 | Addressing Inequities
-
-**Room 3665 (Session B)**
-
-#### 3:00 - 3:30 | Online interactions and public conversations: Social learning results from a netnographic study of a conservative subreddit
-
-**Research**
-
-::: {.callout-note collapse="true"}
-Alongside the seeming decline in recent years of public discourse, civility, and democratic health in society, Canadians have reported very low confidence in our country’s media and the country’s Federal Parliament (Statistic Canada). Often fed by algorithmic filter bubbles from their own online media consumption, participants find themselves sharing opinion, memes, social media posts, and articles within their homogeneous information stream (Rhodes, 2022) to a receptive audience.
-
-Building upon research establishing a correlation between political misinformation and closed informational systems (Dekeyser, D., and Roose, H., 2022; Rhodes, S. 2022), and using a social learning theory frame, this session will present preliminary findings from a netnographic study of a Canadian conservative subreddit towards informing our role as educators. By identifying and analyzing the social learning lessons revealed from behaviours and discourses on this subreddit, it is hoped this study will provide a deeper understanding of the ways learned and observed behavior can best be harnessed for democratic health.
-
-:::
-
-####  3:30 - 4:00 | Survivors of Complex Trauma as Adult Online Learners
-
-**Practice**
-
-**Hilary Schmidt** | *Thompson Rivers University*
 
 
-::: {.callout-note collapse="true"}
-## Abstract
-Complex trauma is both a product and a source of significant multidimensional inequality, including profound disruption to survivors’ educational trajectories. Nonetheless, little research has been conducted on trauma-informed educational practices for adult/postsecondary or open/online learners, and educational researchers have largely ignored the perspectives of survivors, contradicting the key principle of collaboration within a trauma-informed approach.
 
-This qualitative instrumental collective case study explored how adults with a history of complex trauma experience postsecondary open/online learning. Findings included participants’ struggles with executive functioning, challenges regulating emotion and dealing with a heightened perception of threat, re-experiencing trauma, negative beliefs about the self, and difficulties navigating relationships. These trauma impacts affected not only participants’ learning and course experience, but also their experience of applying, registering, and accessing financial aid. Nonetheless, participants are demonstrably skilled in managing impacts of their trauma and are driven to learn, placing the highest intrinsic value on education. Top priorities for implementation of trauma-informed educational practices identified by participants included establishing safety; trust and transparency; and empowerment, voice, and choice. Implications are discussed, including enhancing equity and inclusion for survivors of complex trauma and assisting open/online postsecondary institutions in meeting their unique needs through implementation of trauma-informed educational practices.
-
-:::
 
 
 ## To Be Determined | OTESSA Social
 
 <!--
 
-
-
-
-
-
-
-## 10:30-11:00 | Break
-
-  
-
-
-**Trottier 0060 (Session A)**
-
-
-
-
-### Session 14.2 | Transitions of Online Learning and Teaching
-**Trottier 0070 (Session B)**
-
-
-
-### Session 14.3 | Sustaining Positive Change
-**Trottier 2100 (Session C)**
-
-
-
-
-
-#### 11:30 - 12:00 | 
-
-## 12:00 - 1:30 | Break
-
-## 1:30 - 2:30 | Keynote
-
-**Speaker** | *Forthcoming*
-
-## 2:30 - 3:00 | Break
-
-## 3:00 - 3:45 | Concurrent Session 15
-
-### Session 15.1  | Transitions of Online Learning and Teaching
-**Trottier 2100 (Session C)**
-
-#### 3:00 - 3:20 | 
-
-
-
-### Session 15.2  | Addressing Inequities
-
-**Trottier 2110 (Session D)**
-
-
-
-
-
-
-## 3:45 - 4:00 | Break with Coffee & Snack Provided
-
-## 4:00 - 4:30 | Concurrent Session 16
-
-### Session 16.1 | Transitions of Online Learning and Teaching
-
-**Trottier 2100 (Session C)**
-
-
-#### Connecting in the digital divide: Learners’ experiences of relatedness in a hybrid university course
-
-
-**Research**
-
-**Behnoosh Khoramrooz & Mariel Miller** | *University of Victoria*
-
-
-::: {.callout-note collapse="true"}
-## Abstract
-During the global pandemic, the importance of feeling connected and supported in online learning garnered increased attention as learners reported feelings of isolation and loneliness. According to self-determination theory (SDT), “relatedness,” defined as feeling included and related to others, is one of three basic psychological needs. While the prevalence of online, hybrid, and multi-access modes of learning continues to grow post-pandemic, we currently have little understanding of how learners develop feelings of relatedness during online learning or how relatedness can be supported from their perspective.  As such, the purpose of this study is to explore learners’ perceived feelings of relatedness in a large, hybrid, undergraduate course. Specifically, we examined (a) the extent to which learners reported feeling a sense of relatedness in the context of a large hybrid class, and (b) what learners perceive as contributing to their feelings of relatedness. By examining relatedness from learners’ perspectives, findings can advance our understanding of how to ensure students feel a sense of belonging in their online learning and to improve learners’ experience as a consequence.
-:::
 
 
 ### Session 16.2 | Addressing Inequities
@@ -314,5 +182,5 @@ Canadian post-secondary programs are based on Western worldviews, one of the man
 
 :::
 
-## 5:00 - 7:00 | See Congress Programming for Social Zone & Food Options
+
 -->

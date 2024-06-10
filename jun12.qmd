@@ -17,9 +17,17 @@ IN PERSON at Campus de Longueuil of Université de Sherbrooke
 
 -->
 
-## 8:30 - 9:30 | Continental Breakfast Provided {.unnumbered}
+## 8:30 - 9:30 | Unconferencing Breakfast (Continental Breakfast Provided){.unnumbered}
 
 **La Source**
+
+Internet Radio Feeds Available: <a href="https://radio.uvic.ca/public/otessa" target="_blank" class="badge bg-primary"><b> Audio Stream 1</b></a> <a href="https://radio.uvic.ca/public/otessa_2" target="_blank" class="badge bg-primary"><b>Audio Stream 2</b></a> <a href="https://radio.uvic.ca/public/otessa_3" target="_blank" class="badge bg-primary"><b>Audio Stream 3</b></a> <a href="https://radio.uvic.ca/public/otessa_4" target="_blank" class="badge bg-primary"><b>Audio Stream 4</b></a>
+
+
+
+
+
+
 
 ## 9:30 - 9:45 | Conference Welcome, Announcements, & Land Acknowledgement
 
@@ -32,9 +40,13 @@ IN PERSON at Campus de Longueuil of Université de Sherbrooke
 
 ### Session 1.1 | Addressing Inequities
 
+**Room 3605 (Session A) | Research** 
+
+<a href="https://radio.uvic.ca/public/otessa_3" target="_blank" class="badge bg-primary"><b>Audio Stream 3</b></a>
+
+
 #### Evolving our understanding of technology-integrated assessment: A review of the literature and development of a new framework
 
-**Room 3605 (Session A) | Research**
 
 **Colin Madland** | *University of Victoria*  
 
@@ -53,9 +65,13 @@ In this paper, we review the literature on technology in assessment in higher ed
 
 ### Session 1.2 | Transitions of Online Learning and Teaching
 
+**Room 3665 (Session B) | Research**
+
+<a href="https://radio.uvic.ca/public/otessa_4" target="_blank" class="badge bg-primary"><b>Audio Stream 4</b></a>
+
+
 #### Card Sorting as a Methodology for Discovering Underlying Needs of Communities Seeking to Develop Learning Spaces: Towards a Better Understanding of the Sociocultural Ecology
 
-**Room 3665 (Session B) | Research**
 
 **Marguerite Koole** | *University of Saskatchewan*  
 
@@ -65,7 +81,7 @@ In this paper, we review the literature on technology in assessment in higher ed
 
 **Valentina Arancibia** | *Federal University of Uberlândia*  
 
-**Redouane Touati.** | *Universidad Católica del Maule & Yahia Fares University, Médea*  
+**Redouane Touati** | *Universidad Católica del Maule & Yahia Fares University, Médea*  
 
 
 ::: {.callout-note collapse="true"}
@@ -76,35 +92,6 @@ In this paper, we focus on a knowledge elicitation method called single-criterio
 Put simply, the paper provides a discussion of the data and how the data will guide the selection of subsequent knowledge modelling methods that will guide further analysis and hopefully help to gain a better, in-depth understanding of the communities’ needs and aspirations that may otherwise remain hidden beneath social, cultural, and linguistic barriers. With careful selection of knowledge modelling methods, we hope to help limit bias and the perpetuation of English and Western ways of doing and knowing. Meaningful consultation and collaboration can help to ensure that the communities’ interests remain at the heart of the project(s) and reduce Western (‘outsider’) control of research, analysis, and development.
 :::
 
-### Session 1.3 | Transitions of Online Learning and Teaching
-
-#### 10:00-10:30 | Using AI to design a Culturally Responsive STEM course and improve sense of belonging among students
-
-**Room 3675 (Session C) | Research**
-
-**Nahid Pourdolat Safari & Behnoosh Khoramrooz** | *University of Victoria*
-
-::: {.callout-note collapse="true"}
-## Abstract
-
-This session aims to explore the integration of AI in Culturally Responsive Teaching (CRT) to enhance the sense of belonging in STEM education. Focusing on the importance of CRT in developing a sense of belonging and as a result, in enhancing motivation, engagement, persistence and academic performance, this presentation will discuss the theoretical foundations of CRT and explore implementing AI-generated content in STEM course design to foster a more inclusive learning environment. This session will delve into how AI can validate and acknowledge students' cultural backgrounds in STEM classes with a focus on underrepresented groups, including Indigenous, Black and international students. By showcasing practical examples, this session intends to demonstrate how AI technologies can be used to motivate and engage STEM students from diverse cultural backgrounds by improving their sense of belonging.
-
-
-:::
-
-#### 10:30-11:00 | Connecting in the digital divide: Learners’ experiences of relatedness in a hybrid university course
-
-**Room 3675 (Session C) | Research**
-
-**Behnoosh Khoramrooz $ Mariel Miller** | *University of Victoria*
-
-::: {.callout-note collapse="true"}
-## Abstract
-
-During the global pandemic, the importance of feeling connected and supported in online learning garnered increased attention as learners reported feelings of isolation and loneliness. According to self-determination theory (SDT), “relatedness,” defined as feeling included and related to others, is one of three basic psychological needs. While the prevalence of online, hybrid, and multi-access modes of learning continues to grow post-pandemic, we currently have little understanding of how learners develop feelings of relatedness during online learning or how relatedness can be supported from their perspective.  As such, the purpose of this study is to explore learners’ perceived feelings of relatedness in a large, hybrid, undergraduate course. Specifically, we examined (a) the extent to which learners reported feeling a sense of relatedness in the context of a large hybrid class, and (b) what learners perceive as contributing to their feelings of relatedness. By examining relatedness from learners’ perspectives, findings can advance our understanding of how to ensure students feel a sense of belonging in their online learning and to improve learners’ experience as a consequence.
-
-:::
-
 
 ## 11:00 - 11:30 | Break
 
@@ -112,11 +99,15 @@ During the global pandemic, the importance of feeling connected and supported in
 
 ### Session 2.1 | Wildcard
 
+**Room 3605 (Session A)**
+
+<a href="https://radio.uvic.ca/public/otessa_3" target="_blank" class="badge bg-primary"><b>Audio Stream 3</b></a>
+
+
 #### 11:30 - 12:00 | Unveiling the Future of Language Teaching and Acquisition: Exploring the Conflation of Cultural Historical Activity Theory, and Generative AI
 
 **Practice**
 
-**Room 3605 (Session A)**
 
 **Tanya Dixit & Michael Paskevicius** | *University of Victoria*
 
@@ -140,33 +131,19 @@ This communication presents the new design of a course on digital technology for
 
 :::
 
-### Session 2.2 | Sustaining Positive Change
-
-**Room 3665 (Session B)**
-
-#### 11:30 - 12:30 | Developments in National OER Advocacy in Canada 
-
-**Ann Ludbrook** | *Toronto Metropolitan University*
-
-**Michael McNally** | *University of Alberta*
-
-::: {.callout-note collapse="true"}
-## Abstract
-
-This 50-minute session builds upon the Canadian Association Research Libraries (CARL)’s National Advocacy Framework for Open Educational Resources (OER) in Canada (2023). It updates attendees on national OER advancements, and features insights from the Indigenous Knowledges and OER summit held in Vancouver in February 2024. The summit produced principles for working with Indigenous knowledges in OER, alongside discussions on progressing national OER advocacy. The session covers developments in policy, infrastructure, and francophone OER stemming from summits in 2022 and 2023. Reports from these events will be discussed, along with updates on ongoing federal budget consultations and the anticipated 2025 federal election. The audience will also have the opportunity to contribute ideas and strategies for national advocacy, via group discussion and polls.
-:::
 
 
 
 
 
-## 12:30 - 1:30 | Break
+## 12:30 - 1:30 | Lunch Break
 
 ## 1:30 - 2:30 | Concurrent Session 3 
 
-**Room 3605 (Session A)**
 
 ### Session 3.1 | Transitions of Online Learning and Teaching
+
+**Room 3605 (Session A)**
 
 ####  1:30 - 2:00 | Planning, living, and adding to our plates: K-3 educators' experiences of curricula in Virtual Learning Environments (VLE)
 
@@ -193,7 +170,7 @@ Ensuring employees are competent and confident to perform their duties relies on
 
 ###  Session 3.2 | Addressing Inequities
 
-**Trottier 0070 (Session B)**
+**Room 3665 (Session B)**
 
 #### 1:30 - 2:30 | Critical reflections on course materials: The rise of the single-use e-textbook and a university library’s multi-pronged response
 
@@ -253,18 +230,7 @@ Open Educational Practices (OEP) tend to create cooperative teaching and learnin
 
 **Room 3665 (Session B)**
 
-####  3:00 - 3:30 | Creating Reskilling and Upskilling Opportunities for Internationally Educated Immigrants through Online Learning Programs: The Story of Success
 
-**Practice**
-
-**Marina Grineva** | *Intercultural Skills Lab (Rotman School of Management, University of Toronto)*
-
-::: {.callout-note collapse="true"}
-## Abstract
-The importance of access to reskilling and upskilling opportunities for immigrants can’t be overestimated. However, there is a number of challenges that this population faces while trying to integrate into the workforce or advance in their careers in Canadian work environments. One of such challenges is the inability to attend professional development programs in-person. From this perspective, technology-enhanced learning, specifically, on-line or hybrid learning environments (a combination of asynchronous and synchronous learning sessions) are one of the solutions of the problem.
-
-In this presentation, we aim to provide the overview of  professional development programs offered by [The Intercultural Skills Lab](https://www.rotman.utoronto.ca/ProfessionalDevelopment/interculturalskillslab) (Rotman School of Management, University of Toronto) that successfully provides reskilling and upskilling opportunities for internationally trained immigrants by creating a variety of technology-enhanced learnings environments. Specifically, we will demonstrate how through the use of a number of online learning tools the program participants are given an opportunity to become part of vibrant collaborative learning communities fostering professional development in such areas as intercultural intelligence, effective communication, career management, as well as in the sector-specific disciplines.
-:::
 
 ####  3:30 - 4:00 | Investigating Transformative Technology Integration through Lesson Analysis: A PICRAT Model Pilot Study
 

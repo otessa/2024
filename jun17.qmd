@@ -1,5 +1,9 @@
 # Monday, June 17 {.unnumbered}
 
+<button type="button" class="btn btn-outline-success">[Success](https://twu.ca)</button>
+
+
+
 ::: {.callout-tip}
 ## Note!
 Online Only. All times Eastern Daylight Time.
@@ -14,8 +18,11 @@ Online Only. All times Eastern Daylight Time.
 ## 11:00 - 11:30 | Co-Located Shared Meet-Up | Drop-In
 
 ## 11:30 - 12:00 | Conference Welcome, Announcements, & Land Acknowledgement
+<a href="https://uvic.zoom.us/j/83935738935?pwd=CYbIMo0Qj37EqzmKnYHJoTqg3XTfpY.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
 ## 12:00 - 1:00 | Keynote
+
+<a href="https://uvic.zoom.us/j/89663701705?pwd=R3dndnlhSnhpTXdJOEtrcnliQTkxZz09" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
 **Speaker** | *Forthcoming*
 
@@ -24,6 +31,8 @@ Online Only. All times Eastern Daylight Time.
 ## 1:15 - 2:45 | Concurrent Session 13
 
 ### Session 13.1 | Transitions of Online Learning and Teaching
+
+<a href="https://twu.ca" target="_blank" class="badge bg-success">Link to Zoom</a>
 
 #### 1:15 - 2:15 | Procurement and Vendor Relations as Leverage Points for Ethics in Ed Tech 
 
@@ -82,6 +91,8 @@ Although digital technology is valorized for its promises in empowering individu
 :::
 
 ### Session 13.3 | Transitions of Online Learning and Teaching & Wildcard
+<a href="https://uvic.zoom.us/j/86422839896?pwd=AlWtfpbRgVQbIdj3R8ECgw6bxPNi2m.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 ####  1:15 - 1:45 | Building/Belonging: An Exploration of Digital and Place-Based Belonging Practices at University of Highlands & Islands
 
@@ -108,7 +119,28 @@ Along with the benefits of using Markdown content for open publishing, significa
 
 Further details about the process used to publish open content with Docsify-This will be shared, along with examples, demonstrations and a range of online activities, for those interested in innovations and educational equity related Open Educational Practices.
 :::
+#### 2:15 - 2:45 | Sprint to Success: A Journey in Advancing Educators’ Digital Fluency
 
+**Practice**
+
+**Charlotte Delouche & Simon Moll** | *eCampusOntario*
+
+::: {.callout-note collapse="true"}
+## Abstract
+'Sprint to Success: A Journey in Advancing Educators’ Digital Fluency' is a dynamic workshop that centers around the transformative impact of the Ontario Extend Sprints within the micro-credential landscape.
+
+Ontario Extend is a bilingual professional learning program that empowers educators to engage with emerging technologies and pedagogical practices for effective online teaching and learning. Over 1400 educators have completed the program since 2017, earning digital badges and enhancing their digital fluency.
+
+Central to our discussion are the Sprints – concentrated, three-week sessions that have attracted more than 400 educators from 53 varied institutions in Ontario, all aiming to gain digital skills and the Empowered Educator micro-credential.
+
+In the workshop, we will examine the core of these Sprints, revealing a story of collaboration and shared goals in digital literacy. Mirroring the collaborative nature of the Sprints, participants will engage in scenarios inspired by challenges faced during the Sprints, drawn from experiences of Sprint participants, facilitators, and organizers alike.
+
+The evolving nature of the Sprints is a focal point, showcasing the importance of collaborative learning and ongoing development in digital education.
+
+Join us to experience and contribute to the ongoing story of digital literacy in education. This workshop is your opportunity to engage with the narrative, add your perspective, and become part of this vibrant community.
+:::
+
+<!--
 #### 2:15 - 2:45 | Application of Interactive H5P Learning Content in a Dental Hygiene Course
 
 **Practice** 
@@ -120,28 +152,16 @@ Further details about the process used to publish open content with Docsify-This
 The educational experience in the Dental Hygiene Program consists of didactic lectures, simulation labs, and clinical experiences. Although the recent surge of curriculum renovation in dental and medical schools centers around enhancing student engagement and active learning, didactic teaching remains teacher-focused, involving students as passive learners only. H5P is an open platform for creating and sharing interactive HTML5 learning content. Oral biology (OBIOL 302) is a foundational science course offered to third-year students in the Dental Hygiene (DH) program. A large set of H5P content was created and provided to students through the learning management system as supplementary material. A study was conducted to evaluate the impact of these interactive H5P contents on students’ learning experiences. Anonymized student performance data from the summative exam were analyzed, and a survey was administered. Students performed better in questions for which H5P supplements were provided. The results from the survey showed satisfaction and perceived benefit of using H5P as supplementary content in didactic lectures. Students appreciated the content’s interactive nature and expressed willingness to have similar experiences in our courses. Our findings indicate that the H5P platform has the potential to redefine didactic teaching by fostering an active learning environment.
 
 :::
+-->
 
 ## 2:45 - 3:00 | Break
 
-## 3:00 - 4:00 | Ethics in Design Showcase 14 | Addressing Inequities 
-
-**La Source**
+## 3:00 - 4:00 | Ethics in Design Showcase 14 
 
 
-### Showcase 14.1  | Addressing Inequities
+### Showcase 14.1  | Sustaining Positive Change
+<a href="https://uvic.zoom.us/j/86759376080?pwd=kbelrkmitb3GPkGVBeG4FmofMp3NJa.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
-####  Decolonizing Educational Design: Toward Justice by Design in Higher Education
-
-**Rebecca Sweetman & Yasmine Djerbal** | *Queen's University*
-
-::: {.callout-note collapse="true"}
-## Abstract
-As institutions commit to strategic initiatives for justice in higher education, this session shares practical ways to walk the decolonial talk in the design of education. Delving into critical design as a transformative tool and pedagogy, we seek to shift how storytellers in higher education craft their narratives. This presentation confronts how we, practically, design an equitable future of learning, including the applied skills required to recognize and challenge our normative biases and design assumptions, and transform our day-to-day work in educational design.  
-Examining how to mitigate curricular harms and consider the ethics of educational technologies, we introduce a justice by design framework that strategically dismantles oppressive, racist, and colonial epistemologies that unconsciously make their way into course design. Through this presentation, we practice design justice principles and share an open professional training curriculum called “[Activist Design in Educational Multimedia](https://rise.articulate.com/share/7H76Ehaxu_DYM4OM2Uzav_5TAXRUvywR)” as an opportunity for intervention. The curriculum employs theoretical and practical techniques to develop the competencies and confidence of educational design professionals to apply an anti-oppressive lens in their work.  This session presents a multifaceted, practical, and principled approach to critical design that can be integrated across roles, disciplines, and hierarchies to re-story the process and outcomes of educational design. 
-
-:::
-
-### Showcase 14.2  | Sustaining Positive Change
 
 ####  A framework and model for engagement in open, online spaces
 
@@ -158,7 +178,9 @@ This design case provides an analysis of the creation of an innovative open educ
 
 :::
 
-### Showcase 14.3  | Addressing Inequities
+### Showcase 14.2  | Addressing Inequities
+<a href="https://uvic.zoom.us/j/85154000301?pwd=7EBfQGm8oGaKvDPiIR5bhzNtEVH2PG.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 #### Cultural Dimensions of Ethics in Design: Indigenous Knowledge & Online Course Media
 
@@ -170,7 +192,7 @@ This session delves into the intricate design process of an online Indigenous Et
 
 :::
 
-### Showcase 14.4  | Addressing Inequities
+### Showcase 14.3  | Addressing Inequities
 
 #### Moving Towards Design Justice through Multivocal Design in Health Education
 
@@ -184,6 +206,21 @@ This Design Case features an interprofessional stroke care case for health and m
 :::
 
 ## 4:00 - 4:30 | Social Guest 
+<a href="https://uvic.zoom.us/j/89121602808?pwd=6bdKuAks97PF60x6POMatvZySA7F9Q.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 ## 4:30 - 5:00 | Discussion/Networking Pod Drop-In
 
+
+<!--
+####  Decolonizing Educational Design: Toward Justice by Design in Higher Education
+
+**Rebecca Sweetman & Yasmine Djerbal** | *Queen's University*
+
+::: {.callout-note collapse="true"}
+## Abstract
+As institutions commit to strategic initiatives for justice in higher education, this session shares practical ways to walk the decolonial talk in the design of education. Delving into critical design as a transformative tool and pedagogy, we seek to shift how storytellers in higher education craft their narratives. This presentation confronts how we, practically, design an equitable future of learning, including the applied skills required to recognize and challenge our normative biases and design assumptions, and transform our day-to-day work in educational design.  
+Examining how to mitigate curricular harms and consider the ethics of educational technologies, we introduce a justice by design framework that strategically dismantles oppressive, racist, and colonial epistemologies that unconsciously make their way into course design. Through this presentation, we practice design justice principles and share an open professional training curriculum called “[Activist Design in Educational Multimedia](https://rise.articulate.com/share/7H76Ehaxu_DYM4OM2Uzav_5TAXRUvywR)” as an opportunity for intervention. The curriculum employs theoretical and practical techniques to develop the competencies and confidence of educational design professionals to apply an anti-oppressive lens in their work.  This session presents a multifaceted, practical, and principled approach to critical design that can be integrated across roles, disciplines, and hierarchies to re-story the process and outcomes of educational design. 
+
+:::
+-->

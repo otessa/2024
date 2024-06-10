@@ -16,20 +16,32 @@ Online Only. All times Eastern Daylight Time.
 
 
 ## 11:30 - 12:00 | Conference Welcome, Announcements, & Land Acknowledgement
+<a href="https://uvic.zoom.us/j/81199937374?pwd=6k5bYLtWaEuroDIjZosPexbBmhKJgM.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
-## 12:00 - 1:00 |Parallel Session 17 | Invited Speakers
+
+## 12:00 - 1:00 | Parallel Session 17 | Invited Speakers
 
 ### Invited Speaker Session 17.1 | Forthcoming
+<!--
+<a href="https://uvic.zoom.us/j/82399824423?pwd=0ASQrtippQqIN7b3rWPmR89tgfwpRl.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
+-->
 
 
 
 ### Invited Speaker Session 17.2 | Forthcoming
+<!--
+<a href="https://uvic.zoom.us/j/88336683214?pwd=GmweELTX5kwbPgcG7JV1qL3ViSbkrm.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
+-->
 
 ## 1:00 - 1:15 | Break
 
 ## 1:15 - 2:45 | Concurrent Session 18
 
 ### Session 18.1  | Transitions of Online Learning and Teaching
+<a href="https://uvic.zoom.us/j/83030190183?pwd=LmX0TLq8dTu9OF1SHT8xuvmoaBKMvW.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 #### 1:15 - 1:45 | Reinforcing equity and justice in learning: Using digital co-created rubrics and audio feedback as/for assessment
 
@@ -70,6 +82,17 @@ To accomplish this, the course author and I created Jade Stone, a fictional home
 Student feedback showed the continuity of story arcs and practical application, which made this coursework highly engaging. Developing the simulation was intensely collaborative, requiring meticulous planning to seamlessly embed content without disrupting the fictional world. Though the course took much creative planning, it resulted in a delightful capstone experience that allowed students to gain confidence as they imagined themselves as HR manager.
 :::
 
+#### 2:25 - 2:45 | Using a Futures Literacy Framework with Preservice Teacher Candidates
+
+**Research**
+
+**Janette Hughes & Laura Morrison** | *Ontario Tech University*
+
+::: {.callout-note collapse="true"}
+## Abstract
+We will share findings from our qualitative case-study research that examined the use of a Futures Literacy (FL) framework with six preservice teacher candidates (PTCs) as they prepared curriculum resources for a series of B.Ed. workshops focused on digital making. The purpose of the study was to encourage the PTCs to consider how they might design educational experiences for their peers that would help them to consider and reflect on how teachers might explicitly foster student confidence, resiliency, flexibility, and adaptability -- key skills needed to thrive in uncertain times. The PTCs engaged in weekly planning sessions over a semester-long internship and each designed a 90-minute workshop for their peers in the B.Ed. program, using a FL framework, combined with an emerging digital technology (Internet of Things; Artificial Intelligence; Robotics, etc.). Data sources include pre-surveys, artefacts they created, and interviews. The findings suggest that being immersed in a project focused on FL helped the PTCs define, analyze, implement and evaluate a FL approach to teaching and learning that helped them think through how they could plan with the notion of a positive future in mind and how they could help their students foster innovation, resilience, flexibility and adaptability.
+:::
+
 ### Session 18.2 | Wildcard
 
 #### 1:15 - 2:15 | Design Principles for K-12 Online Learning: A Comparative Review of Standards and Theoretical Models 
@@ -100,7 +123,10 @@ In 2023, researchers explored the relationship between Design Principles for K-1
 Podcasting is an equitable vehicle for knowledge translation, but does it “count” as scholarship? Since 2019, I have been part of a SSHRC-funded project to establish a peer reviewed podcasting network in Canada. Over these (more than anticipated) years, I have conceived, planned, recorded, edited, and revised based on reviewer feedback the forthcoming podcast Community of Praxis, a podcast for post-secondary educators. I will share my lessons learned from this experience, including the complexity of adapting the traditional scholarly apparatus to new media forms, the value of research as knowledge mobilization practice, and what is lost in the DIY podcast form when it must conform to the rigours of scholarly evaluation. Attendees will also learn about supports, resources, and proposal processes for those wishing to develop their own scholarly podcast, whether for peer review or not.
 :::
 
-### Session 18.3 | Addressing Inequities
+### Session 18.3 | Addressing Inequities & Sustaining Positive Change
+
+<a href="https://uvic.zoom.us/j/85361080321?pwd=HMAKHlOPDThCNWQPZ7rl1kBnvpPbIB.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 
 #### 1:15 - 2:15 | The Open Book Collective and Thoth: Bringing publishers, libraries and service providers together to establish a shared sustainable open ecosystem for books 
@@ -122,6 +148,19 @@ This panel will facilitate discussion between representatives from the Open Book
 
 :::
 
+#### 2:15 - 2:45 | Approaching Openness as a (Critical) Praxis in Higher Education
+
+
+**Practice** 
+
+**Danielle Dilkes** | *University of Western Ontario*
+
+
+::: {.callout-note collapse="true"}
+## Abstract
+
+Open education “by its very nature open education [can] not be fully delimited or defined” (Noddings & Enright, 1983). Much of the contemporary discourse in higher educational institutions focuses on open access and the development of open educational resources (OERs); however, in open, openness can go beyond OERs. In this session, we will explore multiple meanings of openness, including open as access, open as affordability, open as autonomy, open as control, open as ambiguity, open as freedom, and other conceptualizations of openness. We will then focus on the potential for openness as a critical praxis that can empower students and transform knowledge practices and infrastructures both within and beyond educational institutions. Throughout the session, we will discuss specific open practices that could function as critical pedagogy and discuss potential barriers to achieving this in higher education; however, this session will largely be focused on provocation and discussion. The intent is not to (re)define the ever elusive term “open” in education, but instead to invite each participant to reimagine what it means to practice openness in their own contexts.
+:::
 
 ## 2:45 - 3:00 | Break
 
@@ -147,6 +186,8 @@ In an interactive web-based poster session through StoryMaps, we will showcase o
 :::
 
 ### Poster Session 19.2 | Transitions of Online Learning and Teaching
+<a href="https://uvic.zoom.us/j/86496190813?pwd=kEYdFD7WKPWH50WmOic996obPp3I8R.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 #### Exploring Playful Hybrid Teaching Practices in Higher Education: Insights from the Playful Hybrid Higher Education Project
 
@@ -167,13 +208,15 @@ As hybrid education emerges as the future of teaching, there is an urgent need f
 
 :::
 
-## 2:45 - 3:00 | Break
 
-## 3:00 - 3:45 | Unconference
 
 ## 3:45 - 4:00 | Break
 
 ## 4:00 - 4:30 | Social Guest 
+<!--
+<a href="https://uvic.zoom.us/j/87532405039?pwd=lIutLg1A2MpnPFuWnYpHpyEU25FA8d.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
+-->
 
 ## 4:30 - 5:00 | Discussion/Networking Pod Drop-In
 

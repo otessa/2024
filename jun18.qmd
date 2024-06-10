@@ -11,16 +11,12 @@ Online Only. All times Eastern Daylight Time.
 
 </iframe>
 
-<!--
-
-> Join us at the #OTESSA24 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 6:30 – 7:30 am (Eastern) at https://voiced.ca
-
--->
 
 ## 11:00 - 11:30 | Co-Located Shared Meet-Up | Drop-In
 
-
 ## 11:30 - 12:00 | Conference Welcome, Announcements, & Land Acknowledgement
+<a href="https://uvic.zoom.us/j/83927704159?pwd=7B0OEKVyDtYLEXvKjDdyLA9qVKbd54.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 ## 12:00 - 1:00 | Ethics in Design Showcase 15 | Addressing Inequities 
 
@@ -41,6 +37,8 @@ This critical design project will present an exploration of how the future of ed
 :::
 
 ### Showcase 15.2 | Addressing Inequities
+<a href="https://uvic.zoom.us/j/89750976210?pwd=dcbFlhFriqprOwFPwc55y5h4LH9Px5.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 #### Speculative Design and Building a Community of Transformation
 
@@ -58,6 +56,8 @@ We describe our use of speculative design, remixing, and futurisms in forming a 
 
 
 ### Showcase 15.3  | Transitions of Online Learning and Teaching
+<a href="https://uvic.zoom.us/j/88971747307?pwd=7P4q24rhMOa3H9EapmaLKdrNt8UVDP.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 ####  Artifacts from the Futures of Higher Education
 
@@ -74,26 +74,15 @@ The Research and Foresight team at eCampusOntario has created four artifacts, gr
 
 :::
 
-### Showcase 15.4 | Addressing Inequities
 
-#### Speculative Design in a Summer Camp: Tensions around Infantilization
-
-**Research**
-
-**Madalyn Wilson-Fetrow** | *University of New Mexico*
-
-::: {.callout-note collapse="true"}
-## Abstract
-Summer camps offer opportunities for youth to learn technical skills and apply them in service of solving wicked problems, like climate change and social/economic injustices. While many camps want youth to bring their experiences, they anticipate that campers will share happy or optimistic experiences, contributing to a sense of hopeful, if idealistic and unrealistic solutions to pressing issues. Those who administer and facilitate such learning experiences encounter youth who passionately want to tackle these problems, but who are not naïve regarding the harms surrounding climate disaster and racial injustice.
-
-In this session, we present examples of design challenges that—through participants’ perspectives and an ideation technique—became more speculative and critical. We supported our middle school participants to use the Wrong Theory Protocol to generate harmful and humiliating ideas prior to generating beneficial solutions. In doing so, some facilitators—who came from higher SES settings than the campers—became uncomfortable with the darkness of participants’ ideas, which included policy brutality, gun violence, etc., and stemmed from their everyday experiences of poverty. In this way, facilitators’ infantilization of participants is a tension present in many such designs, and one which we aim to trouble, using structural analysis of videos and artifacts.
-:::
 
 ## 1:00 - 1:15 | Break
 
 ## 1:15 - 2:45 | Concurrent Session 16
 
 ### Session 16.1 | Wildcard
+<a href="https://uvic.zoom.us/j/87497487205?pwd=VCbxwNB2RaZ4DhueTW6rfzs0MzrOQU.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 #### 1:15 - 2:15 | Implementing the “Code of Best Practices in Fair Dealing for Open Educational Resources (OER).”
  
@@ -137,9 +126,19 @@ Thus, this research stems from a pressing need to understand the core elements o
 
 ### Session 16.2 | Sustaining Positive Change
 
-#### 1:15 - 2:15  | Forthcoming
+#### 1:15 - 1:45 | Seeking a newer equity, diversity, and inclusion model for educators
 
-#### 2:15 - 2:45 | Using compassion as a way forward in the adoption of open education
+**Practice**
+
+**Lorayne Robertson, Jessica Trinier & Roland Van Oostveen** | *Ontario Tech University*
+
+::: {.callout-note collapse="true"}
+## Abstract
+The complexities of the human condition are evident in myriad ways, yet human differences are used globally to deny basic rights. How differences are perceived in education impacts student access and participation in school, and ultimately the outcomes of their school experience. Courses on equity, diversity and inclusion are one means to help future educators become aware that the benefits of schooling are not equally available to all students. This paper presents a reflective description of a model used for the co-construction of equity, diversity and inclusion courses that employs a community of practice model where student voice features prominently in both course design and course enactment. The model relies on establishing a shared spirit of equity humility for learners and educators, and recognition of the need for student safety in potentially uncomfortable conversations. Basic human rights is  an anchoring concept. While, in the past, the teaching of equity has tended to focus on distinct aspects of oppression in society as individual topics, the co-construction of equity model relies, instead, on building bridges of understanding that cross oppressions. The concept of building cross-equity understandings is helpful as a guide to dismantling oppression and guiding the rebuilding of safer, more inclusive spaces in schools.
+
+:::
+
+#### 1:45 - 2:15 | Using compassion as a way forward in the adoption of open education
 
 
 **Practice**
@@ -160,7 +159,11 @@ By recognizing the diverse needs of educators, departments within institutions c
 
 :::
 
+#### 2:15 - 2:45 | Forthcoming
+
 ### Session 16.3 | Transitions of Online Learning and Teaching
+<a href="https://uvic.zoom.us/j/86735509001?pwd=YR9bma8DmejCHOswwJiCfAMvcUuCae.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 #### 1:15 - 2:15 | A world of pure imagination: scaling learning design with a design system 
 
@@ -190,10 +193,14 @@ Open education (OE) is a solution to combat problems of affordability and access
 ## 2:45 - 3:00 | Break
 
 ## 3:00 - 3:45 | Unconference
+<a href="https://uvic.zoom.us/j/88023225103?pwd=42FIMQqzWdlWX2fbmMTEZEGPMRn1L1.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 ## 3:45 - 4:00 | Break
 
 ## 4:00 - 4:30 | Social Guest 
+<a href="https://uvic.zoom.us/j/83183349119?pwd=C0ayhsTlZ0KSNgg0iiCbpuy3KmOZdP.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 ## 4:30 - 5:00 | Discussion/Networking Pod Drop-In
 
@@ -215,35 +222,8 @@ Faced with the rapid adoption of generative artificial intelligence (GAI) in eve
 
 
 
-## 12:00 - 1:00 | Ethics in Design Showcase 19
-
-
-
-
-
-
-## 1:00 - 1:15 | Break
-
-
-
-
-
-
-
-
-
-
-### Session 20.3 | Transitions of Online Learning and Teaching
-
-
-
-
-
-## 2:45 - 3:00 | Break
-
-## 3:00 - 3:45 | Unconference
-
-## 3:45 - 4:00 | Break
 -->
+
+
 
 
