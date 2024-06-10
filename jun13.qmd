@@ -10,36 +10,73 @@ IN PERSON at Campus de Longueuil of Université de Sherbrooke
 <iframe src="https://free.timeanddate.com/clock/i98z8zgl/n165/fs18/tcccc/ftbi/tt0/tw1/tm1/ta1" frameborder="0" width="347" height="23">
 
 </iframe>
-<!--
- Join us at the #OTESSA24 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 6:30 – 7:30 am (Eastern) at https://voiced.ca
--->
 
-## 10:00 - 10:30 | Continental Breakfast Provided {.unnumbered}
 
-## 10:30 | National Digital Inclusion Round Table
+## 8:30 - 9:30 | Unconferencing Breakfast (Continental Breakfast Provided){.unnumbered}
+
+**La Source**
+
+Internet Radio Feeds Available: <a href="https://radio.uvic.ca/public/otessa" target="_blank" class="badge bg-primary"><b> Audio Stream 1</b></a> <a href="https://radio.uvic.ca/public/otessa_2" target="_blank" class="badge bg-primary"><b>Audio Stream 2</b></a> <a href="https://radio.uvic.ca/public/otessa_3" target="_blank" class="badge bg-primary"><b>Audio Stream 3</b></a> <a href="https://radio.uvic.ca/public/otessa_4" target="_blank" class="badge bg-primary"><b>Audio Stream 4</b></a>
+
+## 9:30 - 10:00 | OTESSA Future, Announcements, & Land Acknowledgement
+
+**La Source**
+
+<a href="https://radio.uvic.ca/public/otessa" target="_blank" class="badge bg-primary"><b>Audio Stream 1</b></a>
+
+
+
+## 10:00 - 2:00 | National Digital Inclusion Round Table
+
+::: {.callout-important}
+Hosted by Computers for Success Canada in Partnership with Government of Canada Ministry of Innovation, Science, and Economic Development & OTESSA.
+
+(Co-Located in Ottawa & Montreal)
+
+:::
 
 **La Jonction A+B (3630 and 3635)**
 
-- Welcome and Greetings (5 mins) | **ADM Edwards**
-- International Best Practices: Where Does Canada Stand? (7 mins) | **Antonio Roque**
-- Scientific Committee Study – Key Results (7 mins) | **Normand Roy (udeM)**
-- National Inclusion Network Survey – Key Findings (5 min) | **Emmanuella Michel (Analyst with CFSC)**
+<a href="https://radio.uvic.ca/public/otessa" target="_blank" class="badge bg-primary"><b>Audio Stream 1 unless otherwise noted.</b></a>
+
+### 10:00 | Nutrition Break
+
+Please move to La Jonction so we can begin promptly at 10:30 am.
+
+### 10:30 | Welcome and Greetings (5 mins) 
+
+**ADM Edwards** (Ministry of Innovation, Science, and Economic Development) via video from Ottawa.
+
+### 10:35 - 10:42 | International Best Practices: Where Does Canada Stand? (7 mins)
+
+**Antonio Roque** 
+
+### 10:45 - 10:52 | Scientific Committee Study – Key Results (7 mins) 
+
+**Normand Roy (udeM)**
+
+### 10:52 - 10:57 | National Inclusion Network Survey – Key Findings (5 min) 
+
+**Emmanuella Michel (Analyst with CFSC)**
 
 ## 10:58 | (NDIN) Transition
 
 ## 11:00 - 12:00 | (NDIN) Breakout Sessions
 
-- 3 parallel groups with 6 facilitators
+<a href="https://radio.uvic.ca/public/otessa_2" target="_blank" class="badge bg-primary"><b>Audio Stream 2</b></a> <a href="https://radio.uvic.ca/public/otessa_3" target="_blank" class="badge bg-primary"><b>Audio Stream 3</b></a> <a href="https://radio.uvic.ca/public/otessa_4" target="_blank" class="badge bg-primary"><b>Audio Stream 4</b></a>
+
+- 3 parallel groups with 6 facilitators (from CFSC Scientific Committee)
 - 3 key questions (Issues, Best Practices, and Solutions)
 - 3 key dimensions (Accessibility, Connectivity, and Digital Literacy)
 
-## 12:00 - 1:00 | (NDIN) Lunch and Networking
+## 12:00 - 1:00 | (NDIN) Lunch Provided and Networking
 
 ## 1:00 - 1:50 | (NDIN) Plenary Session
 
 - Reporting (3 min each) |  **6 facilitators**
-- Conclusion (7 mins) | **Michael Langelier & Valerie Irvine**
-- Next Steps (5 mins) | **Michael Langelier**
+- Conclusions, Key Concepts, and Convergences (7 mins) 
+  - **Michael Langelier (Computers for Success Canada, CFSC) & Valerie Irvine (OTESSA)**
+- Next Steps (5 mins) | **Michael Langelier (CFSC)**
 - *National Digital Inclusion Network* Launch
 
 ## 2:00 - 3:00 | Break and Networking
@@ -51,6 +88,9 @@ IN PERSON at Campus de Longueuil of Université de Sherbrooke
 
 **Room 3605 (Session A)**
 
+<a href="https://radio.uvic.ca/public/otessa_3" target="_blank" class="badge bg-primary"><b>Audio Stream 3</b></a>
+
+
 ####  An e-Book of One's Own: Empowering Student Learning Journeys 
 
 
@@ -60,7 +100,7 @@ IN PERSON at Campus de Longueuil of Université de Sherbrooke
 
 
 ::: {.callout-note collapse="true"}
-## Abstract
+##### Abstract
 Join our interactive session to explore the transformative initiative, "An e-Book of One's Own," designed to reshape the student experience in higher education. In a dynamic environment, participants will engage with Pressbooks, a powerful tool enabling students to craft personalized e-books showcasing their academic journey. The session emphasizes hands-on exploration, collaborative problem-solving, and interactive structures to work towards successful implementation. Reflective exercises simulate the student experience, fostering a deep understanding of the program's impact. This session is not a passive presentation; it's a collective effort to redefine educational experiences. Attendees will leave with practical insights, strategies for implementation, and a renewed vision for empowering students through digital innovation.
 
 :::
@@ -68,6 +108,9 @@ Join our interactive session to explore the transformative initiative, "An e-Boo
 ### Session 5.2 | Transitions of Online Learning and Teaching
 
 **Room 3665 (Session B)**
+
+<a href="https://radio.uvic.ca/public/otessa_4" target="_blank" class="badge bg-primary"><b>Audio Stream 4</b></a>
+
 
 ####  Sustaining Community: Insights from Collaborative Approaches in Blended Course Design
 
@@ -77,7 +120,7 @@ Join our interactive session to explore the transformative initiative, "An e-Boo
 **Brian Lorraine** | *Simon Fraser University*
 
 ::: {.callout-note collapse="true"}
-## Abstract
+##### Abstract
 
 This session presents findings from a comprehensive evaluation of a Faculty Learning Community (FLC) model implemented by the Centre for Educational Excellence (CEE) at Simon Fraser University (SFU), aimed at fostering blended learning practices. Building upon preliminary observations shared at OTESSA '23, the session delves into the nuanced challenges and insights gleaned from 5 semester-based cohorts over a 3-year period. Through focus group discussions and qualitative analysis of transcripts, the results uncover diverse perspectives on logistical, operational, and pedagogical considerations surrounding blended learning adoption. These insights are particularly timely given the growing trend towards blended/hybrid learning in Canadian post-secondary education, juxtaposed with faculty concerns over workload and burnout (Johnson, 2023). By exploring the implications of sustaining shared futures in higher education, this session invites participants to engage in a critical dialogue on navigating organizational practices centered on intentionality, community, and well-being.
 
@@ -98,7 +141,7 @@ This session presents findings from a comprehensive evaluation of a Faculty Lear
 
 
 ::: {.callout-note collapse="true"}
-## Abstract
+##### Abstract
 As open educational practices (OEP) and open educational resources (OER) grants, programs, and initiatives are created by organizations, there is a need to consider the diverse and nuanced Equity, Decolonization, Diversity, and Inclusion (EDDI) issues that will be surfaced. Funding institutions and agencies must consider how their support and promotion of OEP and OER may not support and may even alienate Indigenous members of their community. This presentation will provide an overview of the EDDI concerns faced in a major investment into an OER program in Canada that impacted multiple postsecondary institutions through 3 years of work. This presentation will share the development process of a geographically specific Commons license, the metrics on uptake since the launch of the license, and the impact on supporting digital-by-design virtual learning. This experience can inform the broader open education community by sharing lessons learned and best practices as a case study.  
 
 :::

@@ -16,10 +16,14 @@ IN PERSON at Campus de Longueuil of Université de Sherbrooke
 
 **La Source**
 
+Internet Radio Feeds Available: <a href="https://radio.uvic.ca/public/otessa" target="_blank" class="badge bg-primary"><b> Audio Stream 1</b></a> <a href="https://radio.uvic.ca/public/otessa_2" target="_blank" class="badge bg-primary"><b>Audio Stream 2</b></a> <a href="https://radio.uvic.ca/public/otessa_3" target="_blank" class="badge bg-primary"><b>Audio Stream 3</b></a> <a href="https://radio.uvic.ca/public/otessa_4" target="_blank" class="badge bg-primary"><b>Audio Stream 4</b></a>
 
 ## 9:30 - 9:45 | Conference Welcome, Announcements, & Land Acknowledgement
 
 **La Source**
+
+<a href="https://radio.uvic.ca/public/otessa" target="_blank" class="badge bg-primary"><b>Audio Stream 1</b></a>
+
 
 ## 9:45 - 10:00 | Break
 
@@ -29,11 +33,15 @@ IN PERSON at Campus de Longueuil of Université de Sherbrooke
 
 **Room 3605 (Session A)**
 
+<a href="https://radio.uvic.ca/public/otessa_3" target="_blank" class="badge bg-primary"><b>Audio Stream 3</b></a>
+
 
 
 ### Session 10.2 | Sustaining Positive Change
 
 **Room 3665 (Session B)**
+
+<a href="https://radio.uvic.ca/public/otessa_4" target="_blank" class="badge bg-primary"><b>Audio Stream 4</b></a>
 
 
 
@@ -44,7 +52,7 @@ IN PERSON at Campus de Longueuil of Université de Sherbrooke
 **Shehroze Saharan, Christopher Laursen & Sara Fulmer** | *University of Guelph*
 
 ::: {.callout-note collapse="true"}
-## Abstract
+##### Abstract
 
 The Accessibility Resource Index project addresses the challenge of decentralized accessibility resources within educational institutions. This open-access initiative aims to centralize accessibility resources and streamline access for educators to vital information on accessibility and accommodations. This project consists of two main components: (1) the Framework and the (2) Exemplary Model. Hosted on an Open Educational Resources (OER) Library, the Framework provides a clear guide for indexing accessibility resources, adaptable for any educational and professional needs. The Exemplary Model, developed using e-learning design software, serves as a practical example of the Accessibility Resource Index focusing on an Ontario post-secondary institution as a use-case. This not only demonstrates the index's application but also inspires other institutions to implement similar accessibility measures. By consolidating these resources into an OER, the project champions the democratization of knowledge and promotes more inclusive teaching practices. It represents a significant step towards reducing educational inequities and enhancing the accessibility of knowledge for faculty, instructors, and educational developers while simultaneously offering a scalable solution for broader educational challenges. 
 
@@ -56,6 +64,11 @@ The Accessibility Resource Index project addresses the challenge of decentralize
 
 ### Session 11.1 | Sustaining Positive Change
 
+**Room 3605 (Session A)**
+
+<a href="https://radio.uvic.ca/public/otessa_3" target="_blank" class="badge bg-primary"><b>Audio Stream 3</b></a>
+
+
 ####  11:30 - 12:00 | Triads to Complete Capstone: e-Portfolios
 
 **Practice**
@@ -63,7 +76,7 @@ The Accessibility Resource Index project addresses the challenge of decentralize
 **Christine Ho Younghusband** | *University of Northern British Columbia*
 
 ::: {.callout-note collapse="true"}
-## Abstract
+##### Abstract
 For one graduate program at a small research university in British Columbia, completing a digital portfolio is one option for capstone to demonstrate learning and conclude the program. The portfolio option includes developing a WordPress site, articulating one’s learning through the lens of a guided question, and a presentation of the portfolio to a committee. The student and committee members are led by a faculty supervisor. Completion of this capstone can be an isolating experience. In one term, two graduate students were left without a supervisor and needed to complete the program that term. One faculty member supervised three graduate students at one time. Over time, the three graduate students formed a triad, or small learning community, where they supported, peer-assessed, and collaborated in an ongoing way to complete their portfolios. The outcomes were personalized and unique to the learner. This presentation is a program evaluation that investigates the value and impact of triads during capstone and portfolio to invite back humanity into the capstone and portfolio experience.
 
 :::
@@ -82,6 +95,9 @@ Teaching and learning innovations focus on improving knowledge content, pedagogy
 ### Session 11.2 | Addressing Inequities
 
 **Room 3665 (Session B)**
+
+<a href="https://radio.uvic.ca/public/otessa_4" target="_blank" class="badge bg-primary"><b>Audio Stream 4</b></a>
+
 
 #### 11:30 - 12:00 | Online interactions and public conversations: Social learning results from a netnographic study of a conservative subreddit
 
@@ -104,7 +120,7 @@ Building upon research establishing a correlation between political misinformati
 
 
 ::: {.callout-note collapse="true"}
-## Abstract
+##### Abstract
 Complex trauma is both a product and a source of significant multidimensional inequality, including profound disruption to survivors’ educational trajectories. Nonetheless, little research has been conducted on trauma-informed educational practices for adult/postsecondary or open/online learners, and educational researchers have largely ignored the perspectives of survivors, contradicting the key principle of collaboration within a trauma-informed approach.
 
 This qualitative instrumental collective case study explored how adults with a history of complex trauma experience postsecondary open/online learning. Findings included participants’ struggles with executive functioning, challenges regulating emotion and dealing with a heightened perception of threat, re-experiencing trauma, negative beliefs about the self, and difficulties navigating relationships. These trauma impacts affected not only participants’ learning and course experience, but also their experience of applying, registering, and accessing financial aid. Nonetheless, participants are demonstrably skilled in managing impacts of their trauma and are driven to learn, placing the highest intrinsic value on education. Top priorities for implementation of trauma-informed educational practices identified by participants included establishing safety; trust and transparency; and empowerment, voice, and choice. Implications are discussed, including enhancing equity and inclusion for survivors of complex trauma and assisting open/online postsecondary institutions in meeting their unique needs through implementation of trauma-informed educational practices.
@@ -125,7 +141,7 @@ This qualitative instrumental collective case study explored how adults with a h
 **Andrea Krasznai** | *eCampus Ontario*
 
 ::: {.callout-note collapse="true"}
-### Abstract
+##### Abstract
 
 Le projet d'apprentissage expérientiel d'eCampusOntario, le Consortium d'apprentissage expérientiel francophone de l'Ontario (CAPFO), rassemble les institutions postsecondaires francophones et bilingues de l'Ontario pour combler une lacune : le manque d'opportunités d'apprentissage expérientiel dans les environnements francophones et bilingues. En utilisant la plateforme Riipen, nous offrons aux membres du CAPFO la possibilité d'augmenter le nombre d'opportunités disponibles pour leurs apprenants au-delà des frontières géographiques de la province.
 
@@ -135,6 +151,11 @@ Au cours de notre session, nous fournirons des informations sur ce qu'est le CAP
 :::
 
 ### Session 12.2 | Sustaining Positive Change
+
+**Room 3665 (Session B)**
+
+<a href="https://radio.uvic.ca/public/otessa_4" target="_blank" class="badge bg-primary"><b>Audio Stream 4</b></a>
+
 
 #### What I Wish Someone had Told Me: Insights on building sustainable impact with open education
 
@@ -148,7 +169,7 @@ Au cours de notre session, nous fournirons des informations sur ce qu'est le CAP
 
 
 ::: {.callout-note collapse="true"}
-## Abstract
+##### Abstract
 
 Veteran leaders of groundbreaking open education projects and programs reflect on key lessons they have learned (and continue to learn) about community-building, establishing sustainable support systems, and demonstrating impact with open education. This session brings together visionary minds representing different contexts of open education, ranging from system-level initiatives and multi-institution collaborations to institution-level capacity-building and program-level learning design transformation that empowers students using open pedagogy. This session will facilitate organic dialogue between panelists and members of the audience using a modified, participatory “fishbowl” format. Tapping into the rich experience represented at OTESSA convenings, a portion of the panel session will use the “open fishbowl” format that invites audience members to tag into the discussion to ask questions, share comments or insights.This participatory session will surface the creativity and collective wisdom that come from sharing what we glean in failures and successes on the open education journey.
 
@@ -177,7 +198,7 @@ Veteran leaders of groundbreaking open education projects and programs reflect o
 **Audrey Wubbenhorst** |  *Humber College*
 
 ::: {.callout-note collapse="true"}
-## Abstract
+##### Abstract
 Canadian post-secondary programs are based on Western worldviews, one of the many challenges the Truth and Reconciliation Commission (TRC) has outlined in its calls to action published in 2015. Academia has consistently marginalized Indigenous voices, despite their integral role in Canada's growth in several areas of life. The TRC has called on Canadians to incorporate Indigenous culture into mainstream teaching to fill this education gap. Indsights showcases the contributions of Indigenous-owned businesses to Canada’s economic development through qualitative methods. Applicable to various post-secondary programs, Indsights delivers revitalized learning modes through present-day case studies and in-depth interviews supplemented with teaching notes. These materials explore the accomplishments of Indigenous entrepreneurs and business owners from several sectors and the challenges and barriers they have faced. By displaying diverse representation in business, new possibilities in academic inclusion can unfold, demonstrating to Indigenous and non-Indigenous people the strength that evolves in the face of adversity. The findings of this research will empower educators and students to create academic and social impacts, benefiting not only Indigenous communities but also local businesses.
 
 :::

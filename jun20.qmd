@@ -27,7 +27,7 @@ Online Only. All times Eastern Daylight Time.
 
 
 ::: {.callout-note collapse="true"}
-## Abstract
+##### Abstract
 
 Have you started to accumulate old computing devices?   Why does the logic of computing involve repeated purchase and consumption of expensive "molded plastic epics" (Gabrys, 2011)?  Thinking back on calculation devices and this ethical problem of repeated consumption, the simple solar calculator stands out for its durability -- an energy harvesting strategy that doesn't use batteries, and it doesn't wear out.  Fifty year old solar powered calculators and other electronic devices which still work may be found. In this session, proposed for the Ethics in Design Conference Strand, I will review the history of energy harvesting information devices and their significant characteristics around sustainability, present response designs which engage various ethical questions around consumption, carbon production and degrowth, and discuss their usefulness as open designs and thought-artifacts in an iterative speculative design conversation around climate change.
 :::
@@ -43,7 +43,7 @@ Have you started to accumulate old computing devices?   Why does the logic of co
 **Verena Roberts & Michelle Harrison** | *University of Calgary*
 
 ::: {.callout-note collapse="true"}
-## Abstract
+##### Abstract
 Our conceptual paper examines open-learning approaches from a design perspective that takes a more systematic view which is not intended to promote the replication of open-learning design models. Instead, this paper is written to highlight how educators can find connections and possible integration to their own learning contexts to design with principles that could lead to more equitable, accessible and responsive learning environments for all learners. The Open Learning Design Continuum (OLDC) is an ever-changing and evolving collaborative learning design model that examines the potential principles of open learning design in multiple higher education contexts. Through a comparison of case studies of open curriculum designs at two Canadian HE institutions, we will examine ways that educators and learners have experienced a variety of approaches to open learning design, including the blurring of informal/formal spaces, the uses of open educational resources (OER) and open platforms to create more student-centered, equitable and accessible learning spaces.
 
 :::
@@ -61,7 +61,7 @@ Our conceptual paper examines open-learning approaches from a design perspective
 **Madalyn Wilson-Fetrow** | *University of New Mexico*
 
 ::: {.callout-note collapse="true"}
-## Abstract
+##### Abstract
 Summer camps offer opportunities for youth to learn technical skills and apply them in service of solving wicked problems, like climate change and social/economic injustices. While many camps want youth to bring their experiences, they anticipate that campers will share happy or optimistic experiences, contributing to a sense of hopeful, if idealistic and unrealistic solutions to pressing issues. Those who administer and facilitate such learning experiences encounter youth who passionately want to tackle these problems, but who are not naïve regarding the harms surrounding climate disaster and racial injustice.
 
 In this session, we present examples of design challenges that—through participants’ perspectives and an ideation technique—became more speculative and critical. We supported our middle school participants to use the Wrong Theory Protocol to generate harmful and humiliating ideas prior to generating beneficial solutions. In doing so, some facilitators—who came from higher SES settings than the campers—became uncomfortable with the darkness of participants’ ideas, which included policy brutality, gun violence, etc., and stemmed from their everyday experiences of poverty. In this way, facilitators’ infantilization of participants is a tension present in many such designs, and one which we aim to trouble, using structural analysis of videos and artifacts.
@@ -84,7 +84,7 @@ In this session, we present examples of design challenges that—through partici
 **Giulia Forsythe** | *Brock University*
 
 ::: {.callout-note collapse="true"}
-## Abstract
+##### Abstract
 
 The application of graphic visualization can be used by open educational practitioners, scholarly writers, and researchers to illustrate mental models, enhance sense making, and extend memory. Although the presenters will share their collaborative autoethnographic research as they examined theoretical frameworks that relate to their graphic visualization practice of sketchnoting, the primary focus of this workshop is on the practice of sketchnoting in academia. Definitions of sketchnoting, open educational practices, and hupomnemata are provided, and theoretical frameworks are shared. This is followed by brief descriptions of the presenters’ individual contexts and sketchnoting stories. In this way, the authors advocate for and explain why and how sketchnotes are part of their open educational practice. The presenters will actively engage participants in sketchnoting experiences and identify issues when sketchnoting in an academic writing practice. The authors identify issues and challenges, offer tips to begin sketchnoting, and outline how sketchnoting can expand the landscapes of academic writing. 
 :::
@@ -96,7 +96,7 @@ The application of graphic visualization can be used by open educational practit
 **Siri Gauthier** | *eCampusOntario*
 
 ::: {.callout-note collapse="true"}
-## Abstract
+##### Abstract
 This session discusses metadata’s role in accurately reflecting open education resources (OER) and its role in ensuring linguistically and culturally sensitive practices.
 
 A recent initiative by an Open Education Resources (OER) repository in Ontario to provide large scale translation of existing OER to serve its francophone linguistic minority community and the related metadata changes that this project necessitated will be the heart of the discussion. As part of an effort to ensure resources were created, and recognizing the often-limited capacity for authorship, various modes of translation were considered. As part of this effort, metadata had to reflect the need for potential users to opt-in to materials that were not sensitive to their unique linguistic needs and the realities of the lived experiences of either themselves or their learners.
@@ -117,7 +117,7 @@ Ethical considerations surrounding informed consent will be scrutinized, highlig
 **Helena Prins** | *BCcampus*
 
 ::: {.callout-note collapse="true"}
-## Abstract
+##### Abstract
 
 In the face of multifaceted challenges confronting higher education globally, strategic professional development becomes paramount. Economic, social, technological, demographic, environmental, and political dynamics necessitate a resilient sector capable of delivering quality education. The profound impact of the global pandemic on the Canadian post-secondary system has accentuated issues like the digital divide and online learning readiness. Recent research underscores that overwhelm, burnout, and negative faculty perceptions about online learning persist; faculty and students desire more technology supported learning, but does faculty have the skills and "know how" to teach in digital environments?
 
@@ -149,7 +149,7 @@ School closures due to the COVID-19 pandemic resulted in a shift to emergency re
 **Jen Vanek, Jennifer Maddrell & Jeff Goumas** |  *World Education & Education Consultants*
 
 ::: {.callout-note collapse="true"}
-## Abstract
+##### Abstract
 This presentation addresses the role of Open Education Resources (OER) in inclusively and sustainably supporting adult foundational skills education, and describes a unique professional development (PD) model called “maker spaces”, which boost the capacity of educators to employ OER. 
 
 Access to OER has potential to mitigate the inequitable access to quality instruction in an underfunded public adult education system in the U.S. Adult educators do use OER; however, those available are often designed for other contexts and learners (Newman et al., 2015). Compounding this difficulty, adult education teachers lack expertise, time to develop resources, and access to training (authors, 2023). The “maker space” PD responds to this by working with adult educators to expand their knowledge and skills in discovering, adapting, and producing high-quality and relevant and reusable OER.
@@ -165,7 +165,7 @@ Attendees learn about how this research driven service-learning PD has led to co
 **Keith Cheng** | *University of Toronto*
 
 ::: {.callout-note collapse="true"}
-## Abstract
+##### Abstract
 “Digital Humanities” (DH) has been a rapidly growing field within academia, used to broadly describe scholarship situated in the intersection of technology and the humanities. While the field was originally conceptualized with radical intentions to move toward “the democratization of culture and scholarship” (Schnapp and Presner, 2009), it has become increasingly institutionalized and largely detached from these radical origins. In a time where there is there is a growing digital divide (Darko et al., 2023) and heightened concerns around the harmful impacts of new technologies (Benjamin, 2019), imagining new futures for the field of digital humanities is crucial. Putting digital humanities in conversation with scholarship from the fields of human and community development, the author argues that digital humanities is a radical site of possibility where agency and solidarity can be developed (Bhattacharyya, 2004), understandings of the self and one’s position within the larger world can be negotiated (Collins, 2006; Freire, 1968), and power can be decentralized from the university.
 
 The author employs Nancy Fraser’s theory of justice to develop a framework for equitable digital humanities work, discussing tangible strategies and potential barriers to its application through an autoethnographic account of their experiences developing digital humanities programming for underrepresented students at a Historically Black College/University (HBCU). The paper will discuss both the process and product of digital humanities, exploring how the process of doing digital humanities can have transformative impact for those involved and how new technologies can help facilitate wider and more diverse public engagements with digital humanities work.
@@ -200,7 +200,7 @@ The author employs Nancy Fraser’s theory of justice to develop a framework for
 **Dana Al Zoubi, Noah Glaser & Evrim Baran** | *Mississippi State University*
 
 ::: {.callout-note collapse="true"}
-## Abstract
+##### Abstract
 The rise of Learning Analytics (LA) applications, particularly Learning Analytics Dashboards (LADs), offers immense potential to improve teaching and learning outcomes. However, challenges persist in the effective design, ethical use, and privacy considerations associated with LADs. This paper explores the growing interest in LADs and emphasizes the need for a human-centered approach to address design and structural challenges. The proposed human-centered design (HCD) approach advocates for prioritizing end-user's perspectives and needs throughout the design process, incorporating transparency, inclusion, and accountability principles. This paper delves into the implications of adopting HCD principles, such as personalized learning experiences, inclusive representation, improved learner engagement, and ethical use of data. By involving stakeholders, especially learners, in the design process, LADs can be tailored to diverse needs and preferences, promoting engagement and informed decision-making. The discussion extends to transparency, inclusion, and accountability as key principles for addressing ethical and privacy concerns associated with LADs. Future research directions are proposed to further explore the effective application of human-centered approaches in LAD design, aiming to continually enhance their role in promoting positive learning outcomes in educational settings.
 
 :::
@@ -215,7 +215,7 @@ The rise of Learning Analytics (LA) applications, particularly Learning Analytic
 **Nazlee Sharmin** | *University of Alberta*
 
 ::: {.callout-note collapse="true"}
-## Abstract
+##### Abstract
 Traditional flashcards are one of the most popular and optimized ways to learn factual knowledge and improve memory performance. However, this method is helpful only for motivated students because the amount and timing of flashcard use are critical for success. We have used augmented reality (AR) to develop an app called ‘Dental AR’ that allows students to use their smartphones as flashcards. Using this app, students can learn and self-test their knowledge at a time and place that is convenient for them. We used Unity3D with Vuforia to develop Dental AR. Oral histology glass slides were scanned and converted to digital images to generate target images. Annotated versions of the slides were used as output for the corresponding target images. To understand user experiences and satisfaction with Dental AR, first-year dentistry students were invited to complete an online survey. The survey results indicated an overall satisfaction with Dental AR and willingness to use similar applications in other subjects. 
 :::
 
@@ -231,7 +231,7 @@ Traditional flashcards are one of the most popular and optimized ways to learn f
 **Beth Giebus-Chavez** | *University of New Mexico*
 
 ::: {.callout-note collapse="true"}
-## Abstract
+##### Abstract
 Sustainable responses to overlapping social, economic, and environmental crises require a recognition of the interconnected and systemic nature of planetary concerns. Yet traditional instructional design frameworks offer a linear, hero-centered narrative that undermines the collective changes needed to address complex issues. In this conceptual paper, I propose an alternative approach to learning design that integrates Le Guin's Carrier bag theory of fiction (1989/2019) and affirmative ethics (Braidotti, 2015)  By recognizing the entanglements of human and non-human elements within the online environment, the ‘carrier bag’ decenters the traditional notion of a solitary hero—whether teacher, learner or designer—in navigating a predetermined path. Instead, the focus shifts towards a dynamic and inclusive learning assemblage that is attuned to the relational capacities of its members. Key to such a move is the acknowledgment of the vital, participatory role of digital objects. I outline five provocations—care, complexity, complicity, collaboration, and care—that can be applied to the design of online courses to deepen awareness of the relationship between digital objects and ecological responsiveness. Grounded in material-discursive practices and posthuman ethics, this study contributes to ongoing discussions of innovative design paradigms that better align with the complexities of contemporary education.
 
 :::
