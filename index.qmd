@@ -34,3 +34,11 @@ All OTESSA Registrants can also attend conference sessions offered by the [Canad
 ## University of Sherbrooke at Longueuil
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d89464.62417155906!2d-73.6583459790891!3d45.51471838874047!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc91b136c172609%3A0xc576f9c61ec8d407!2sUniversit%C3%A9%20de%20Sherbrooke%20%E2%80%93%20Campus%20de%20Longueuil!5e0!3m2!1sen!2sca!4v1717734535598!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+### Audio Feeds Available
+
+- [Audio Stream 1](https://radio.uvic.ca/public/otessa)
+- [Audio Stream 2](https://radio.uvic.ca/public/otessa_2)
+- [Audio Stream 3](https://radio.uvic.ca/public/otessa_3)
+- [Audio Stream 4](https://radio.uvic.ca/public/otessa_4)
+
