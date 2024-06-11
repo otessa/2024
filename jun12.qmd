@@ -118,18 +118,7 @@ Contemporary technology trends in education are profoundly reshaping the design 
 
 :::
 
-#### 12:00 - 12:30 | Personalized learning path in a course on digital technology for secondary education programs
 
-**Practice**
-
-**Géraldine Heilporn, Alexandre Lepage, Audrey Raynault & Julie Chamberland** | *Université Laval*
-
-::: {.callout-note collapse="true"}
-##### Abstract
-
-This communication presents the new design of a course on digital technology for teaching and learning, offered to students enrolled in in secondary education programs at Laval University (Quebec), based on the concept of adaptive learning. Following a diagnostic assessment questionnaire of their digital competency at the beginning of the semester, students are automatically assigned to three thematic activities aimed to develop their digital competency for transfer to secondary education. After working on a thematic activity for one week, students return to the classroom for peer-to-peer teaching and learning on these thematic activities, in a blended course modality alternating asynchronous (thematic activities) and synchronous classes (peer-to-peer teaching and learning). Temporary thematic support communities as well as disciplinary learning communities are set to encourage peer collaboration and support throughout the semester. At given timepoints during the semester, students also have to assess their peer collaboration and give them feedback a peer evaluation mechanism.
-
-:::
 
 
 ### Session 2.2 | Sustaining Positive Change
@@ -166,16 +155,16 @@ Participants will be invited to share their experiences and discuss the potentia
 
 <a href="https://radio.uvic.ca/public/otessa_3" target="_blank" class="badge bg-primary"><b>Audio Stream 3</b></a>
 
-
-####  1:30 - 2:00 | Planning, living, and adding to our plates: K-3 educators' experiences of curricula in Virtual Learning Environments (VLE)
+#### 1:30 - 2:00 | Personalized learning path in a course on digital technology for secondary education programs
 
 **Practice**
 
-**Melissa Bishop** | *University Prince Edward Island*
+**Géraldine Heilporn, Alexandre Lepage, Audrey Raynault & Julie Chamberland** | *Université Laval*
 
 ::: {.callout-note collapse="true"}
 ##### Abstract
-Virtual Learning Environments (VLE) have interested scholars since the late 20th century, with much of the research focusing on secondary and post-secondary instructors and learners (Brown, 2010; Dabbagh, 2007; Fuchs, 2014; Plump & LaRosa, 2017; Proserpio & Gioia, 2007). With the onset of VLEs in elementary education due to the COVID-19 pandemic and the continuation of synchronous virtual learning thereafter, VLEs have become commonplace in K-3 contexts across Ontario. Yet, as we contend with the ubiquitous nature of technology in early elementary, a paucity of literature exists regarding teachers’ and Early Childhood Educators' (ECE) experiences of planned and lived curricula (Muldong et al., 2021; Aperribai et al., 2020; Ferdig et al., 2020) in VLEs. Starting from standpoint epistemologies (Au, 2012; Harding, 1991; Haraway, 2003), reflecting on five narrative interviews, and employing a narrative analysis of field texts (Clandinin, 2006; Clandinin & Connelly, 1988, 1996, 2000), we unearthed six narrative threads: time, parent communication, relationship building, classroom community, engagement and teacher presence, and technological challenges. These six threads suggested how ECEs and teachers navigated the entanglements of planned and lived curricular experiences in VLEs. Further, the five threads exposed critical elements to be considered in future VLE policy and curricular reform in the K-3 context.
+
+This communication presents the new design of a course on digital technology for teaching and learning, offered to students enrolled in in secondary education programs at Laval University (Quebec), based on the concept of adaptive learning. Following a diagnostic assessment questionnaire of their digital competency at the beginning of the semester, students are automatically assigned to three thematic activities aimed to develop their digital competency for transfer to secondary education. After working on a thematic activity for one week, students return to the classroom for peer-to-peer teaching and learning on these thematic activities, in a blended course modality alternating asynchronous (thematic activities) and synchronous classes (peer-to-peer teaching and learning). Temporary thematic support communities as well as disciplinary learning communities are set to encourage peer collaboration and support throughout the semester. At given timepoints during the semester, students also have to assess their peer collaboration and give them feedback a peer evaluation mechanism.
 
 :::
 

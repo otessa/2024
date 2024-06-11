@@ -22,17 +22,19 @@ Online Only. All times Eastern Daylight Time.
 
 ### Showcase 15.1  | Sustaining Positive Change
 
-#### Design of Learning Experiences for Cyranoids & Echoborgs 
 
-**Amanda Tkaczyk** | *Independent Scholar*
+####  A framework and model for engagement in open, online spaces
+
+
+**Michelle Harrison** | *Thompson Rivers University*
+
+**Michael Paskevicius** | *University of Victoria*
+
 
 ::: {.callout-note collapse="true"}
 ##### Abstract
 
-Cyranoids are individuals whose communication is determined by another person in real time (Milgram S., 1992). Echoborgs, a subset of Cyranoids, are individuals whose communication is determined by artificial intelligent agents (Corti, K., & Gillespie, A., 2015). With the widespread adoption of generative artificial intelligence tools that will enable the next generation of Echoborgs with highly sophisticated tools to mediate their human-to-human interactions, we are thrilled to explore the design of educational experiences for Cyranoid and Echborg learners. This project will include instructional materials and tools to support the learning and professional development of Echoborgs in your classroom, community, and workplaces. Online attendees can review materials and interact with chatbots. In-person attendees will have the opportunity to engage with a kiosk of learning materials and practice their interactions with a live Echborg learner.
-
-This critical design project will present an exploration of how the future of education might adapt in response to AI-augmented & AI-dependent learners. We will explore themes of technology adoption, responsibility, ethics, equity, and care in this speculative educational design project.
-
+This design case provides an analysis of the creation of an innovative open educational practices (OEP) project “Rethink Learning Design”, designed to explore and implement critical approaches to learning and instructional design. We recognized that if we want to embrace the power of OEP to change teaching and learning practice we need to enable spaces that honor multiple voices and perspectives, co-create knowledge and challenge traditional roles and hierarchies supported in open pedagogical approaches. Two key goals guided our project: the development of a reader/resource based on open pedagogy principles, emphasizing inclusivity and participation, and the integration of a reflective practice framework to deepen engagement and bring about a shift in educational practices. In this session and design case we will outline our iterative design process, ethical considerations, and theoretical foundations, and student use and feedback, with the aim of sharing insights and templates for practitioners in diverse educational contexts. We will consider how we can approach design as a theory of action and consider ways to promote learner ownership, open scholarship, anonymity, and options for permanence through our learning design tool.
 
 :::
 

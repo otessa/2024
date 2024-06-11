@@ -116,6 +116,10 @@ By examining the impact of flipped classrooms on paralegal education, this resea
 
 **Don Eldridge** | *eCampus Ontario*
 
+**Mary Gu** | *eCampus Ontario*
+
+**Siri Gauthier** | *eCampus Ontario*
+
 ::: {.callout-note collapse="true"}
 ##### Abstract
 A key aspect of supporting OER adoption remains OER discoverability, which is commonly reported as a barrier to OER adoption as part of finding relevant resources and the time required to adopt (Belikov, & Bodily, 2016; Lantrip & Ray, 2021). This open data initiative includes the development of a metadata schema with crosswalks, technical configurations using Open Archives Initiative Protocol for Metadata Harvesting, and a collaborative pilot project to test and implement the technical solution. At the time of this proposal submission, the initiative is federating out the library metadata records to 24 post-secondary institutions. Lessons learned include working with consortiums and shared technology services, evaluating the value of federation for a wide range of post-secondary institutions, and the impact for future collaborations.
@@ -123,11 +127,24 @@ A key aspect of supporting OER adoption remains OER discoverability, which is co
 :::
 
 
-#### 2:15 - 2:45 | Session 22.3 | Research | Forthcoming
+### Session 22.3 |Addressing Inequities
 
-### Session 26.3 | Addressing Inequities
+####  1:15 - 1:45 | Planning, living, and adding to our plates: K-3 educators' experiences of curricula in Virtual Learning Environments (VLE)
 
-#### 2:15 - 2:45 | Incorporating Open Educational Technology for Designing Diversity, Equity, and Inclusion Learning Experiences 
+**Practice**
+
+**Melissa Bishop** | *University Prince Edward Island*
+
+::: {.callout-note collapse="true"}
+##### Abstract
+Virtual Learning Environments (VLE) have interested scholars since the late 20th century, with much of the research focusing on secondary and post-secondary instructors and learners (Brown, 2010; Dabbagh, 2007; Fuchs, 2014; Plump & LaRosa, 2017; Proserpio & Gioia, 2007). With the onset of VLEs in elementary education due to the COVID-19 pandemic and the continuation of synchronous virtual learning thereafter, VLEs have become commonplace in K-3 contexts across Ontario. Yet, as we contend with the ubiquitous nature of technology in early elementary, a paucity of literature exists regarding teachers’ and Early Childhood Educators' (ECE) experiences of planned and lived curricula (Muldong et al., 2021; Aperribai et al., 2020; Ferdig et al., 2020) in VLEs. Starting from standpoint epistemologies (Au, 2012; Harding, 1991; Haraway, 2003), reflecting on five narrative interviews, and employing a narrative analysis of field texts (Clandinin, 2006; Clandinin & Connelly, 1988, 1996, 2000), we unearthed six narrative threads: time, parent communication, relationship building, classroom community, engagement and teacher presence, and technological challenges. These six threads suggested how ECEs and teachers navigated the entanglements of planned and lived curricular experiences in VLEs. Further, the five threads exposed critical elements to be considered in future VLE policy and curricular reform in the K-3 context.
+
+:::
+
+
+
+
+#### 1:45 - 2:15 | Incorporating Open Educational Technology for Designing Diversity, Equity, and Inclusion Learning Experiences 
 
 **Practice**
 
