@@ -14,19 +14,19 @@ Online Only. All times Eastern Daylight Time.
 
 ## 11:00 - 11:30 | Co-Located Shared Meet-Up | Drop-In
 
-<a href="https://uvic.zoom.us/j/85851693272?pwd=i3BoOIaTeIsHMrhDaFDYHmpfGMUAnl.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+<!--<a href="https://uvic.zoom.us/j/85851693272?pwd=i3BoOIaTeIsHMrhDaFDYHmpfGMUAnl.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>-->
 
 
 
 ## 11:30 - 12:00 | Conference Welcome, Announcements, & Land Acknowledgement
-<a href="https://uvic.zoom.us/j/81199937374?pwd=6k5bYLtWaEuroDIjZosPexbBmhKJgM.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+<!--<a href="https://uvic.zoom.us/j/81199937374?pwd=6k5bYLtWaEuroDIjZosPexbBmhKJgM.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>-->
 
 
 ## 12:00 - 1:00 | Parallel Session 17 | Invited Speakers
 
 ### Invited Speaker Session 17.1 | Forthcoming
 <!--
-<a href="https://uvic.zoom.us/j/82399824423?pwd=0ASQrtippQqIN7b3rWPmR89tgfwpRl.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+<!--<a href="https://uvic.zoom.us/j/82399824423?pwd=0ASQrtippQqIN7b3rWPmR89tgfwpRl.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>-->
 
 -->
 
@@ -34,7 +34,7 @@ Online Only. All times Eastern Daylight Time.
 
 ### Invited Speaker Session 17.2 | Forthcoming
 <!--
-<a href="https://uvic.zoom.us/j/88336683214?pwd=GmweELTX5kwbPgcG7JV1qL3ViSbkrm.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+<!--<a href="https://uvic.zoom.us/j/88336683214?pwd=GmweELTX5kwbPgcG7JV1qL3ViSbkrm.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>-->
 
 -->
 
@@ -45,7 +45,7 @@ Online Only. All times Eastern Daylight Time.
 22.5 Minutes per Presentation
 
 ### Session 18.1  | Transitions of Online Learning and Teaching
-<a href="https://uvic.zoom.us/j/83030190183?pwd=LmX0TLq8dTu9OF1SHT8xuvmoaBKMvW.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+<!--<a href="https://uvic.zoom.us/j/83030190183?pwd=LmX0TLq8dTu9OF1SHT8xuvmoaBKMvW.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>-->
 
 
 #### 1:15 - 1:40 | Reinforcing equity and justice in learning: Using digital co-created rubrics and audio feedback as/for assessment
@@ -100,7 +100,7 @@ We will share findings from our qualitative case-study research that examined th
 
 ### Session 18.2 | Wildcard
 
-<a href="https://uvic.zoom.us/j/82914387379?pwd=wdZF3ODHWrLE5MzZ3Yvatv4gUbffCK.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+<!--<a href="https://uvic.zoom.us/j/82914387379?pwd=wdZF3ODHWrLE5MzZ3Yvatv4gUbffCK.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>-->
 
 
 #### 1:15 - 2:15 | Design Principles for K-12 Online Learning: A Comparative Review of Standards and Theoretical Models 
@@ -133,7 +133,7 @@ Podcasting is an equitable vehicle for knowledge translation, but does it “cou
 
 ### Session 18.3 | Addressing Inequities & Sustaining Positive Change
 
-<a href="https://uvic.zoom.us/j/85361080321?pwd=HMAKHlOPDThCNWQPZ7rl1kBnvpPbIB.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+<!--<a href="https://uvic.zoom.us/j/85361080321?pwd=HMAKHlOPDThCNWQPZ7rl1kBnvpPbIB.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>-->
 
 
 
@@ -172,7 +172,7 @@ Open education “by its very nature open education [can] not be fully delimited
 
 ### Poster Session 19.1 | Wildcard
 
-<a href="https://uvic.zoom.us/j/89339615473?pwd=Jkwxn8QUoOrbuOdx9ABjEDUSbQj2YE.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+<!--<a href="https://uvic.zoom.us/j/89339615473?pwd=Jkwxn8QUoOrbuOdx9ABjEDUSbQj2YE.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>-->
 
 
 #### Milton @ Western: An Experiment in Digital Curation with Collection Builder
@@ -193,7 +193,7 @@ In an interactive web-based poster session through StoryMaps, we will showcase o
 :::
 
 ### Poster Session 19.2 | Transitions of Online Learning and Teaching
-<a href="https://uvic.zoom.us/j/86496190813?pwd=kEYdFD7WKPWH50WmOic996obPp3I8R.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+<!--<a href="https://uvic.zoom.us/j/86496190813?pwd=kEYdFD7WKPWH50WmOic996obPp3I8R.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>-->
 
 
 #### Exploring Playful Hybrid Teaching Practices in Higher Education: Insights from the Playful Hybrid Higher Education Project
@@ -220,12 +220,12 @@ As hybrid education emerges as the future of teaching, there is an urgent need f
 ## 3:45 - 4:00 | Break
 
 ## 4:00 - 4:30 | Social Guest 
-<!--
-<a href="https://uvic.zoom.us/j/87532405039?pwd=lIutLg1A2MpnPFuWnYpHpyEU25FA8d.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
--->
+<!--<a href="https://uvic.zoom.us/j/87532405039?pwd=lIutLg1A2MpnPFuWnYpHpyEU25FA8d.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>-->
+
+
 
 ## 4:30 - 5:00 | Discussion/Networking Pod Drop-In
-<a href="https://uvic.zoom.us/j/84341354720?pwd=pzwsfWkLSGjEHNgaPHrHxe6s4emn1b.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+<!--<a href="https://uvic.zoom.us/j/84341354720?pwd=pzwsfWkLSGjEHNgaPHrHxe6s4emn1b.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>-->
 
 
