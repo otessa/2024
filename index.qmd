@@ -42,3 +42,9 @@ All OTESSA Registrants can also attend conference sessions offered by the [Canad
 - [Audio Stream 3](https://radio.uvic.ca/public/otessa_3)
 - [Audio Stream 4](https://radio.uvic.ca/public/otessa_4)
 
+### WiFi
+
+- In La Source:
+  - Choose the network 'CentreAffaires'
+  - username: car_caff0119
+
