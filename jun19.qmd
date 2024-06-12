@@ -14,6 +14,9 @@ Online Only. All times Eastern Daylight Time.
 
 ## 11:00 - 11:30 | Co-Located Shared Meet-Up | Drop-In
 
+<a href="https://uvic.zoom.us/j/85851693272?pwd=i3BoOIaTeIsHMrhDaFDYHmpfGMUAnl.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
+
 
 ## 11:30 - 12:00 | Conference Welcome, Announcements, & Land Acknowledgement
 <a href="https://uvic.zoom.us/j/81199937374?pwd=6k5bYLtWaEuroDIjZosPexbBmhKJgM.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
@@ -39,11 +42,13 @@ Online Only. All times Eastern Daylight Time.
 
 ## 1:15 - 2:45 | Concurrent Session 18
 
+22.5 Minutes per Presentation
+
 ### Session 18.1  | Transitions of Online Learning and Teaching
 <a href="https://uvic.zoom.us/j/83030190183?pwd=LmX0TLq8dTu9OF1SHT8xuvmoaBKMvW.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
 
-#### 1:15 - 1:45 | Reinforcing equity and justice in learning: Using digital co-created rubrics and audio feedback as/for assessment
+#### 1:15 - 1:40 | Reinforcing equity and justice in learning: Using digital co-created rubrics and audio feedback as/for assessment
 
 **Research**
 
@@ -55,7 +60,7 @@ Online Only. All times Eastern Daylight Time.
 The paper explores a study of a foreign learning experience during the pandemic that was unique due to the co-creative engagement with students. This study examines the effects of using technologically novel feedback strategies and assessment practices to analyze student performance within the frame of the justice theory. Using targeted hybrid means of assessment to provide leveled methods which include auditory and co-created rubric conversations to support bilingual learners in a diverse environment. Qualitatively, using a questionnaire to collect student feedback on co-created decoding of rubrics with thematic analysis and quantitatively using a paired sample t-test by comparing scores for the first draft and the final draft provided fulsome results. Findings indicate how these uses of technology can promote learner autonomy by allowing students to take agency of their own learning and increase students’ performance. The findings reflect the need for using technological avenues to assist bilingual learners in the development of their language skills through extended feedback. 
 :::
 
-#### 1:45- 2:15 The Importance of Showing Up (Virtually) : A Duoethnographic Exploration of an Online Doctoral Writing Community of Practice
+#### 1:40- 2:05 The Importance of Showing Up (Virtually) : A Duoethnographic Exploration of an Online Doctoral Writing Community of Practice
 
 **Research**
 
@@ -66,7 +71,7 @@ The paper explores a study of a foreign learning experience during the pandemic 
 Although online discourses about dissertation writing (i.e., you should be writing memes) offer students levity, they function in stark contrast to how dissertation writing is treated in real life.  Canadian education scholars with PhDs have examined the student-supervisor relationship (McAlpine & Weis, 2000), collaborative writing spaces (Eaton & Dombroski, 2022; Ens et al., 2011), and the overall difficulties of the dissertation process (Bayley et al., 2012; Walter & Stouk, 2020), but we have yet to locate literature on the perspectives of Canadian education PhD students who have generated online communities of practice to engage in their dissertation writing. To obtain better understanding of our personal relationships to writing and virtual communities of practice, we established an online writing group during the summer of 2023 where we wrote our respective candidacy proposal and dissertation chapters while also reflecting on and responding to prompts about the process of writing. Using a duoethnographic approach (e.g., Norris et al., 2012; Sawyer & Norris, 2004), we analyzed 76 reflections written over a 13-week period. This research concludes that if PhD students feel un(der)supported by institutional writing communities, or if said communities are not available, constructing their own community will be beneficial to their writing goals.
 :::
 
-#### 2:15- 2:45 | The Power of Role Play and Imagination in Online Learning: Exploring Low-Tech Simulation in an HR Capstone
+#### 2:05- 2:25 | The Power of Role Play and Imagination in Online Learning: Exploring Low-Tech Simulation in an HR Capstone
 
 **Practice**
 
@@ -94,6 +99,9 @@ We will share findings from our qualitative case-study research that examined th
 :::
 
 ### Session 18.2 | Wildcard
+
+<a href="https://uvic.zoom.us/j/82914387379?pwd=wdZF3ODHWrLE5MzZ3Yvatv4gUbffCK.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 #### 1:15 - 2:15 | Design Principles for K-12 Online Learning: A Comparative Review of Standards and Theoretical Models 
 
@@ -131,8 +139,6 @@ Podcasting is an equitable vehicle for knowledge translation, but does it “cou
 
 #### 1:15 - 2:15 | The Open Book Collective and Thoth: Bringing publishers, libraries and service providers together to establish a shared sustainable open ecosystem for books 
 
-
-
 **Practice**
 
 **Judith Fathallah** | *Lancaster University*
@@ -150,11 +156,9 @@ This panel will facilitate discussion between representatives from the Open Book
 
 #### 2:15 - 2:45 | Approaching Openness as a (Critical) Praxis in Higher Education
 
-
 **Practice** 
 
 **Danielle Dilkes** | *University of Western Ontario*
-
 
 ::: {.callout-note collapse="true"}
 ##### Abstract
@@ -167,6 +171,9 @@ Open education “by its very nature open education [can] not be fully delimited
 ## 3:00 - 3:45 | Poster Session 19
 
 ### Poster Session 19.1 | Wildcard
+
+<a href="https://uvic.zoom.us/j/89339615473?pwd=Jkwxn8QUoOrbuOdx9ABjEDUSbQj2YE.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 #### Milton @ Western: An Experiment in Digital Curation with Collection Builder
 
@@ -208,7 +215,7 @@ As hybrid education emerges as the future of teaching, there is an urgent need f
 
 :::
 
-
+### Poster Session 19.3 | Forthcoming
 
 ## 3:45 - 4:00 | Break
 
@@ -219,4 +226,6 @@ As hybrid education emerges as the future of teaching, there is an urgent need f
 -->
 
 ## 4:30 - 5:00 | Discussion/Networking Pod Drop-In
+<a href="https://uvic.zoom.us/j/84341354720?pwd=pzwsfWkLSGjEHNgaPHrHxe6s4emn1b.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 

@@ -38,7 +38,7 @@ Internet Radio Feeds Available: <a href="https://radio.uvic.ca/public/otessa" ta
 <a href="https://radio.uvic.ca/public/otessa_3" target="_blank" class="badge bg-primary"><b>Audio Stream 3</b></a>
 
 
-#### 9:30 - 10:30 | How do students make sense of a Learning Analytic Dashboard? Exploring learners’ perceptions and plans
+#### 10:00 - 10:30 | How do students make sense of a Learning Analytic Dashboard? Exploring learners’ perceptions and plans
 
 **Research**
 
@@ -52,6 +52,8 @@ Student-facing learning analytic dashboards (LADs) claim to help students manage
 
  
 #### 10:30 - 11:00 | Tech-based teaching practices and student engagement from the perspective of self-determination theory
+
+**Research**
 
 **Géraldine Heilporn, Mourad Majdoub & Fatme Diab** |  *Université Laval* 
 
@@ -70,6 +72,8 @@ Teachers can enhance inclusion and provide personalized learning experiences for
 
 #### 10:00 - 10:20 | Considering a Reboot: Using Design-Thinking Strategies to Maintain a Dynamic, Industry-Relevant, Game Design Curriculum
 
+**Research**
+
 **Christopher Marsh** | *Bradley University*
 
 **Bruce Parsons**  | *Radford University*
@@ -84,6 +88,8 @@ The gaming industry, expected to exceed $300 billion in global revenue by 2025, 
 
 
 #### 10:20 - 11:00 | Walk the Walk: Fostering Equitable Practices in Organizational Sustainability
+
+**Practice**
 
 **Apurva Ashok & Kaitlin Schilling** | *The Rebus Foundation*
 
@@ -104,10 +110,6 @@ While the principles we embrace are not groundbreaking, they are critical to the
 
 ## 11:00 - 11:30 | Break
 
-  
-<!--
-## 11:30-12:30 | Unconference
--->
 
 ## 11:30 - 12:30 | Concurrent Session 7
 
@@ -118,7 +120,7 @@ While the principles we embrace are not groundbreaking, they are critical to the
 <a href="https://radio.uvic.ca/public/otessa_3" target="_blank" class="badge bg-primary"><b>Audio Stream 3</b></a>
 
 
-#### 10:00 - 11:00 | Is AI for or Against Human Success? An Exploratory Engagement by Female Scholars
+#### 11:30 - 12:30 | Is AI for or Against Human Success? An Exploratory Engagement by Female Scholars
 
 **Practice**
 
@@ -147,16 +149,16 @@ In this practice-focused session, an educator from Kenya and two educators from 
 
 **Practice**
 
-**Danielle Collins, Marie Bartlett, Brenna Clarke Gray, Jessica Obando Almache, Kaitlyn Meyers, Jon Fulton, Natasha Ramroop Singh & Ananya Kamboj** | *Thompson Rivers University*
+**Marie Bartlett, Brenna Clarke Gray, Danielle Collins, Jessica Obando Almache, Kaitlyn Meyers, Ananya Kamboj, Jon Fulton, & Michelle Harrison** | *Thompson Rivers University*
 
 ::: {.callout-note collapse="true"}
 ##### Abstract
 Join us at the OTESSA conference as we highlight the transformative impact of the Thompson Rivers University (TRU) Open Press. As proponents of open education, we aim to demonstrate how the TRU Open Press fosters a sustainable and inclusive future through innovative projects. Gain insights into our core operations, including our role as a leading provider in web-first publishing, open pedagogy, and scholarship. We'll delve into our proposal process, detail how projects are initiated and navigated, with the goal of sustaining positive change for a diverse, sustainable, and democratic world. Experience the tangible impact of our initiatives through a showcase of successful projects in the evolving landscape of online learning. Explore our open publication strategies, funding mechanisms, and their profound impact on addressing inequities. Learn about our collaborations with faculty, students, Indigenous communities, and local organizations, all contributing to sustaining shared futures through education. Delve into the production processes of our Open Educational Resources (OER) and open pedagogy projects, fostering positive and meaningful change. Join us in shaping the future of education and scholarship through meaningful discussions and building connections for shared knowledge and inclusivity.
 :::
+
 ## 12:30 - 1:30 | Lunch Break
 
 ## 1:30 - 3:00 | Concurrent Session 8
-
 
 ### Session 8.1 | Wildcard
 
@@ -204,7 +206,7 @@ After 20+ years of educators incorporating various social media into their under
 
 :::
 
-### Session 8.2  | Sustaining Positive Change 
+### Session 8.2  | Transitions of Online Learning and Teaching 
 
 **Room 3665 (Session B)**
 
@@ -242,6 +244,8 @@ Flexibility has emerged as a key area to support digital transformation in posts
 
 #### 2:30 - 3:00 | Developments in National OER Advocacy in Canada 
 
+**Practice**
+
 **Ann Ludbrook** | *Toronto Metropolitan University*
 
 **Michael McNally** | *University of Alberta*
@@ -254,11 +258,7 @@ This 50-minute session builds upon the Canadian Association Research Libraries (
 
 ## 3:00 - 3:30 | Break
 
-
-
 ## 3:30 - 4:30 | Concurrent Session 9 
-
-
 
 ### Session 9.1  | Addressing Inequities
 
@@ -280,7 +280,7 @@ The Matilda Effect - a term coined by Yale historian Margaret W. Rossiter - is a
 
 :::
 
-### Session 9.2 | Transitions of Online Learning and Teaching
+### Session 9.2 | Sustaining Positive Change
 
 **Room 3665 (Session B)**
 
@@ -313,9 +313,3 @@ This session aims to explore the integration of AI in Culturally Responsive Teac
 In designing Project Based Learning (PBL) curriculum and units that focus on real-world issues related to diversity, sustainability, and justice, students will create hands-on projects that evoke change within themselves, their communities, and globally. In this interactive and engaging in-person workshop, educators will be immersed in a comprehensive session focused on harnessing the potential of stop-motion animation using Google Draw, Canva, and Cap Cut. The central objective of this workshop is to empower educators with the expertise and tools to integrate the engineering design process into their teaching methods, fostering student creativity and innovation while amplifying their voices through modern technology. Throughout the workshop, participants will explore how to utilize Project-Based Learning (PBL) to sustain positive change and explore the UN Global Goals, aiming to equip educators with the necessary resources and strategies to facilitate meaningful learning experiences for their students.
 
 :::
-
-
-
-
-
-## To Be Determined | OTESSA Social

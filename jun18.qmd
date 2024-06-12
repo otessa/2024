@@ -14,6 +14,9 @@ Online Only. All times Eastern Daylight Time.
 
 ## 11:00 - 11:30 | Co-Located Shared Meet-Up | Drop-In
 
+<a href="https://uvic.zoom.us/j/85851693272?pwd=i3BoOIaTeIsHMrhDaFDYHmpfGMUAnl.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
+
 ## 11:30 - 12:00 | Conference Welcome, Announcements, & Land Acknowledgement
 <a href="https://uvic.zoom.us/j/83927704159?pwd=7B0OEKVyDtYLEXvKjDdyLA9qVKbd54.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
@@ -21,6 +24,8 @@ Online Only. All times Eastern Daylight Time.
 ## 12:00 - 1:00 | Ethics in Design Showcase 15 | Addressing Inequities 
 
 ### Showcase 15.1  | Sustaining Positive Change
+<a href="https://uvic.zoom.us/j/84931831762?pwd=naZ8ZoUawY4x2E4bEjhEzas4NDwWgi.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
 
 
 ####  A framework and model for engagement in open, online spaces
@@ -128,6 +133,9 @@ Thus, this research stems from a pressing need to understand the core elements o
 
 ### Session 16.2 | Sustaining Positive Change
 
+<a href="https://uvic.zoom.us/j/85150099365?pwd=MwcX8y82861wIEe3qBfc5QYXqsw7DB.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+
+
 #### 1:15 - 1:45 | Seeking a newer equity, diversity, and inclusion model for educators
 
 **Practice**
@@ -205,27 +213,6 @@ Open education (OE) is a solution to combat problems of affordability and access
 
 
 ## 4:30 - 5:00 | Discussion/Networking Pod Drop-In
-
-<!--
-### Showcase 2.3  | Addressing Inequities
-
-####  Generative Friction: A Chatbot Interface Experiment
-
-
-**Ben Taylor & Devon Mordell** | *McMaster University*
-
-
-::: {.callout-note collapse="true"}
-##### Abstract
-
-Faced with the rapid adoption of generative artificial intelligence (GAI) in everyday life, educators are working to envision the role of this technology and routinely navigating its ethical use. Although the broader social, cultural, and environmental costs of the technology are well-documented, they are normally obscured by digital user interface experiences that “just work.” The practice-based design exhibit we are proposing is a GAI chatbot application that intentionally disrupts the user interface with details about the effects of each text input and output beyond the surface of the computer screen. Drawing on critical interface analyses, speculative design methods, and an interrogation of dark design patterns, we will attempt to make visible the past and potential future effects of GAI, including resource consumption, exploitative labour practices, perpetuation of biases, and an increase in economic divides. During this session, we will demo the application and then allow for full audience engagement with the exhibit as we speak to the documentation of our design process. Our intention is to introduce a thoughtful and generative friction into the chat interaction, reclaiming so-called malicious techniques (e.g., distraction, interruption, obfuscation, and shock) to playful and socially productive ends.
-
-:::
-
-
-
--->
-
-
+<a href="https://uvic.zoom.us/j/84341354720?pwd=pzwsfWkLSGjEHNgaPHrHxe6s4emn1b.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
 

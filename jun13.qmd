@@ -79,10 +79,9 @@ Please move to La Jonction so we can begin promptly at 10:30 am.
 - Next Steps (5 mins) | **Michael Langelier (CFSC)**
 - *National Digital Inclusion Network* Launch
 
-## 2:00 - 3:00 | Break and Networking
+## 2:00 - 2:30 | Break and Networking
 
-
-## 3:00-4:00 | Concurrent Session 5
+## 2:30-3:30 | Concurrent Session 5
 
 ### Session 5.1 | Sustaining Positive Change
 
@@ -126,26 +125,3 @@ This session presents findings from a comprehensive evaluation of a Faculty Lear
 
 :::
 
-
-<!--
-
-
-
-### Session 8.2  | Addressing Inequities
-
-**Trottier 2110 (Session D)**
-
-####  Protecting Indigenous Knowledge in Open Education
-
-**Don Eldridge & Mary Gu** |  *eCampus Ontario* 
-
-
-::: {.callout-note collapse="true"}
-##### Abstract
-As open educational practices (OEP) and open educational resources (OER) grants, programs, and initiatives are created by organizations, there is a need to consider the diverse and nuanced Equity, Decolonization, Diversity, and Inclusion (EDDI) issues that will be surfaced. Funding institutions and agencies must consider how their support and promotion of OEP and OER may not support and may even alienate Indigenous members of their community. This presentation will provide an overview of the EDDI concerns faced in a major investment into an OER program in Canada that impacted multiple postsecondary institutions through 3 years of work. This presentation will share the development process of a geographically specific Commons license, the metrics on uptake since the launch of the license, and the impact on supporting digital-by-design virtual learning. This experience can inform the broader open education community by sharing lessons learned and best practices as a case study.  
-
-:::
-
--->
-
-## To Be Determined | OTESSA Social
