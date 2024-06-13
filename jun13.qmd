@@ -18,7 +18,11 @@ IN PERSON at Campus de Longueuil of Université de Sherbrooke
 
 Internet Radio Feeds Available: <a href="https://radio.uvic.ca/public/otessa" target="_blank" class="badge bg-primary"><b> Audio Stream 1</b></a> <a href="https://radio.uvic.ca/public/otessa_2" target="_blank" class="badge bg-primary"><b>Audio Stream 2</b></a> <a href="https://radio.uvic.ca/public/otessa_3" target="_blank" class="badge bg-primary"><b>Audio Stream 3</b></a> <a href="https://radio.uvic.ca/public/otessa_4" target="_blank" class="badge bg-primary"><b>Audio Stream 4</b></a>
 
-## 9:30 - 10:00 | OTESSA Future, Announcements, & Land Acknowledgement
+## 9:30 - *9:45* | OTESSA Future, Announcements, & Land Acknowledgement
+
+::: {.callout-note}
+Please note the new time of 9:45 am!
+:::
 
 **La Source**
 
@@ -26,7 +30,7 @@ Internet Radio Feeds Available: <a href="https://radio.uvic.ca/public/otessa" ta
 
 
 
-## 10:00 - 2:00 | National Digital Inclusion Round Table
+## *9:45* - 2:00 | National Digital Inclusion Round Table
 
 ::: {.callout-important}
 Hosted by Computers for Success Canada in Partnership with Government of Canada Ministry of Innovation, Science, and Economic Development & OTESSA.
@@ -39,29 +43,31 @@ Hosted by Computers for Success Canada in Partnership with Government of Canada 
 
 <a href="https://radio.uvic.ca/public/otessa" target="_blank" class="badge bg-primary"><b>Audio Stream 1 unless otherwise noted.</b></a>
 
-### 10:00 | Nutrition Break
+### 9:30 | Nutrition Break
 
-Please move to La Jonction so we can begin promptly at 10:30 am.
+Please move to La Jonction so we can begin promptly at 9:45 am.
 
-### 10:30 | Welcome and Greetings (5 mins) 
+### 9:45 | Welcome and Greetings 
 
-**ADM Edwards** (Ministry of Innovation, Science, and Economic Development) via video from Ottawa.
+### 10:00 | Opening Session |  Michel Langelier
 
-### 10:35 - 10:42 | International Best Practices: Where Does Canada Stand? (7 mins)
+### 10:05 | Opening Session | Valerie Irvine
 
-**Antonio Roque** 
+### 10:10 | Welcome and Greetings | Amber Mousseau
 
-### 10:45 - 10:52 | Scientific Committee Study – Key Results (7 mins) 
+### 10:20 | International Best Practices: Where Does Canada Stand? | **Antonio Roque** 
+
+### 10:30 | Scientific Committee Study – Key Results (7 mins) 
 
 **Normand Roy (udeM)**
 
-### 10:52 - 10:57 | National Inclusion Network Survey – Key Findings (5 min) 
+### 10:40 | National Inclusion Network Survey – Key Findings (5 min) 
 
 **Emmanuella Michel (Analyst with CFSC)**
 
-## 10:58 | (NDIN) Transition
+## 10:58 |  Transition
 
-## 11:00 - 12:00 | (NDIN) Breakout Sessions
+## 11:00 - 12:00 |  Breakout Sessions
 
 <a href="https://radio.uvic.ca/public/otessa_2" target="_blank" class="badge bg-primary"><b>Audio Stream 2</b></a> <a href="https://radio.uvic.ca/public/otessa_3" target="_blank" class="badge bg-primary"><b>Audio Stream 3</b></a> <a href="https://radio.uvic.ca/public/otessa_4" target="_blank" class="badge bg-primary"><b>Audio Stream 4</b></a>
 
@@ -69,15 +75,17 @@ Please move to La Jonction so we can begin promptly at 10:30 am.
 - 3 key questions (Issues, Best Practices, and Solutions)
 - 3 key dimensions (Accessibility, Connectivity, and Digital Literacy)
 
-## 12:00 - 1:00 | (NDIN) Lunch Provided and Networking
+## 12:00 - 1:00 |  Lunch Provided and Networking
 
-## 1:00 - 1:50 | (NDIN) Plenary Session
+## 1:00 - 1:50 |  Plenary Session
 
 - Reporting (3 min each) |  **6 facilitators**
 - Conclusions, Key Concepts, and Convergences (7 mins) 
   - **Michael Langelier (Computers for Success Canada, CFSC) & Valerie Irvine (OTESSA)**
 - Next Steps (5 mins) | **Michael Langelier (CFSC)**
 - *National Digital Inclusion Network* Launch
+
+### 1:50 Closing
 
 ## 2:00 - 2:30 | Break and Networking
 
