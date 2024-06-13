@@ -148,21 +148,21 @@ School closures due to the COVID-19 pandemic resulted in a shift to emergency re
 <!--<a href="https://uvic.zoom.us/j/89800215355?pwd=jj0UbzmfDOI0y0mOxaPIc2zFfwkAhR.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>-->
 
 
-#### 1:15 - 2:15 | Edtech Maker Spaces to Support Sustainable OER Use in Adult Education
+#### 1:15 - 2:15 | A world of pure imagination: scaling learning design with a design system 
 
-**Practice** 
 
-**Jen Vanek, Jennifer Maddrell & Jeff Goumas** |  *World Education & Education Consultants*
+**Workshop** 
+
+**Joyce Seitzinger** | *RMIT Online*
 
 ::: {.callout-note collapse="true"}
 ##### Abstract
-This presentation addresses the role of Open Education Resources (OER) in inclusively and sustainably supporting adult foundational skills education, and describes a unique professional development (PD) model called “maker spaces”, which boost the capacity of educators to employ OER. 
-
-Access to OER has potential to mitigate the inequitable access to quality instruction in an underfunded public adult education system in the U.S. Adult educators do use OER; however, those available are often designed for other contexts and learners (Newman et al., 2015). Compounding this difficulty, adult education teachers lack expertise, time to develop resources, and access to training (authors, 2023). The “maker space” PD responds to this by working with adult educators to expand their knowledge and skills in discovering, adapting, and producing high-quality and relevant and reusable OER.
-
-Attendees learn about how this research driven service-learning PD has led to construction of an open library of thousands of OER designed to support adult learners. Presenters describe the PD model and the research behind it. They share technical assistance resources developed to help participant educators as they worked together to curate, evaluate, adapt, and create OER. Attendees gain insight into participant experience as they collaborate in a mini “maker space”.
+In the post-pandemic era, educational institutions face the critical task of scaling up digital learning options. This transition reveals a fundamental challenge: bespoke design, the traditional approach in academia, is not scalable. To address this, our workshop introduces design systems as a scalable framework for crafting digital learning experiences. Attendees will learn from experts and case studies across industries, understanding how reusable components and clear standards not only streamline the development process but also ensure consistency and facilitate cross-disciplinary collaboration. Key objectives include mastering design system fundamentals, overcoming bespoke design limitations, and fostering innovation within education.
 
 :::
+
+
+
 
 #### 2:15 - 2:45 | Power to the People: Digital Humanities for/as Community Development
 
