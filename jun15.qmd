@@ -33,21 +33,7 @@ Internet Radio Feeds Available: <a href="https://radio.uvic.ca/public/otessa" ta
 
 **Room 3675 (Session A)**
 
-####  10:00 - 10:30 | Investigating Transformative Technology Integration through Lesson Analysis: A PICRAT Model Pilot Study
-
-<span class="badge bg-danger">Moved from Session 4.2</span>
-
 <a href="https://radio.uvic.ca/public/otessa_3" target="_blank" class="badge bg-primary"><b>Audio Stream 3</b></a>
-
-**Research**
-
-**Adjoa Mensah, Tina Vo, Peter Wiens & Vanessa Vongkulluksn** | *University of Nevada Las Vegas*
-
-::: {.callout-note collapse="true"}
-##### Abstract
-According to the Council for Accreditation of Teacher Preparation (CAEP), technology integration is an important component of instructional practice and competency standards. This quantitative pilot study evaluates preservice science lesson plans using the nine domains of the PICRAT model. In a university located in the southwest region of the US, researchers piloted the use of the PICRAT model as a metric for the frequency of technology integration occurrences. Coding for PICRAT domains (passive, interactive, creative, replacement, amplification and transformation) was triangulated among researchers using interrater reliability to ensure consistent coding. The researchers deliberated on the particular benefits and obstacles associated with the PICRAT model and offered perspectives on the feasibility of utilizing the domains to code lesson plans in teacher preparation.  These findings suggest a high level of consistency among raters in evaluating different PICRAT domains, particularly in the latter four categories where unanimous agreement was attained.
-
-:::
 
 ### Session 10.2 | Addressing Inequity
 
