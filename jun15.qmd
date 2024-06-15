@@ -29,7 +29,9 @@ Internet Radio Feeds Available: <a href="https://radio.uvic.ca/public/otessa" ta
 
 ## 10:00-11:00 | Concurrent Session 10
 
-### Session 10.1 |  Transformative Ways of Conferencing: Designs and Modalities for Impactful Scholarly Communities
+### Session 10.1 
+
+#### 10:00 - 11:00 | Transformative Ways of Conferencing: Designs and Modalities for Impactful Scholarly Communities
 
 **Room 3675 (Session A)**
 
@@ -163,6 +165,7 @@ There are multiple options in the Main Floor food court and an outside patio on 
 <a href="https://radio.uvic.ca/public/otessa_3" target="_blank" class="badge bg-primary"><b>Audio Stream 3</b></a>
 
 **Practice**
+
 #### Franchir les obstacles : Améliorer l'accessibilité grâce aux ressources éducatives libres dans l'apprentissage intégré au travail
 
 **Andrea Krasznai** | *eCampus Ontario*
