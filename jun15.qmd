@@ -29,11 +29,31 @@ Internet Radio Feeds Available: <a href="https://radio.uvic.ca/public/otessa" ta
 
 ## 10:00-11:00 | Concurrent Session 10
 
-### Session 10.1 |  Forthcoming
+### Session 10.1 |  Transformative Ways of Conferencing: Designs and Modalities for Impactful Scholarly Communities
 
 **Room 3675 (Session A)**
 
-<a href="https://radio.uvic.ca/public/otessa_3" target="_blank" class="badge bg-primary"><b>Audio Stream 3</b></a>
+<span class="badge bg-danger">NEW</span>
+
+**Meo Cui** | *Thompson Rivers University*
+
+**Valerie Irvine** | *University of Victoria*
+
+**Connie Blomgren** | *Athabasca University*
+
+**Mariel Miller** | *University of Victoria*
+
+**Stephanie Moore** | *University of New Mexico*
+
+**Colin Madland** | *University of Victoria*
+
+::: {.callout-note collapse="true"}
+##### Abstract
+
+Focus Group for OTESSA 2.0: Collecting Research on Ways of Conferencing
+
+You are invited to engage in a focus group session exploring the future of conferencing. This focus group is part of a research project, exploring the evolving landscape of academic conferencing in the context of continuous technological advancements, societal changes, and climate concerns. Conference attendees are invited to review the study overview and consent form. Those who wish to participate are welcome to come discuss your preferences, experiences, and expectations. A separate event will be held online after the conference for those who wish to provide feedback without participating in the study. The session will be audio recorded for transcription, but not streamed. Through this structured discussion, we aim to gain a comprehensive understanding of how conferencing can meet the needs of diverse participants in environments that can range from nature-based to digital, online, and open contexts. We look forward to identifying challenges and opportunities that will shape OTESSA 2.0.
+:::
 
 ### Session 10.2 | Addressing Inequity
 
