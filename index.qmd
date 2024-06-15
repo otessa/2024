@@ -5,7 +5,15 @@
 ![OTESSA Logo](OTESSA-conf.png)
 -->
 
+::: {.callout}
+### Survey Invitation
 
+Study On The Ways Of Conferencing For Otessa 2.0
+
+You are invited to complete a survey exploring the future of conferencing. This survey is part of a research project, exploring the evolving landscape of academic conferencing in the context of continuous technological advancements, societal changes, and climate concerns. Conference attendees are invited to [review the study overview and consent form.](https://ca.research.net/r/otessa-study)
+
+We also invite you to participate in an online focus group to discuss your preferences, experiences, and expectations. The session will be audio recorded for transcription. Through this structured discussion, we aim to gain a comprehensive understanding of how conferencing can meet the needs of diverse participants in environments that can range from nature-based to digital, online, and open contexts. We look forward to identifying challenges and opportunities that will shape OTESSA 2.0.
+:::
 
 **All times are Eastern Daylight Time**
 
