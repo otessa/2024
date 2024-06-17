@@ -1,6 +1,5 @@
 # Monday, June 17 {.unnumbered}
 
-<button type="button" class="btn btn-outline-success">[Success](https://twu.ca)</button>
 
 
 
@@ -81,6 +80,8 @@ Students’ sense of belonging and their ability to engage in adaptive help-seek
 :::
 
 ### Session 13.2 | Addressing Inequities
+<a href="https://uvic.zoom.us/j/86020527196?pwd=HFWaYVbhMEOZxprsJd3uOdMqlfJ6dv.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a><span class="badge bg-info">Host: Mariel</span>
+
 
 
 #### 1:15 - 2:15 | Breaking Down Barriers: Using Docsify-This As an Entry Point to Markdown Open Publishing
