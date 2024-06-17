@@ -13,17 +13,17 @@ Online Only. All times Eastern Daylight Time.
 
 ## 11:00 - 11:30 | Co-Located Shared Meet-Up | Drop-In
 
-<a href="https://uvic.zoom.us/j/85851693272?pwd=i3BoOIaTeIsHMrhDaFDYHmpfGMUAnl.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+<a href="https://uvic.zoom.us/j/85851693272?pwd=i3BoOIaTeIsHMrhDaFDYHmpfGMUAnl.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>  <span class="badge bg-info">Host: Meo</span>
 
 
 ## 11:30 - 12:00 | Conference Welcome, Announcements, & Land Acknowledgement
-<a href="https://uvic.zoom.us/j/85335383554?pwd=SGSXw2HLTVeeYu0ow1ofaSMXTNiuri.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+<a href="https://uvic.zoom.us/j/85335383554?pwd=SGSXw2HLTVeeYu0ow1ofaSMXTNiuri.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>  <span class="badge bg-info">Host: Katy</span>
 
 
 ## 12:00 - 1:00 | Ethics in Design Showcase 20
 
 ### Showcase 20.1 | Sustaining Positive Change
-<a href="https://uvic.zoom.us/j/85459519161?pwd=Ii14q3mdmpaIAPIIh6MGNs7Fu5orcJ.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+<a href="https://uvic.zoom.us/j/85459519161?pwd=Ii14q3mdmpaIAPIIh6MGNs7Fu5orcJ.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>  <span class="badge bg-info">Host: Meo</span>
 
 
 #### Redesigning Computing for Openness - the Ethics of Consuming Devices 
@@ -38,7 +38,7 @@ Have you started to accumulate old computing devices?   Why does the logic of co
 :::
 
 ### Showcase 20.2 | Addressing Inequities
-<a href="https://uvic.zoom.us/j/86132754456?pwd=r8tcWDJkEXB9akOaCDsC9wvmagCbT5.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+<a href="https://uvic.zoom.us/j/86132754456?pwd=r8tcWDJkEXB9akOaCDsC9wvmagCbT5.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>  <span class="badge bg-info">Host: Mariel</span>
 
 
 #### Open Learning Design in Context: Expanding the Continuum
@@ -55,7 +55,7 @@ Our conceptual paper examines open-learning approaches from a design perspective
 
 ### Showcase 20.3 | Addressing Inequities
 
-<a href="https://uvic.zoom.us/j/89526445493?pwd=JwWGaJ9vuQSQQHlOHoUJOwbG8xC0BX.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+<a href="https://uvic.zoom.us/j/89526445493?pwd=JwWGaJ9vuQSQQHlOHoUJOwbG8xC0BX.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>  <span class="badge bg-info">Host: Katy</span>
 
 
 
@@ -76,7 +76,7 @@ In this session, we present examples of design challenges that—through partici
 
 ### Session 21.1  | Wildcard & Addressing Inequities
 
-<a href="https://uvic.zoom.us/j/87420104805?pwd=j76DBoaiu950OEOC1dHXgiRk8aXIsy.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+<a href="https://uvic.zoom.us/j/87420104805?pwd=j76DBoaiu950OEOC1dHXgiRk8aXIsy.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>  <span class="badge bg-info">Host: Meo</span>
 
 
 #### 1:15 - 2:15 | Graphically Speaking: Sketchnotes in an Open Educational Practice
@@ -113,7 +113,7 @@ Ethical considerations surrounding informed consent will be scrutinized, highlig
 
 
 ### Session 21.2  | Transitions of Online Learning and Teaching
-<a href="https://uvic.zoom.us/j/88306702519?pwd=36SG6yyRGLhWa6QHSS8irGphQ1l3KN.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+<a href="https://uvic.zoom.us/j/88306702519?pwd=36SG6yyRGLhWa6QHSS8irGphQ1l3KN.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>  <span class="badge bg-info">Host: Katy</span>
 
 
 #### 1:15 - 2:15 | FLO Fusion – A Sustainable Approach to Supporting Professional Development with OERs 
@@ -145,7 +145,7 @@ School closures due to the COVID-19 pandemic resulted in a shift to emergency re
 :::
 
 ### Session 21.3 | Sustaining Positive Change
-<a href="https://uvic.zoom.us/j/89800215355?pwd=jj0UbzmfDOI0y0mOxaPIc2zFfwkAhR.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+<a href="https://uvic.zoom.us/j/89800215355?pwd=jj0UbzmfDOI0y0mOxaPIc2zFfwkAhR.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>  <span class="badge bg-info">Host: Colin</span>
 
 
 #### 1:15 - 2:15 | A world of pure imagination: scaling learning design with a design system 
@@ -179,21 +179,13 @@ The author employs Nancy Fraser’s theory of justice to develop a framework for
 
 ## 2:45 - 3:00 | Break
 
-## 3:00 - 3:45 | Unconference
-<a href="https://uvic.zoom.us/j/88962802906?pwd=G9Q0x3CycSKgor5U1GAjuNv0gg76F2.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+## 3:00 - 4:00 | Invited Speakers
+<a href="https://uvic.zoom.us/j/88962802906?pwd=G9Q0x3CycSKgor5U1GAjuNv0gg76F2.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>  <span class="badge bg-info">Host: Katy</span>
 
 
-## 3:45 - 4:00 | Break
+## 3:45 - 4:00 | Discussion/Networking Pod Drop-In
 
-## 4:00 - 4:30 | Social Guest 
-<!--
-<a href="https://uvic.zoom.us/j/88216370339?pwd=tePgI4OSFp5IKiUw5ra8ibjxajgJzP.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
-
--->
-
-## 4:30 - 5:00 | Discussion/Networking Pod Drop-In
-
-<a href="https://uvic.zoom.us/j/84341354720?pwd=pzwsfWkLSGjEHNgaPHrHxe6s4emn1b.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+<a href="https://uvic.zoom.us/j/84341354720?pwd=pzwsfWkLSGjEHNgaPHrHxe6s4emn1b.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Meo</span>
 
 
 <!--

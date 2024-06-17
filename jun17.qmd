@@ -20,19 +20,27 @@ Online Only. All times Eastern Daylight Time.
 
 
 ## 11:30 - 12:00 | Conference Welcome, Announcements, & Land Acknowledgement
-<a href="https://uvic.zoom.us/j/83935738935?pwd=CYbIMo0Qj37EqzmKnYHJoTqg3XTfpY.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+<a href="https://uvic.zoom.us/j/83935738935?pwd=CYbIMo0Qj37EqzmKnYHJoTqg3XTfpY.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>  <span class="badge bg-info">Host: Katy</span>
 
 ## 12:00 - 1:00 | Keynote
 
-<a href="https://uvic.zoom.us/j/89663701705?pwd=R3dndnlhSnhpTXdJOEtrcnliQTkxZz09" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+<a href="https://uvic.zoom.us/j/89663701705?pwd=R3dndnlhSnhpTXdJOEtrcnliQTkxZz09" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Katy</span>
 
 **Speaker** | *Stephanie Moore*
 
 **University of New Mexico**
 
+
+### Abstract
+
 Other fields have convened meetings and issued reports on “grand challenges” in their disciplines as a way to organize and coordinate research, development, and funding efforts. One such example includes grand challenges for engineering, an effort led by the National Academy of Engineering (2024), through which the field has identified four major themes (sustainability, health, security, and joy of living) and 14 specific goals (such as making solar energy economical, restoring and improving urban infrastructure, providing access to clean water, and providing energy from fusion). These grand challenges and themes in turn inform research and development agendas, including priorities for funding, as a way to motivate and coordinate efforts on challenges that are global in nature. Other fields such as disaster reduction (Committee on Environment and Natural Resources, 2020), mathematics education (NCTM Research Committee, 2015), and social work (Grand Challenges for Social Work, 2024) have similarly convened meetings and sessions to articulate primary themes and specific goals that comprise grand challenges. Grand challenges are major, complex problems in a field that should be solvable within a generation or two and that would have great societal and economic impact depending on how they are addressed or left unaddressed (Mertens & Barbian, 2015). George et al. (2016) defined grand challenges as “global problems that can be plausibly addressed through coordinated and collaborative effort” (p.1880). The field of instructional design and technology has not had such conversations or engaged in such strategic planning to date. In this session, Dr. Moore will discuss the premise of grand challenges, explore some examples from other disciplines, and then open the session for small- and whole-group discussion as a kick-off convening on what grand challenges face the field of instructional design and technology and how we might coordinate efforts – on local and global scales – to move the dial on problems with both social, educational, and other impacts. We will conclude with discussions on implications for OTESSA, possible international collaborations, and next steps.
 
-![Head and shoulders picture of Stephanie Moore](StephanieMoore-picture.jpg)
+
+![Stephanie Moore, PhD](StephanieMoore-picture.jpg){fig-alt="A picture of Stephanie Moore with a bookshelf in the background, who is smiling at the camera and is lit from the side."  width="50%" fig-align="center"}
+
+
+
+
 
 ## 1:00 - 1:15 | Break
 
@@ -40,7 +48,7 @@ Other fields have convened meetings and issued reports on “grand challenges”
 
 ### Session 13.1 | Transitions of Online Learning and Teaching
 
-<a href="https://uvic.zoom.us/j/82197649255?pwd=6pHvisrNgobCukSpB7aZPYewu3qgJM.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+<a href="https://uvic.zoom.us/j/82197649255?pwd=6pHvisrNgobCukSpB7aZPYewu3qgJM.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Katy</span>
 
 
 
@@ -101,7 +109,7 @@ Although digital technology is valorized for its promises in empowering individu
 :::
 
 ### Session 13.3 | Transitions of Online Learning and Teaching & Wildcard
-<a href="https://uvic.zoom.us/j/86422839896?pwd=AlWtfpbRgVQbIdj3R8ECgw6bxPNi2m.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+<a href="https://uvic.zoom.us/j/86422839896?pwd=AlWtfpbRgVQbIdj3R8ECgw6bxPNi2m.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Colin</span>
 
 
 ####  1:15 - 1:45 | Building/Belonging: An Exploration of Digital and Place-Based Belonging Practices at University of Highlands & Islands
@@ -171,7 +179,7 @@ The educational experience in the Dental Hygiene Program consists of didactic le
 
 ### Showcase 14.1  | Sustaining Positive Change
 
-<a href="https://uvic.zoom.us/j/84788207883?pwd=bOGIqoOkNk6NMXTniWf4ZK38rVtNy2.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+<a href="https://uvic.zoom.us/j/84788207883?pwd=bOGIqoOkNk6NMXTniWf4ZK38rVtNy2.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Meo</span>
 
 
 
@@ -194,7 +202,7 @@ This critical design project will present an exploration of how the future of ed
 
 ### Showcase 14.2  | Addressing Inequities
 
-<a href="https://uvic.zoom.us/j/86759376080?pwd=kbelrkmitb3GPkGVBeG4FmofMp3NJa.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+<a href="https://uvic.zoom.us/j/86759376080?pwd=kbelrkmitb3GPkGVBeG4FmofMp3NJa.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Katy</span>
 
 
 
@@ -210,7 +218,7 @@ This session delves into the intricate design process of an online Indigenous Et
 
 ### Showcase 14.3  | Addressing Inequities
 
-<a href="https://uvic.zoom.us/j/85154000301?pwd=7EBfQGm8oGaKvDPiIR5bhzNtEVH2PG.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+<a href="https://uvic.zoom.us/j/85154000301?pwd=7EBfQGm8oGaKvDPiIR5bhzNtEVH2PG.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Colin</span>
 
 
 #### Moving Towards Design Justice through Multivocal Design in Health Education
@@ -226,6 +234,6 @@ This Design Case features an interprofessional stroke care case for health and m
 
 ## 4:00 - 4:15 | Discussion/Networking Pod Drop-In
 
-<a href="https://uvic.zoom.us/j/84341354720?pwd=pzwsfWkLSGjEHNgaPHrHxe6s4emn1b.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
+<a href="https://uvic.zoom.us/j/84341354720?pwd=pzwsfWkLSGjEHNgaPHrHxe6s4emn1b.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Meo</span>
 
 
