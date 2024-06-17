@@ -15,16 +15,16 @@ Online Only. All times Eastern Daylight Time.
 
 ## 11:00 - 11:30 | Co-Located Shared Meet-Up | Drop-In
 
-<!--<a href="https://uvic.zoom.us/j/85851693272?pwd=i3BoOIaTeIsHMrhDaFDYHmpfGMUAnl.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>-->
+<a href="https://uvic.zoom.us/j/85851693272?pwd=i3BoOIaTeIsHMrhDaFDYHmpfGMUAnl.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
 
 ## 11:30 - 12:00 | Conference Welcome, Announcements, & Land Acknowledgement
-<!--<a href="https://uvic.zoom.us/j/82989966641?pwd=brtnNtb9ywxvMA4bzk1F2AeODmVsao.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>-->
+<a href="https://uvic.zoom.us/j/82989966641?pwd=brtnNtb9ywxvMA4bzk1F2AeODmVsao.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
 
 ## 12:00 - 1:00 | Keynote 
 <!--
-<!--<a href="https://uvic.zoom.us/j/87394655143?pwd=cVZHZEl0L3UwVm0yWHVOZFFXbGs3UT09" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>-->
+<a href="https://uvic.zoom.us/j/87394655143?pwd=cVZHZEl0L3UwVm0yWHVOZFFXbGs3UT09" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
 -->
 
@@ -35,7 +35,7 @@ Online Only. All times Eastern Daylight Time.
 ## 1:15 - 2:45 | Concurrent Session 22
 
 ### Session 22.1 | Wildcard & Transitions of Online Learning and Teaching
-<!--<a href="https://uvic.zoom.us/j/86483513159?pwd=5y07Mva0zF5n1Fud4mDm851tqgZv3t.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>-->
+<a href="https://uvic.zoom.us/j/86483513159?pwd=5y07Mva0zF5n1Fud4mDm851tqgZv3t.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
 
 #### 1:15 - 1:45 | How instructional designers connect ethics to practice: A discourse analysis | Wildcard
@@ -75,7 +75,7 @@ This presentation will cover the pragmatics of these writing retreats and the im
 :::
 
 ### Session 22.2 | Sustaining Positive Change
-<!--<a href="https://uvic.zoom.us/j/87682931096?pwd=pBz2hEIllG0TOjjTUil6t0v83ARlqz.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>-->
+<a href="https://uvic.zoom.us/j/87682931096?pwd=pBz2hEIllG0TOjjTUil6t0v83ARlqz.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
 
 
@@ -174,7 +174,7 @@ Flexibility has emerged as a key area to support digital transformation in posts
 ## 2:45 - 3:00 | Break
 
 ## 3:00 - 3:45 | Closing Comments
-<!--<a href="https://uvic.zoom.us/j/88689163871?pwd=yqOhnHJu4HoVy8bhkAH3xeiJ18tQln.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>-->
+<a href="https://uvic.zoom.us/j/88689163871?pwd=yqOhnHJu4HoVy8bhkAH3xeiJ18tQln.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
 
 ## 3:45 - 4:00 | Discussion/Networking Pod Drop-In
