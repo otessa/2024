@@ -24,7 +24,7 @@ Online Only. All times Eastern Daylight Time.
 ## 12:00 - 1:00 | Ethics in Design Showcase 15 | Addressing Inequities 
 
 ### Showcase 15.1  | Sustaining Positive Change
-<a href="https://uvic.zoom.us/j/84931831762?pwd=naZ8ZoUawY4x2E4bEjhEzas4NDwWgi.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Meo</span>
+<a href="https://uvic.zoom.us/j/84931831762?pwd=naZ8ZoUawY4x2E4bEjhEzas4NDwWgi.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Meo</span> <a href="A Framework and Model for Engagement in Open, Online Spaces" target="_blank" class="badge bg-warning"><b>Link to Post</b></a>
 
 
 
@@ -35,7 +35,7 @@ Online Only. All times Eastern Daylight Time.
 
 **Michael Paskevicius** | *University of Victoria*
 
-<a href="A Framework and Model for Engagement in Open, Online Spaces" target="_blank" class="badge bg-success"><b>Link to Post</b></a>
+
 
 
 
@@ -47,14 +47,14 @@ This design case provides an analysis of the creation of an innovative open educ
 :::
 
 ### Showcase 15.2 | Addressing Inequities
-<a href="https://uvic.zoom.us/j/89750976210?pwd=dcbFlhFriqprOwFPwc55y5h4LH9Px5.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Mariel</span>
+<a href="https://uvic.zoom.us/j/89750976210?pwd=dcbFlhFriqprOwFPwc55y5h4LH9Px5.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Mariel</span> <a href="https://otessa.org/ethicsindesign/2024/06/09/speculative-design-in-a-summer-camp/" target="_blank" class="badge bg-warning"><b>Link to Post</b></a>
 
 
 #### Speculative Design and Building a Community of Transformation
 
 **Practice** 
 
-<a href="https://otessa.org/ethicsindesign/2024/06/09/speculative-design-in-a-summer-camp/" target="_blank" class="badge bg-success"><b>Link to Post</b></a>
+
 
 
 **Kristen Ferris, Vanessa Svihla, Susannah Davis & Nadia Kellam** | *University of New Mexico*
@@ -69,7 +69,7 @@ We describe our use of speculative design, remixing, and futurisms in forming a 
 
 
 ### Showcase 15.3  | Transitions of Online Learning and Teaching
-<a href="https://uvic.zoom.us/j/88971747307?pwd=7P4q24rhMOa3H9EapmaLKdrNt8UVDP.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Katy</span>
+<a href="https://uvic.zoom.us/j/88971747307?pwd=7P4q24rhMOa3H9EapmaLKdrNt8UVDP.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Katy</span> <a href="https://otessa.org/ethicsindesign/2024/06/12/artifacts-from-the-futures-of-higher-education/" target="_blank" class="badge bg-warning"><b>Link to Post</b></a>
 
 
 ####  Artifacts from the Futures of Higher Education
@@ -77,7 +77,7 @@ We describe our use of speculative design, remixing, and futurisms in forming a 
 
 **Elisa Arnold, Rocio Chavez Telleria & Laura Viselli** | *eCampus Ontario*
 
-<a href="https://otessa.org/ethicsindesign/2024/06/12/artifacts-from-the-futures-of-higher-education/" target="_blank" class="badge bg-success"><b>Link to Post</b></a>
+
 
 
 ::: {.callout-note collapse="true"}

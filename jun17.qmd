@@ -203,7 +203,7 @@ The educational experience in the Dental Hygiene Program consists of didactic le
 
 ### Showcase 14.1  | Sustaining Positive Change
 
-<a href="https://uvic.zoom.us/j/84788207883?pwd=bOGIqoOkNk6NMXTniWf4ZK38rVtNy2.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Meo</span>
+<a href="https://uvic.zoom.us/j/84788207883?pwd=bOGIqoOkNk6NMXTniWf4ZK38rVtNy2.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Meo</span> <a href="https://otessa.org/ethicsindesign/2024/06/09/ai-assisted-design-of-learning-experiences/" target="_blank" class="badge bg-warning"><b>Link to Post</b></a>
 
 
 
@@ -212,7 +212,7 @@ The educational experience in the Dental Hygiene Program consists of didactic le
 
 **Amanda Tkaczyk** | *Independent Scholar*
 
-<a href="https://otessa.org/ethicsindesign/2024/06/09/ai-assisted-design-of-learning-experiences/" target="_blank" class="badge bg-success"><b>Link to Post</b></a>
+
 
 
 ::: {.callout-note collapse="true"}
@@ -229,7 +229,7 @@ This critical design project will present an exploration of how the future of ed
 
 ### Showcase 14.2  | Addressing Inequities
 
-<a href="https://uvic.zoom.us/j/86759376080?pwd=kbelrkmitb3GPkGVBeG4FmofMp3NJa.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Katy</span>
+<a href="https://uvic.zoom.us/j/86759376080?pwd=kbelrkmitb3GPkGVBeG4FmofMp3NJa.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Katy</span>  <a href="https://otessa.org/ethicsindesign/2024/06/09/cultural-dimensions-of-ethics-in-design/" target="_blank" class="badge bg-warning"><b>Link to Post</b></a>
 
 
 
@@ -237,7 +237,7 @@ This critical design project will present an exploration of how the future of ed
 
 **Brian Lorraine** | *Simon Fraser University*
 
-<a href="https://otessa.org/ethicsindesign/2024/06/09/cultural-dimensions-of-ethics-in-design/" target="_blank" class="badge bg-success"><b>Link to Post</b></a>
+
 
 
 ::: {.callout-note collapse="true"}
@@ -248,14 +248,14 @@ This session delves into the intricate design process of an online Indigenous Et
 
 ### Showcase 14.3  | Addressing Inequities
 
-<a href="https://uvic.zoom.us/j/85154000301?pwd=7EBfQGm8oGaKvDPiIR5bhzNtEVH2PG.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Colin</span>
+<a href="https://uvic.zoom.us/j/85154000301?pwd=7EBfQGm8oGaKvDPiIR5bhzNtEVH2PG.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Colin</span> <a href="https://otessa.org/ethicsindesign/2024/06/09/moving-towards-design-justice/" target="_blank" class="badge bg-warning"><b>Link to Post</b></a>
 
 
 #### Moving Towards Design Justice through Multivocal Design in Health Education
 
 **Danielle Dilkes** | *University of Western Ontario*
 
-<a href="https://otessa.org/ethicsindesign/2024/06/09/moving-towards-design-justice/" target="_blank" class="badge bg-success"><b>Link to Post</b></a>
+
 
 
 ::: {.callout-note collapse="true"}
