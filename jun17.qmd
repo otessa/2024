@@ -212,6 +212,9 @@ The educational experience in the Dental Hygiene Program consists of didactic le
 
 **Amanda Tkaczyk** | *Independent Scholar*
 
+<a href="https://otessa.org/ethicsindesign/2024/06/09/ai-assisted-design-of-learning-experiences/" target="_blank" class="badge bg-success"><b>Link to Post</b></a>
+
+
 ::: {.callout-note collapse="true"}
 ##### Abstract
 
@@ -234,6 +237,9 @@ This critical design project will present an exploration of how the future of ed
 
 **Brian Lorraine** | *Simon Fraser University*
 
+<a href="https://otessa.org/ethicsindesign/2024/06/09/cultural-dimensions-of-ethics-in-design/" target="_blank" class="badge bg-success"><b>Link to Post</b></a>
+
+
 ::: {.callout-note collapse="true"}
 ##### Abstract
 This session delves into the intricate design process of an online Indigenous Ethnozoology course, exploring the tensions, challenges, and ethical considerations encountered during an 8-month redesign and development period. Originally authored by a Squamish knowledge holder, the course featured recorded lectures intertwining oral histories with western scientific perspectives. The transition to a new instructor, a professor of white settler descent, prompted critical reflection on retaining Indigenous knowledge while improving instructional effectiveness. Drawing on cognitive load theory and empirical studies on video engagement, the design team navigated the complexities of honoring oral traditions while enhancing student learning experiences. This case study highlights the necessity for robust frameworks addressing Indigenous knowledge protocols in educational design, underscored by ongoing critical reflection to confront colonial legacies and promote ethical practices.
@@ -248,6 +254,8 @@ This session delves into the intricate design process of an online Indigenous Et
 #### Moving Towards Design Justice through Multivocal Design in Health Education
 
 **Danielle Dilkes** | *University of Western Ontario*
+
+<a href="https://otessa.org/ethicsindesign/2024/06/09/moving-towards-design-justice/" target="_blank" class="badge bg-success"><b>Link to Post</b></a>
 
 
 ::: {.callout-note collapse="true"}

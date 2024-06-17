@@ -35,6 +35,9 @@ Online Only. All times Eastern Daylight Time.
 
 **Michael Paskevicius** | *University of Victoria*
 
+<a href="A Framework and Model for Engagement in Open, Online Spaces" target="_blank" class="badge bg-success"><b>Link to Post</b></a>
+
+
 
 ::: {.callout-note collapse="true"}
 ##### Abstract
@@ -50,6 +53,9 @@ This design case provides an analysis of the creation of an innovative open educ
 #### Speculative Design and Building a Community of Transformation
 
 **Practice** 
+
+<a href="https://otessa.org/ethicsindesign/2024/06/09/speculative-design-in-a-summer-camp/" target="_blank" class="badge bg-success"><b>Link to Post</b></a>
+
 
 **Kristen Ferris, Vanessa Svihla, Susannah Davis & Nadia Kellam** | *University of New Mexico*
 
@@ -70,6 +76,8 @@ We describe our use of speculative design, remixing, and futurisms in forming a 
 
 
 **Elisa Arnold, Rocio Chavez Telleria & Laura Viselli** | *eCampus Ontario*
+
+<a href="https://otessa.org/ethicsindesign/2024/06/12/artifacts-from-the-futures-of-higher-education/" target="_blank" class="badge bg-success"><b>Link to Post</b></a>
 
 
 ::: {.callout-note collapse="true"}

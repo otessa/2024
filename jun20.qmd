@@ -30,6 +30,9 @@ Online Only. All times Eastern Daylight Time.
 
 **Brian Sutherland** | *University of Toronto*
 
+<a href="https://otessa.org/ethicsindesign/2024/06/09/ethics-of-consuming-devices/" target="_blank" class="badge bg-success"><b>Link to Post</b></a>
+
+
 
 ::: {.callout-note collapse="true"}
 ##### Abstract
@@ -46,6 +49,11 @@ Have you started to accumulate old computing devices?   Why does the logic of co
 **Research**
 
 **Verena Roberts & Michelle Harrison** | *University of Calgary*
+
+**Michelle Harrison** | *Thompson Rivers University*
+
+<a href="https://otessa.org/ethicsindesign/2024/06/09/open-learning-design-in-context/" target="_blank" class="badge bg-success"><b>Link to Post</b></a>
+
 
 ::: {.callout-note collapse="true"}
 ##### Abstract
