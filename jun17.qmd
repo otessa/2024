@@ -19,7 +19,7 @@ Online Only. All times Eastern Daylight Time.
 
 
 ## 11:30 - 12:00 | Conference Welcome, Announcements, & Land Acknowledgement
-<a href="https://uvic.zoom.us/j/83935738935?pwd=CYbIMo0Qj37EqzmKnYHJoTqg3XTfpY.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>  <span class="badge bg-info">Host: Katy</span>
+<a href="https://uvic.zoom.us/j/83935738935?pwd=CYbIMo0Qj37EqzmKnYHJoTqg3XTfpY.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>  <span class="badge bg-info">Host: Katy</span>  <a href="https://docs.google.com/presentation/d/1637prAkJ526TEMP9clLXK3ByXNEF0YebPvGhGKNIxVY/edit?usp=sharing" target="_blank" class="badge bg-secondary"><b>Link to Welcome Slides</b></a>
 
 ## 12:00 - 1:00 | Keynote
 
