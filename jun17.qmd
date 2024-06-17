@@ -83,7 +83,24 @@ Students’ sense of belonging and their ability to engage in adaptive help-seek
 ### Session 13.2 | Addressing Inequities
 
 
-#### 1:15 - 2:15 | Reflections on a Canadian Framework for Indigenous Open Education Development 
+#### 1:15 - 2:15 | Breaking Down Barriers: Using Docsify-This As an Entry Point to Markdown Open Publishing
+
+**Workshop** 
+
+**Paul Hibbitts** | *Hibbitts Design*
+
+::: {.callout-note collapse="true"}
+##### Abstract
+The open-source project Docsify-This (public instance at <https://docsify-this.net>) aims to help open educators and publishers overcome barriers to using Markdown content for publishing and sharing open educational resources. With Docsify-This, users can leverage Markdown's ubiquitous and system-independent format without needing to set up their own website, while keeping full control (including original location) of their source content.
+
+Along with the benefits of using Markdown content for open publishing, significant technical barriers have often existed such as required platform configurations and build processes. And, once content is published, displaying it within other platforms and contexts is not easily accomplished. But with Docsify-This, any publicly available Markdown file can be instantly turned into a responsive standalone web page, and multiple Markdown files can even be linked together to provide a complete website. Individual Docsify-This generated Web pages can also be seamlessly embedded and visually re-styled into other platforms.
+
+Further details about the process used to publish open content with Docsify-This will be shared, along with examples, demonstrations and a range of online activities, for those interested in innovations and educational equity related Open Educational Practices.
+:::
+
+<!--
+
+Reflections on a Canadian Framework for Indigenous Open Education Development 
 
 **Practice**
 
@@ -95,6 +112,7 @@ Students’ sense of belonging and their ability to engage in adaptive help-seek
 Facilitated by two Indigenous scholars (both of Métis and European ancestry), this session delves into insights gleaned from the Indigenous OER Summit 2024 held earlier this year at the University of British Columbia. In February 2024, a collective effort amongst Indigenous parties interested in open education, composed of students, faculty, and librarians, laid the groundwork for a Canadian framework outlining best practices for Indigenous open educational resource (OER) development. This presentation sheds light on the day's proceedings, emphasizing collaborative processes, discoveries, and outcomes. The conversation extends to post-summit initiatives, focusing on refining documentation and gathering feedback on the framework. Attendees can anticipate a thorough exploration of summit activities, the subsequent steps in framework development, and the plans for additional feedback. The presenters will also share their strategy for disseminating the framework. Moreover, the session outlines future national advocacy plans in support of Indigenous OER development. A substantial portion of the session will be dedicated to group discussion and audience feedback on the framework process and its details, by eliciting response to a series of questions posed by the presenters.
 
 :::
+-->
 
 #### 2:15 - 2:45 | Role of Social Media in Addressing Educational Inequality: A Critical Examination of Marginalized Teens’ Social Media Usage
 
@@ -123,7 +141,10 @@ Although digital technology is valorized for its promises in empowering individu
 This presentation overviews a case study of belonging, considered and framed through the lens of both place-based identity and digital education. The case study project under discussion aims to build on the established digital practices of a distributed European higher and further education institution, with multiple regional campuses, which serve to make education accessible and inclusive to a remote population otherwise underserved. The session will present the lit review, design, and goals of the case study project, while exploring ideas of community belonging in traditionally diasporic regions as well as digital belonging in online classrooms. It will explore the affordances and impacts of both, and the ways the two may or may not intersect in this particular context. This project extends the exemplary research and practice being done at this institution with digital technologies, in hopes of making visible the ties between geographic and cultural belonging practices and those that can be amplified and supported digitally. This institution's inclusive and accessible approaches may be of value to the OTESSA audience in a time when belonging is a need for students in many contexts.
 :::
 
+#### 1:15 - 2:15 | Forthcoming
+
 #### 1:45 - 2:45 | Breaking Down Barriers: Using Docsify-This As an Entry Point to Markdown Open Publishing
+<span class="badge bg-danger">Moved to Session 13.2 (1:15-2:15)</span>
 
 **Workshop** 
 
