@@ -29,8 +29,10 @@ Online Only. All times Eastern Daylight Time.
 
 **University of New Mexico**
 
+### Grand Challenges in Instructional Design and Technology: Developing a Strategic Plan for Coordinated Research and Development
 
-### Abstract
+
+#### Abstract
 
 Other fields have convened meetings and issued reports on “grand challenges” in their disciplines as a way to organize and coordinate research, development, and funding efforts. One such example includes grand challenges for engineering, an effort led by the National Academy of Engineering (2024), through which the field has identified four major themes (sustainability, health, security, and joy of living) and 14 specific goals (such as making solar energy economical, restoring and improving urban infrastructure, providing access to clean water, and providing energy from fusion). These grand challenges and themes in turn inform research and development agendas, including priorities for funding, as a way to motivate and coordinate efforts on challenges that are global in nature. Other fields such as disaster reduction (Committee on Environment and Natural Resources, 2020), mathematics education (NCTM Research Committee, 2015), and social work (Grand Challenges for Social Work, 2024) have similarly convened meetings and sessions to articulate primary themes and specific goals that comprise grand challenges. Grand challenges are major, complex problems in a field that should be solvable within a generation or two and that would have great societal and economic impact depending on how they are addressed or left unaddressed (Mertens & Barbian, 2015). George et al. (2016) defined grand challenges as “global problems that can be plausibly addressed through coordinated and collaborative effort” (p.1880). The field of instructional design and technology has not had such conversations or engaged in such strategic planning to date. In this session, Dr. Moore will discuss the premise of grand challenges, explore some examples from other disciplines, and then open the session for small- and whole-group discussion as a kick-off convening on what grand challenges face the field of instructional design and technology and how we might coordinate efforts – on local and global scales – to move the dial on problems with both social, educational, and other impacts. We will conclude with discussions on implications for OTESSA, possible international collaborations, and next steps.
 
@@ -80,8 +82,8 @@ Students’ sense of belonging and their ability to engage in adaptive help-seek
 :::
 
 ### Session 13.2 | Addressing Inequities
-<a href="https://uvic.zoom.us/j/86020527196?pwd=HFWaYVbhMEOZxprsJd3uOdMqlfJ6dv.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a><span class="badge bg-info">Host: Mariel</span>
 
+<a href="https://uvic.zoom.us/j/86020527196?pwd=HFWaYVbhMEOZxprsJd3uOdMqlfJ6dv.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>  <span class="badge bg-info">Host: Mariel</span>
 
 
 #### 1:15 - 2:15 | Breaking Down Barriers: Using Docsify-This As an Entry Point to Markdown Open Publishing
