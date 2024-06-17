@@ -5,12 +5,13 @@
 Online Only. All times Eastern Daylight Time.
 :::
 
-## Current time in Montréal (click for more info)
+## Current Eastern Daylight Time (click for more info)
 
 <iframe src="https://free.timeanddate.com/clock/i98z8zgl/n165/fs18/tcccc/ftbi/tt0/tw1/tm1/ta1" frameborder="0" width="347" height="23">
 
 </iframe>
 
+<!--
 
 ## 11:00 - 11:30 | Co-Located Shared Meet-Up | Drop-In
 
@@ -20,6 +21,7 @@ Online Only. All times Eastern Daylight Time.
 ## 11:30 - 12:00 | Conference Welcome, Announcements, & Land Acknowledgement
 <a href="https://uvic.zoom.us/j/83927704159?pwd=7B0OEKVyDtYLEXvKjDdyLA9qVKbd54.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Katy</span>
 
+-->
 
 ## 12:00 - 1:00 | Ethics in Design Showcase 15 | Addressing Inequities 
 
@@ -211,13 +213,7 @@ Open education (OE) is a solution to combat problems of affordability and access
 
 :::
 
-## 2:45 - 3:00 | Break
-
-## 3:00 - 4:00 | Invited Speakers
-<a href="https://uvic.zoom.us/j/88023225103?pwd=42FIMQqzWdlWX2fbmMTEZEGPMRn1L1.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Katy</span>
-
-
-## 4:00 - 4:15 | Discussion/Networking Pod Drop-In
+## 2:45 - 3:00 | Discussion/Networking Pod Drop-In
 <a href="https://uvic.zoom.us/j/84341354720?pwd=pzwsfWkLSGjEHNgaPHrHxe6s4emn1b.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Meo</span>
 
 

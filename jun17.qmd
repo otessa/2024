@@ -8,7 +8,7 @@
 Online Only. All times Eastern Daylight Time.
 :::
 
-## Current time in Montréal (click for more info)
+## Current Eastern Daylight Time (click for more info)
 
 <iframe src="https://free.timeanddate.com/clock/i98z8zgl/n165/fs18/tcccc/ftbi/tt0/tw1/tm1/ta1" frameborder="0" width="347" height="23">
 

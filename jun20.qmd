@@ -5,12 +5,13 @@
 Online Only. All times Eastern Daylight Time.
 :::
 
-## Current time in Montréal (click for more info)
+## Current Eastern Daylight Time (click for more info)
 
 <iframe src="https://free.timeanddate.com/clock/i98z8zgl/n165/fs18/tcccc/ftbi/tt0/tw1/tm1/ta1" frameborder="0" width="347" height="23">
 
 </iframe>
 
+<!--
 ## 11:00 - 11:30 | Co-Located Shared Meet-Up | Drop-In
 
 <a href="https://uvic.zoom.us/j/85851693272?pwd=i3BoOIaTeIsHMrhDaFDYHmpfGMUAnl.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>  <span class="badge bg-info">Host: Meo</span>
@@ -18,6 +19,7 @@ Online Only. All times Eastern Daylight Time.
 
 ## 11:30 - 12:00 | Conference Welcome, Announcements, & Land Acknowledgement
 <a href="https://uvic.zoom.us/j/85335383554?pwd=SGSXw2HLTVeeYu0ow1ofaSMXTNiuri.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>  <span class="badge bg-info">Host: Katy</span>
+-->
 
 
 ## 12:00 - 1:00 | Ethics in Design Showcase 20
@@ -190,16 +192,39 @@ The author employs Nancy Fraser’s theory of justice to develop a framework for
 
 ## 2:45 - 3:00 | Break
 
-## 3:00 - 4:00 | Invited Speakers
+## 3:00 - 4:00 | Study on the Ways of Conferencing for OTESSA 2.0
+
 <a href="https://uvic.zoom.us/j/88962802906?pwd=G9Q0x3CycSKgor5U1GAjuNv0gg76F2.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>  <span class="badge bg-info">Host: Katy</span>
 
+<span class="badge bg-danger">NEW</span>
 
+**Hongran Cui** | *Thompson Rivers University*
+
+**Valerie Irvine** | *University of Victoria*
+
+**Connie Blomgren** | *Athabasca University*
+
+**Mariel Miller** | *University of Victoria*
+
+**Stephanie Moore** | *University of New Mexico*
+
+**Colin Madland** | *University of Victoria*
+
+::: {.callout-note collapse="true"}
+##### Abstract
+
+Focus Group for OTESSA 2.0: Collecting Research on Ways of Conferencing
+
+You are invited to engage in a focus group session exploring the future of conferencing. This focus group is part of a research project, exploring the evolving landscape of academic conferencing in the context of continuous technological advancements, societal changes, and climate concerns. Conference attendees are invited to review the [study overview and consent form](https://ca.research.net/r/OTESSAsurvey). Those who wish to participate are welcome to come discuss your preferences, experiences, and expectations. The session will be audio recorded for transcription, but not streamed. Through this structured discussion, we aim to gain a comprehensive understanding of how conferencing can meet the needs of diverse participants in environments that can range from nature-based to digital, online, and open contexts. We look forward to identifying challenges and opportunities that will shape OTESSA 2.0.
+:::
+
+<!--
 ## 3:45 - 4:00 | Discussion/Networking Pod Drop-In
 
 <a href="https://uvic.zoom.us/j/84341354720?pwd=pzwsfWkLSGjEHNgaPHrHxe6s4emn1b.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Meo</span>
 
 
-<!--
+
 ### Showcase 20.3 | Addressing Inequities
 <a href="https://uvic.zoom.us/j/89526445493?pwd=JwWGaJ9vuQSQQHlOHoUJOwbG8xC0BX.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>
 
