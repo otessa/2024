@@ -73,6 +73,9 @@ Our conceptual paper examines open-learning approaches from a design perspective
 
 **Madalyn Wilson-Fetrow** | *University of New Mexico*
 
+<a href="https://otessa.org/ethicsindesign/2024/06/09/speculative-design-in-a-summer-camp/" target="_blank" class="badge bg-success"><b>Link to Post</b></a>
+
+
 ::: {.callout-note collapse="true"}
 ##### Abstract
 Summer camps offer opportunities for youth to learn technical skills and apply them in service of solving wicked problems, like climate change and social/economic injustices. While many camps want youth to bring their experiences, they anticipate that campers will share happy or optimistic experiences, contributing to a sense of hopeful, if idealistic and unrealistic solutions to pressing issues. Those who administer and facilitate such learning experiences encounter youth who passionately want to tackle these problems, but who are not naïve regarding the harms surrounding climate disaster and racial injustice.
