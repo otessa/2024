@@ -27,7 +27,7 @@ Online Only. All times Eastern Daylight Time.
 
 <a href="https://uvic.zoom.us/j/88971747307?pwd=7P4q24rhMOa3H9EapmaLKdrNt8UVDP.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Katy</span> 
 
-::: {.callout-secondary}
+::: {.callout-light}
 #### Note
 There is ONE Zoom link for all Ethics in Design Showcases in Session 15.
 :::

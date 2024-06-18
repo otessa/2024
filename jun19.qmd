@@ -175,7 +175,7 @@ Open education “by its very nature open education [can] not be fully delimited
 
 <a href="https://uvic.zoom.us/j/86496190813?pwd=kEYdFD7WKPWH50WmOic996obPp3I8R.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Katy</span>
 
-::: {.callout-secondary}
+::: {.callout-light}
 #### Note
 There is ONE Zoom link for all Poster Presentations in Session 19.
 :::
