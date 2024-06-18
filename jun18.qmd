@@ -25,8 +25,14 @@ Online Only. All times Eastern Daylight Time.
 
 ## 12:00 - 1:00 | Ethics in Design Showcase 15 | Addressing Inequities 
 
+<a href="https://uvic.zoom.us/j/88971747307?pwd=7P4q24rhMOa3H9EapmaLKdrNt8UVDP.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Katy</span> 
+
+::: {.callout-note}
+There is ONE Zoom link for all Ethics in Design Showcases in Session 15.
+:::
+
 ### Showcase 15.1  | Sustaining Positive Change
-<a href="https://uvic.zoom.us/j/84931831762?pwd=naZ8ZoUawY4x2E4bEjhEzas4NDwWgi.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Meo</span> <a href="A Framework and Model for Engagement in Open, Online Spaces" target="_blank" class="badge bg-warning"><b>Link to Post</b></a>
+<a href="A Framework and Model for Engagement in Open, Online Spaces" target="_blank" class="badge bg-warning"><b>Link to Post</b></a>
 
 
 
@@ -37,10 +43,6 @@ Online Only. All times Eastern Daylight Time.
 
 **Michael Paskevicius** | *University of Victoria*
 
-
-
-
-
 ::: {.callout-note collapse="true"}
 ##### Abstract
 
@@ -49,7 +51,7 @@ This design case provides an analysis of the creation of an innovative open educ
 :::
 
 ### Showcase 15.2 | Addressing Inequities
-<a href="https://uvic.zoom.us/j/89750976210?pwd=dcbFlhFriqprOwFPwc55y5h4LH9Px5.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Mariel</span> <a href="https://otessa.org/ethicsindesign/2024/06/09/speculative-design-in-a-summer-camp/" target="_blank" class="badge bg-warning"><b>Link to Post</b></a>
+<a href="https://otessa.org/ethicsindesign/2024/06/09/speculative-design-in-a-summer-camp/" target="_blank" class="badge bg-warning"><b>Link to Post</b></a>
 
 
 #### Speculative Design and Building a Community of Transformation
@@ -71,7 +73,7 @@ We describe our use of speculative design, remixing, and futurisms in forming a 
 
 
 ### Showcase 15.3  | Transitions of Online Learning and Teaching
-<a href="https://uvic.zoom.us/j/88971747307?pwd=7P4q24rhMOa3H9EapmaLKdrNt8UVDP.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Katy</span> <a href="https://otessa.org/ethicsindesign/2024/06/12/artifacts-from-the-futures-of-higher-education/" target="_blank" class="badge bg-warning"><b>Link to Post</b></a>
+<a href="https://otessa.org/ethicsindesign/2024/06/12/artifacts-from-the-futures-of-higher-education/" target="_blank" class="badge bg-warning"><b>Link to Post</b></a>
 
 
 ####  Artifacts from the Futures of Higher Education
@@ -90,8 +92,6 @@ How we think about the future informs the decisions we make today; however, it i
 The Research and Foresight team at eCampusOntario has created four artifacts, grounded in foresight methodology, capturing different ways one can think about technology in higher education. These artifacts are based on the team’s foresight trend research and explore possible future roles of technology. To facilitate the discussion and support analysis, we will use a foresight informed discussion toolkit developed by our team. This workshop will introduce attendees to the methodology of experiential futures to advance their capacity for futures thinking.
 
 :::
-
-
 
 ## 1:00 - 1:15 | Break
 

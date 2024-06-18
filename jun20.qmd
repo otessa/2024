@@ -24,17 +24,17 @@ Online Only. All times Eastern Daylight Time.
 
 ## 12:00 - 1:00 | Ethics in Design Showcase 20
 
-### Showcase 20.1 | Sustaining Positive Change
-<a href="https://uvic.zoom.us/j/85459519161?pwd=Ii14q3mdmpaIAPIIh6MGNs7Fu5orcJ.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>  <span class="badge bg-info">Host: Meo</span> <a href="https://otessa.org/ethicsindesign/2024/06/09/ethics-of-consuming-devices/" target="_blank" class="badge bg-warning"><b>Link to Post</b></a>
+<a href="https://uvic.zoom.us/j/89526445493?pwd=JwWGaJ9vuQSQQHlOHoUJOwbG8xC0BX.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>  <span class="badge bg-info">Host: Katy</span> 
 
+::: {.callout-note}
+There is ONE Zoom link for all Ethics in Design Showcases in Session 20.
+:::
+### Showcase 20.1 | Sustaining Positive Change
+<a href="https://otessa.org/ethicsindesign/2024/06/09/ethics-of-consuming-devices/" target="_blank" class="badge bg-warning"><b>Link to Post</b></a>
 
 #### Redesigning Computing for Openness - the Ethics of Consuming Devices 
 
 **Brian Sutherland** | *University of Toronto*
-
-
-
-
 
 ::: {.callout-note collapse="true"}
 ##### Abstract
@@ -43,19 +43,15 @@ Have you started to accumulate old computing devices?   Why does the logic of co
 :::
 
 ### Showcase 20.2 | Addressing Inequities
-<a href="https://uvic.zoom.us/j/86132754456?pwd=r8tcWDJkEXB9akOaCDsC9wvmagCbT5.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>  <span class="badge bg-info">Host: Mariel</span> <a href="https://otessa.org/ethicsindesign/2024/06/09/open-learning-design-in-context/" target="_blank" class="badge bg-warning"><b>Link to Post</b></a>
-
-
+<a href="https://otessa.org/ethicsindesign/2024/06/09/open-learning-design-in-context/" target="_blank" class="badge bg-warning"><b>Link to Post</b></a>
 
 #### Open Learning Design in Context: Expanding the Continuum
 
 **Research**
 
-**Verena Roberts & Michelle Harrison** | *University of Calgary*
+**Verena Roberts** | *University of Calgary*
 
 **Michelle Harrison** | *Thompson Rivers University*
-
-
 
 ::: {.callout-note collapse="true"}
 ##### Abstract
@@ -65,18 +61,13 @@ Our conceptual paper examines open-learning approaches from a design perspective
 
 ### Showcase 20.3 | Addressing Inequities
 
-<a href="https://uvic.zoom.us/j/89526445493?pwd=JwWGaJ9vuQSQQHlOHoUJOwbG8xC0BX.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>  <span class="badge bg-info">Host: Katy</span> <a href="https://otessa.org/ethicsindesign/2024/06/09/speculative-design-in-a-summer-camp/" target="_blank" class="badge bg-warning"><b>Link to Post</b></a>
-
-
+<a href="https://otessa.org/ethicsindesign/2024/06/09/speculative-design-in-a-summer-camp/" target="_blank" class="badge bg-warning"><b>Link to Post</b></a>
 
 #### Speculative Design in a Summer Camp: Tensions around Infantilization
 
 **Research**
 
 **Madalyn Wilson-Fetrow** | *University of New Mexico*
-
-
-
 
 ::: {.callout-note collapse="true"}
 ##### Abstract

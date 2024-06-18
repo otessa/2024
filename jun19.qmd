@@ -39,10 +39,9 @@ Online Only. All times Eastern Daylight Time.
 
 <a href="https://uvic.zoom.us/j/88336683214?pwd=GmweELTX5kwbPgcG7JV1qL3ViSbkrm.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Colin</span>
 
--->
-
 
 ## 1:00 - 1:15 | Break
+-->
 
 ## 1:15 - 2:45 | Concurrent Session 18
 
@@ -174,10 +173,13 @@ Open education “by its very nature open education [can] not be fully delimited
 
 ## 3:00 - 3:45 | Poster Session 19
 
+<a href="https://uvic.zoom.us/j/86496190813?pwd=kEYdFD7WKPWH50WmOic996obPp3I8R.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Katy</span>
+
+::: {.callout-note}
+There is ONE Zoom link for all Poster Presentations in Session 19.
+:::
+
 ### Poster Session 19.1 | Wildcard
-
-<a href="https://uvic.zoom.us/j/81710260226?pwd=DHY9AM3od6aEYBRdcaVWm6SWJWTpTh.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Colin</span>
-
 
 #### Milton @ Western: An Experiment in Digital Curation with Collection Builder
 
@@ -197,8 +199,6 @@ In an interactive web-based poster session through StoryMaps, we will showcase o
 :::
 
 ### Poster Session 19.2 | Transitions of Online Learning and Teaching
-<a href="https://uvic.zoom.us/j/86496190813?pwd=kEYdFD7WKPWH50WmOic996obPp3I8R.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Katy</span>
-
 
 #### Exploring Playful Hybrid Teaching Practices in Higher Education: Insights from the Playful Hybrid Higher Education Project
 
