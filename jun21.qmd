@@ -28,14 +28,15 @@ Online Only. All times Eastern Daylight Time.
 
 <a href="https://uvic.zoom.us/j/87394655143?pwd=cVZHZEl0L3UwVm0yWHVOZFFXbGs3UT09" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>  <span class="badge bg-info">Host: Katy</span>
 
+**David Wiley** | *Lumen Learning*
 
+### Why “Open Education” Will Become “Generative AI Education”
 
-**Speaker** | *David Wiley*
+#### Abstract
 
-**Lumen Learning**
+This talk will connect the past to the present, and then peek briefly into the future. First, Dr. Wiley - creator of the first open license for educational materials and early advocate for openness in education - will take us back to the 1990s to describe his original motivations for applying the principles of open source software in education, as well as the goals he and other early proponents of open education hoped to accomplish. The talk will then skip ahead to the present and, after revisiting those early goals in the context of the current technological landscape, describe why generative AI is now a more effective tool for accomplishing these goals than OER is. The similarities between the early criticisms of OER and the current criticisms of generative AI will be discussed. Finally, the talk will close with a look ahead to some of the ways generative AI will allow our pedagogies to expand and improve in the future.
 
-
-### Abstract | Forthcoming
+![David Wiley](David_Wiley.jpg){fig-alt="Front-facing headshot of David Wiley"  width="50%" fig-align="center"}
 
 
 ## 1:00 - 1:15 | Break
