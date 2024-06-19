@@ -79,6 +79,8 @@ In this session, we present examples of design challenges that—through partici
 
 ## 1:00 - 1:15 | Break
 
+## 1:15 - 2:45 | Concurrent Session 21
+
 ### Session 21.1  | Wildcard & Addressing Inequities
 
 <a href="https://uvic.zoom.us/j/87420104805?pwd=j76DBoaiu950OEOC1dHXgiRk8aXIsy.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>  <span class="badge bg-info">Host: Meo</span>
