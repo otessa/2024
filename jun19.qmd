@@ -222,7 +222,22 @@ As hybrid education emerges as the future of teaching, there is an urgent need f
 
 :::
 
-### Poster Session 19.3 | Forthcoming
+### Poster Session 19.3 | Wildcard
+
+#### Creating Capacity for Digital Transformation of Education:  Mode and Disciplinary Barriers in the Development of Highly Qualified Personnel
+
+**Practice**
+
+**Hongran Cui** | *Thompson Rivers University*
+
+**Valerie Irvine** | *University of Victoria*
+
+::: {.callout-note collapse="true"}
+##### Abstract
+
+According to Statistics Canada, in November 2023, about 20% of Canadians were working from home, which was higher than the pre-pandemic level of 6% in January 2020. Beyond that, Canadian institutions, faculty, and students have a high interest in hybrid learning. Canada’s educational institutions have faced an accelerated transformation toward the integration of technology (Johnson, 2023). In a review of university websites across Canada, only two provide students with the possibility to study remotely for their PhD program, the University of Toronto and Nipissing University, which is 10% (2 out of 20) of all Canadian universities that have PhD programs. When it comes to a PhD program in educational technology, or one that has a specialization in educational technology, only 5% (1 out of 20) of Canadian institutions provides this pathway. While this review excludes the EdD pathway, we did find two EdD programs in educational technology that could be accessed entirely online at Athabasca University and Ontario Tech University. In the face of technological and conceptual shifts of entire sectors that prioritize digital learning and digital literacy (e.g., B.C. Digital Learning Strategy), there needs to be more discussion about how to make PhD study more accessible, specifically in educational technology. The consequence of having unqualified personnel leading or executing these initiatives are significant.
+:::
+
 <!-- <a href="https://uvic.zoom.us/j/89134427758?pwd=v9PqDCWe6n0CMXtg1WHkzb10hyr3xr.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>  <span class="badge bg-info">Host: Meo</span>-->
 
 ## 3:45 - 4:00  | Discussion/Networking Pod Drop-In
