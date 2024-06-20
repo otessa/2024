@@ -70,7 +70,9 @@ This study employs discourse analysis to examine how graduate students in instru
 This study investigates the pedagogical and instructional design process of a hybrid course in pre-service teacher education. Guided by the Community of Inquiry (COI) framework, the course design aims to foster social, cognitive, and teaching presence in a hybrid learning environment. A narrative self-study approach was employed to reflect on the teaching practices of an instructor and a graduate teaching assistant (GTA). Data was obtained from their teaching reflections, which examined the impact of implementing a hybrid face-to-face driver model informed by COI on enhancing pre-service teachers' learning experiences. The study results suggest that the hybrid course design provides a more inclusive and empowering learning environment. The flexible format allows students to demonstrate their learning and collaborate effectively while developing socio-emotional awareness. By examining the experiences and knowledge of an instructor and a GTA, this study offers insights into how to effectively incorporate digital technologies and hybrid practices to promote a deeper understanding of lived experience in learning within the context of teacher education programs. With the rapid shift to online learning because of the COVID-19 pandemic, understanding how to design and implement hybrid courses becomes crucial in empowering pre-service teachers for the digital era.
 :::
 
-#### 2:15 - 2:45 | Encouraging Academic Writing: Online Graduate Education Writing Retreats | Transitions of Online Learning and Teaching
+#### 2:15 - 2:45 | Presentation Cancelled
+<!--
+Encouraging Academic Writing: Online Graduate Education Writing Retreats | Transitions of Online Learning and Teaching
 
 **Research**
 
@@ -82,6 +84,7 @@ Graduate students frequently feel pressure to write, and this pressure frequentl
 
 This presentation will cover the pragmatics of these writing retreats and the importance of encouragement as part of academic success(Wong et al., 2019), including scholarly writing. Applying neuroscience findings to the writing process(Bane, 2012; Hanson, 2009, 2013) informs these retreats and contributes to their positive reception.
 :::
+-->
 
 ### Session 22.2 | Sustaining Positive Change
 <a href="https://uvic.zoom.us/j/87682931096?pwd=pBz2hEIllG0TOjjTUil6t0v83ARlqz.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>  <span class="badge bg-info">Host: Colin</span>

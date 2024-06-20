@@ -155,7 +155,10 @@ School closures due to the COVID-19 pandemic resulted in a shift to emergency re
 <a href="https://uvic.zoom.us/j/89800215355?pwd=jj0UbzmfDOI0y0mOxaPIc2zFfwkAhR.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>  <span class="badge bg-info">Host: Colin</span>
 
 
-#### 1:15 - 2:15 | A world of pure imagination: scaling learning design with a design system 
+#### 1:15 - 2:15 | Presentation Cancelled
+
+<!--
+A world of pure imagination: scaling learning design with a design system 
 
 
 **Workshop** 
@@ -168,6 +171,7 @@ In the post-pandemic era, educational institutions face the critical task of sca
 
 :::
 
+-->
 
 
 
