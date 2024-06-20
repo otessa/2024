@@ -33,11 +33,13 @@ There is ONE Zoom link for all Ethics in Design Showcases in Session 15.
 :::
 
 ### Showcase 15.1  | Sustaining Positive Change
-<a href="https://otessa.org/ethicsindesign/2024/06/09/framework-and-model-for-engagement/" target="_blank" class="badge bg-warning"><b>Link to Post</b></a>
+
 
 
 
 ####  A framework and model for engagement in open, online spaces
+<a href="https://otessa.org/ethicsindesign/2024/06/09/framework-and-model-for-engagement/" target="_blank" class="badge bg-warning"><b>Link to Post</b></a>  
+<a href="https://docs.google.com/presentation/d/1dXmgIp1rnx3RE0HXZAYKDJ26MDyQFk67uMKRfk6w_4k/edit?usp=sharing" target="_blank" class="badge bg-warning"><b>Link to Slides</b></a>
 
 
 **Michelle Harrison** | *Thompson Rivers University*
@@ -102,6 +104,8 @@ The Research and Foresight team at eCampusOntario has created four artifacts, gr
 
 #### 1:15 - 2:15 | Implementing the “Code of Best Practices in Fair Dealing for Open Educational Resources (OER).”
  
+ <a href="https://docs.google.com/presentation/d/1rTcV12AsCiQF5Q_kofIzZcTNMoBxS8aAHoNQQLSQUXM/edit#slide=id.g2b8e0d738b1_0_853" target="_blank" class="badge bg-warning"><b>Link to Slides</b></a>  <a href="https://www.carl-abrc.ca/influencing-policy/copyright/carl-codes-of-best-practice/" target="_blank" class="badge bg-warning"><b>Link to Resources</b></a>
+
 **Practice**
 
 **Ann Ludbrook** | *Toronto Metropolitan University*

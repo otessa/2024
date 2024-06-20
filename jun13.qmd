@@ -19,6 +19,8 @@ IN PERSON at Campus de Longueuil of Université de Sherbrooke
 Internet Radio Feeds Available: <a href="https://radio.uvic.ca/public/otessa" target="_blank" class="badge bg-primary"><b> Audio Stream 1</b></a> <a href="https://radio.uvic.ca/public/otessa_2" target="_blank" class="badge bg-primary"><b>Audio Stream 2</b></a> <a href="https://radio.uvic.ca/public/otessa_3" target="_blank" class="badge bg-primary"><b>Audio Stream 3</b></a> <a href="https://radio.uvic.ca/public/otessa_4" target="_blank" class="badge bg-primary"><b>Audio Stream 4</b></a>
 
 ## 9:30 - *9:45* | OTESSA Future, Announcements, & Land Acknowledgement
+<a href="https://docs.google.com/presentation/d/1aZtCVNxVfMzEHOEIY29MXJ77VW32Mn6IAN-OxEBkoSY/edit?usp=sharing" target="_blank" class="badge bg-warning"><b>Link to Slides</b></a>
+
 
 ::: {.callout-note}
 Please note the new time of 9:45 am!
