@@ -159,7 +159,9 @@ Virtual Learning Environments (VLE) have interested scholars since the late 20th
 
 
 
-#### 1:45 - 2:15 | Incorporating Open Educational Technology for Designing Diversity, Equity, and Inclusion Learning Experiences 
+#### 1:45 - 2:15 | 
+<!--
+Incorporating Open Educational Technology for Designing Diversity, Equity, and Inclusion Learning Experiences 
 
 **Practice**
 
@@ -172,6 +174,7 @@ The increasing number of English as a Second Language (ESL) students seeking edu
 
 :::
 
+-->
 #### 2:15 - 2:45 | Flexibility and Foresight in Ontario Postsecondary Education: Voices from the Field
 
 <span class="badge rounded-pill bg-danger">Moved from Session 8.2</span>
