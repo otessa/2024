@@ -15,12 +15,12 @@ Online Only. All times Eastern Daylight Time.
 <!--
 ## 11:00 - 11:30 | Co-Located Shared Meet-Up | Drop-In
 
-<a href="https://uvic.zoom.us/j/85851693272?pwd=i3BoOIaTeIsHMrhDaFDYHmpfGMUAnl.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Meo</span>
+<!--<a href="https://uvic.zoom.us/j/85851693272?pwd=i3BoOIaTeIsHMrhDaFDYHmpfGMUAnl.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>-->   <span class="badge bg-info">Host: Meo</span>
 
 
 
 ## 11:30 - 12:00 | Conference Welcome, Announcements, & Land Acknowledgement
-<a href="https://uvic.zoom.us/j/81199937374?pwd=6k5bYLtWaEuroDIjZosPexbBmhKJgM.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Katy</span>
+<!--<a href="https://uvic.zoom.us/j/81199937374?pwd=6k5bYLtWaEuroDIjZosPexbBmhKJgM.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>-->   <span class="badge bg-info">Host: Katy</span>
 
 -->
 <!--
@@ -29,7 +29,7 @@ Online Only. All times Eastern Daylight Time.
 
 ### Invited Speaker Session 17.1 | Forthcoming
 
-<a href="https://uvic.zoom.us/j/82399824423?pwd=0ASQrtippQqIN7b3rWPmR89tgfwpRl.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>    <span class="badge bg-info">Host: Katy</span>
+<!--<a href="https://uvic.zoom.us/j/82399824423?pwd=0ASQrtippQqIN7b3rWPmR89tgfwpRl.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>-->    <span class="badge bg-info">Host: Katy</span>
 
 
 
@@ -37,7 +37,7 @@ Online Only. All times Eastern Daylight Time.
 
 ### Invited Speaker Session 17.2 | Forthcoming
 
-<a href="https://uvic.zoom.us/j/88336683214?pwd=GmweELTX5kwbPgcG7JV1qL3ViSbkrm.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Colin</span>
+<!--<a href="https://uvic.zoom.us/j/88336683214?pwd=GmweELTX5kwbPgcG7JV1qL3ViSbkrm.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>-->   <span class="badge bg-info">Host: Colin</span>
 
 
 ## 1:00 - 1:15 | Break
@@ -48,7 +48,7 @@ Online Only. All times Eastern Daylight Time.
 22.5 Minutes per Presentation
 
 ### Session 18.1  | Transitions of Online Learning and Teaching
-<a href="https://uvic.zoom.us/j/83030190183?pwd=LmX0TLq8dTu9OF1SHT8xuvmoaBKMvW.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Katy</span>
+<!--<a href="https://uvic.zoom.us/j/83030190183?pwd=LmX0TLq8dTu9OF1SHT8xuvmoaBKMvW.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>-->   <span class="badge bg-info">Host: Katy</span>
 
 
 #### 1:15 - 1:40 | Reinforcing equity and justice in learning: Using digital co-created rubrics and audio feedback as/for assessment
@@ -103,7 +103,7 @@ We will share findings from our qualitative case-study research that examined th
 
 ### Session 18.2 | Wildcard
 
-<a href="https://uvic.zoom.us/j/82914387379?pwd=wdZF3ODHWrLE5MzZ3Yvatv4gUbffCK.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Meo</span>
+<!--<a href="https://uvic.zoom.us/j/82914387379?pwd=wdZF3ODHWrLE5MzZ3Yvatv4gUbffCK.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>-->   <span class="badge bg-info">Host: Meo</span>
 
 
 #### 1:15 - 2:15 | Design Principles for K-12 Online Learning: A Comparative Review of Standards and Theoretical Models 
@@ -136,7 +136,7 @@ Podcasting is an equitable vehicle for knowledge translation, but does it “cou
 
 ### Session 18.3 | Addressing Inequities & Sustaining Positive Change
 
-<a href="https://uvic.zoom.us/j/85361080321?pwd=PqtXI3a8lP81ch7PUlP0cyM00eNLU4.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Colin</span>
+<!--<a href="https://uvic.zoom.us/j/85361080321?pwd=PqtXI3a8lP81ch7PUlP0cyM00eNLU4.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>-->   <span class="badge bg-info">Host: Colin</span>
 
 #### 1:15 - 2:15 | The Open Book Collective and Thoth: Bringing publishers, libraries and service providers together to establish a shared sustainable open ecosystem for books 
 
@@ -174,7 +174,7 @@ Open education “by its very nature open education [can] not be fully delimited
 
 ## 3:00 - 3:45 | Poster Session 19
 
-<a href="https://uvic.zoom.us/j/86496190813?pwd=kEYdFD7WKPWH50WmOic996obPp3I8R.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>   <span class="badge bg-info">Host: Katy</span>
+<!--<a href="https://uvic.zoom.us/j/86496190813?pwd=kEYdFD7WKPWH50WmOic996obPp3I8R.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>-->   <span class="badge bg-info">Host: Katy</span>
 
 ::: {.callout-dark}
 #### Note
@@ -246,9 +246,9 @@ As hybrid education emerges as the future of teaching, there is an urgent need f
 According to Statistics Canada, in November 2023, about 20% of Canadians were working from home, which was higher than the pre-pandemic level of 6% in January 2020. Beyond that, Canadian institutions, faculty, and students have a high interest in hybrid learning. Canada’s educational institutions have faced an accelerated transformation toward the integration of technology (Johnson, 2023). In a review of university websites across Canada, only two provide students with the possibility to study remotely for their PhD program, the University of Toronto and Nipissing University, which is 10% (2 out of 20) of all Canadian universities that have PhD programs. When it comes to a PhD program in educational technology, or one that has a specialization in educational technology, only 5% (1 out of 20) of Canadian institutions provides this pathway. While this review excludes the EdD pathway, we did find two EdD programs in educational technology that could be accessed entirely online at Athabasca University and Ontario Tech University. In the face of technological and conceptual shifts of entire sectors that prioritize digital learning and digital literacy (e.g., B.C. Digital Learning Strategy), there needs to be more discussion about how to make PhD study more accessible, specifically in educational technology. The consequence of having unqualified personnel leading or executing these initiatives are significant.
 :::
 
-<!-- <a href="https://uvic.zoom.us/j/89134427758?pwd=v9PqDCWe6n0CMXtg1WHkzb10hyr3xr.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>  <span class="badge bg-info">Host: Meo</span>-->
+<!-- <!--<a href="https://uvic.zoom.us/j/89134427758?pwd=v9PqDCWe6n0CMXtg1WHkzb10hyr3xr.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>-->  <span class="badge bg-info">Host: Meo</span>-->
 
 ## 3:45 - 4:00  | Discussion/Networking Pod Drop-In
-<a href="https://uvic.zoom.us/j/84341354720?pwd=pzwsfWkLSGjEHNgaPHrHxe6s4emn1b.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>  <span class="badge bg-info">Host: Meo</span>
+<!--<a href="https://uvic.zoom.us/j/84341354720?pwd=pzwsfWkLSGjEHNgaPHrHxe6s4emn1b.1" target="_blank" class="badge bg-success"><b>Link to Zoom</b></a>-->  <span class="badge bg-info">Host: Meo</span>
 
 
